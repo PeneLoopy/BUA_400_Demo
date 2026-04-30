@@ -766,3 +766,14 @@ plot_ly(
 
 
 ```
+
+
+### gt anova table
+
+tidy(aov_model) |>
+  gt() |>
+  fmt_number(columns = c(statistic, p.value), decimals = 4) |>
+  tab_header(
+    title = "Analysis of Variance - LN Distribution Efficiency Index",
+    subtitle = "Pre vs. Post Pandemic by Quarter and Disributor"
+  )

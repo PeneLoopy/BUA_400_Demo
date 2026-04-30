@@ -3,3 +3,49 @@
 .quarto-dashboard .bslib-value-box .value-box-value {
   font-size: clamp(.5em, 2cqw, 1.4em) !important;
 }
+
+
+/* Full-page background image for the FIRST dashboard page */
+.quarto-dashboard-page:first-of-type {
+  background-image: url("images/Slide1_Graphic_Faded.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Optional overlay for readability */
+.quarto-dashboard-page:first-of-type::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 0;
+}
+
+.quarto-dashboard-page:first-of-type > * {
+  position: relative;
+  z-index: 1;
+}
+
+/* Hero title styling */
+.quarto-dashboard-page:first-of-type .hero-title .card-title {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1.2;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.4);
+}
+
+.center-img {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  width: 100%;
+}
+
+.center-img img {
+  display: block;
+  margin: 0 auto;
+}
