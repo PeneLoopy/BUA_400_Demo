@@ -49,9 +49,9 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
     job'.
 
 -   This course is designed to 'flatten' the learning curve
-    for young analysts.
+    for analysts at beginning of their career.
     
--   Learning to explore data without a defined 'right answer' helps build confidence and creative thing skills.
+-   Learning to explore data without a defined 'right answer' helps build confidence and creative thinking skills.
 
 ### Column {width="50%"}
 
@@ -153,7 +153,7 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
    - create interactive data visualizations to effectively explore and communicate data insights.
 
    - develop a structured approach to exploratory data analysis, including evidence-based decision-making for analysis plans.
-   - Collaborate effectively on data analysis projects using version control.
+   - collaborate effectively on data analysis projects using version control.
 
    - present analytical findings and thought processes through GitHub Pages.
 
@@ -271,13 +271,15 @@ While students do this they will ALSO be building their GitHub repositories.
 
 ### Column {width="50%"} 
 
-**Data and Questions**
+**Questions**
 
 - Has in-person sustained demand for movies changed due to the pandemic?
 
 - Does this change differ by movie distributor?
 
-- Data were aggregated from Box Office Mojo and filtered to six largest U.S. distributors from 2016 to 2015.
+**Data**
+
+- Data were aggregated from Box Office Mojo and filtered to six largest U.S. distributors from 2016 to 2025.
 
 - Response is Sustained Demand Index (SDI) for each movie.
 
@@ -406,7 +408,7 @@ highchart(type = "stock") |>
       y = all6_xts$Disney
     )),
     name = "Disney",
-    color = "cornflowerblue"
+    color = "blue"
   ) |>
   
     hc_add_series(
@@ -415,7 +417,7 @@ highchart(type = "stock") |>
       y = all6_xts$WB
     )),
     name = "Warner Bros.",
-    color = "blue"
+    color = "cornflowerblue"
   ) |>
 
   # shaded region
@@ -519,9 +521,11 @@ aov_model <- aov(LN_RPT ~ Period + Distrib + QTR +
 aov_smry_tbl <- tidy(aov_model)
 
 aov_smry_tbl |>
-  kbl(digits = 4,
-      col.names = c("Term", "DF", "Sum Sq", "Mean Sq", "F", "p")) |>
-  kable_classic(full_width = FALSE)
+  kbl(
+    digits = 4,
+    col.names = c("Term", "DF", "Sum Sq", "Mean Sq", "F", "p")
+  ) |>
+  kable_material_dark(full_width = FALSE)
 
 
 
@@ -545,15 +549,15 @@ aov_smry_tbl |>
 
 ### Column {width="50%"}
 
-**This is a quick demonstration but in a classroom setting the students will be asked to follow through with:**
+**This is a quick demonstration. In a classroom setting, students will be asked to follow through with:**
 
   - careful use of group means comparisons.
   
-  - additional plots to illustrate specific findings
+  - additional plots to highlight specific findings.
   
   - consideration of how to augment data to ask follow up questions.
   
-  - clearly communicating finding and a follow up analysis plan.
+  - clearly communicating findings and a follow up analysis plan.
   
 <br>
   
@@ -577,7 +581,7 @@ aov_smry_tbl |>
   
 - the Whitman School of Management for continued support of the Business Analytics major.
   
-- my colleagues and my students who inspire me with thoughtful questions that have helped this development process.
+- my colleagues and my students who consistently inspire me with thoughtful questions and ideas. 
   
 #### Row
 
@@ -590,3 +594,4 @@ aov_smry_tbl |>
 ### Column {width="50%"}
 
 ![](img/thankyou.png)
+
