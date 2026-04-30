@@ -40,7 +40,7 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 **Background**
 
--   EDA is 2026 should ideally be interactive and leverage AI tools.
+-   Exploratory Data Analysis (EDA) in 2026 should ideally be interactive and leverage AI tools.
 
 -   This course teaches students to explore, analyze, and
     communicate with data.
@@ -51,7 +51,7 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 -   This course is designed to 'flatten' the learning curve
     for young analysts.
     
--   Learning to explore data without a defined 'the right answer' helps build confidence and creative thing skills.
+-   Learning to explore data without a defined 'right answer' helps build confidence and creative thing skills.
 
 ### Column {width="50%"}
 
@@ -370,7 +370,7 @@ highchart(type = "stock") |>
       y = all6_xts$Lionsgate
     )),
     name = "Lionsgate",
-    color = "green"
+    color = "lightgreen"
   ) |>
 
   hc_add_series(
@@ -379,7 +379,7 @@ highchart(type = "stock") |>
       y = all6_xts$Paramount
     )),
     name = "Paramount",
-    color = "royalblue"
+    color = "lightblue"
   ) |>
 
   hc_add_series(
@@ -406,7 +406,7 @@ highchart(type = "stock") |>
       y = all6_xts$Disney
     )),
     name = "Disney",
-    color = "blue"
+    color = "cornflowerblue"
   ) |>
   
     hc_add_series(
@@ -415,7 +415,7 @@ highchart(type = "stock") |>
       y = all6_xts$WB
     )),
     name = "Warner Bros.",
-    color = "darkblue"
+    color = "blue"
   ) |>
 
   # shaded region
