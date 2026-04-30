@@ -1,0 +1,2035 @@
+rank,movie,num_theaters,tot_gross,release_date,distrib
+1,Finding Dory,4305,486295561,2016-06-17,Walt Disney Studios Motion Pictures
+2,Rogue One: A Star Wars Story,4157,532177324,2016-12-16,Walt Disney Studios Motion Pictures
+3,Captain America: Civil War,4226,408084349,2016-05-06,Walt Disney Studios Motion Pictures
+4,The Secret Life of Pets,4381,368623860,2016-07-08,Universal Pictures
+5,The Jungle Book,4144,364001123,2016-04-15,Walt Disney Studios Motion Pictures
+6,Deadpool,3856,363070709,2016-02-12,20th Century Fox
+7,Zootopia,3959,341268248,2016-03-04,Walt Disney Studios Motion Pictures
+8,Batman v Superman: Dawn of Justice,4256,330360194,2016-03-25,Warner Bros.
+9,Suicide Squad,4255,325100054,2016-08-05,Warner Bros.
+10,Star Wars: Episode VII - The Force Awakens,4134,936662225,2016-12-18,Walt Disney Studios Motion Pictures
+11,Doctor Strange,3882,232641920,2016-11-04,Walt Disney Studios Motion Pictures
+12,Fantastic Beasts and Where to Find Them,4144,234037575,2016-11-18,Warner Bros.
+13,Moana,3875,248757044,2016-11-23,Walt Disney Studios Motion Pictures
+14,The Revenant,3711,183637894,2016-12-25,20th Century Fox
+15,Jason Bourne,4039,162434410,2016-07-29,Universal Pictures
+16,Star Trek Beyond,3928,158848340,2016-07-22,Paramount Pictures
+17,X-Men: Apocalypse,4153,155442489,2016-05-27,20th Century Fox
+18,Sing,4029,270395425,2016-12-21,Universal Pictures
+19,Trolls,4066,153856089,2016-11-04,20th Century Fox
+20,Kung Fu Panda 3,3987,143528619,2016-01-29,20th Century Fox
+21,Ghostbusters,3963,128350574,2016-07-15,Sony Pictures Releasing
+22,Central Intelligence,3508,127440871,2016-06-17,Warner Bros.
+23,The Legend of Tarzan,3591,126643061,2016-07-01,Warner Bros.
+24,Sully,3955,125070033,2016-09-09,Warner Bros.
+25,Bad Moms,3215,113257297,2016-07-29,STX Entertainment
+26,The Angry Birds Movie,3932,107509366,2016-05-20,Sony Pictures Releasing
+27,Independence Day: Resurgence,4130,103144286,2016-06-24,20th Century Fox
+28,The Conjuring 2,3356,102470008,2016-06-10,Warner Bros.
+29,Sausage Party,3135,97685686,2016-08-12,Sony Pictures Releasing
+30,The Magnificent Seven,3696,93432655,2016-09-23,Sony Pictures Releasing
+31,Arrival,3115,100546139,2016-11-11,Paramount Pictures
+32,Ride Along 2,3192,91221830,2016-01-15,Universal Pictures
+33,Don't Breathe,3384,89217875,2016-08-26,Screen Gems
+34,Miss Peregrine's Home for Peculiar Children,3835,87242834,2016-09-30,20th Century Fox
+35,The Accountant,3402,86260045,2016-10-14,Warner Bros.
+36,Daddy's Home,3483,150357137,2016-12-25,Paramount Pictures
+37,Teenage Mutant Ninja Turtles: Out of the Shadows,4071,82051601,2016-06-03,Paramount Pictures
+38,The Purge: Election Year,2821,79213375,2016-07-01,Universal Pictures
+39,Alice Through the Looking Glass,3763,77041381,2016-05-27,Walt Disney Studios Motion Pictures
+40,Pete's Dragon,3702,76233151,2016-08-12,Walt Disney Studios Motion Pictures
+41,The Girl on the Train,3241,75395035,2016-10-07,Universal Pictures
+42,Boo! A Madea Halloween,2299,73206343,2016-10-21,Lionsgate
+43,Storks,3922,72679278,2016-09-23,Warner Bros.
+44,10 Cloverfield Lane,3427,72082998,2016-03-11,Paramount Pictures
+45,Lights Out,2835,67268835,2016-07-22,Warner Bros.
+46,The Divergent Series: Allegiant,3740,66184051,2016-03-18,Lionsgate
+47,Now You See Me 2,3232,65075540,2016-06-10,Lionsgate
+48,Hacksaw Ridge,2971,67209615,2016-11-04,Lionsgate
+49,Ice Age: Collision Course,3997,64063008,2016-07-22,20th Century Fox
+50,The Boss,3495,63285885,2016-04-08,Universal Pictures
+51,London Has Fallen,3492,62524260,2016-03-04,Focus Features
+52,Miracles from Heaven,3155,61705123,2016-03-16,TriStar Pictures
+53,Deepwater Horizon,3403,61433527,2016-09-30,Lionsgate
+54,My Big Fat Greek Wedding 2,3179,59689605,2016-03-25,Universal Pictures
+55,Jack Reacher: Never Go Back,3780,58697076,2016-10-21,Paramount Pictures
+56,Me Before You,2762,56245075,2016-06-03,Warner Bros.
+57,The BFG,3392,55483770,2016-07-01,Walt Disney Studios Motion Pictures
+58,Neighbors 2: Sorority Rising,3416,55455765,2016-05-20,Universal Pictures
+59,Passengers,3478,100014699,2016-12-21,Sony Pictures Releasing
+60,The Shallows,2962,55124043,2016-06-24,Sony Pictures Releasing
+61,Barbershop: The Next Cut,2676,54030051,2016-04-15,Warner Bros.
+62,13 Hours,2917,52853219,2016-01-15,Paramount Pictures
+63,Office Christmas Party,3210,54767494,2016-12-09,Paramount Pictures
+64,The Huntsman: Winter's War,3802,48390190,2016-04-22,Universal Pictures
+65,Kubo and the Two Strings,3279,48023088,2016-08-19,Focus Features
+66,Warcraft,3406,47365290,2016-06-10,Universal Pictures
+67,How to Be Single,3357,46843513,2016-02-12,Warner Bros.
+68,The Big Short,2529,70259870,2016-12-11,Paramount Pictures
+69,Mike and Dave Need Wedding Dates,3008,46009673,2016-07-08,20th Century Fox
+70,War Dogs,3258,43034523,2016-08-19,Warner Bros.
+71,Almost Christmas,2379,42158780,2016-11-11,Universal Pictures
+72,Money Monster,3104,41012075,2016-05-13,TriStar Pictures
+73,The Hateful Eight,2938,54117416,2016-12-25,The Weinstein Company
+74,Allied,3160,40098064,2016-11-23,Paramount Pictures
+75,Nerve,2538,38583626,2016-07-27,Lionsgate
+76,Sisters,2978,87044645,2016-12-18,Universal Pictures
+77,Risen,2915,36880033,2016-02-19,Sony Pictures Releasing
+78,Assassin's Creed,2996,54647948,2016-12-21,20th Century Fox
+79,The Nice Guys,2865,36261763,2016-05-20,Warner Bros.
+80,The Boy,2671,35819556,2016-01-22,STX Entertainment
+81,Dirty Grandpa,2912,35593113,2016-01-22,Lionsgate
+82,Ouija: Origin of Evil,3168,35144505,2016-10-21,Universal Pictures
+83,The 5th Wave,2908,34916787,2016-01-22,Sony Pictures Releasing
+84,Inferno,3576,34343574,2016-10-28,Sony Pictures Releasing
+85,Mother's Day,3291,32492859,2016-04-29,Open Road Films (II)
+86,Gods of Egypt,3117,31153464,2016-02-26,Lionsgate
+87,La La Land,3236,151101803,2016-12-09,Lionsgate
+88,Why Him?,3008,60323786,2016-12-23,20th Century Fox
+89,"Hail, Caesar!",2248,30498085,2016-02-05,Universal Pictures
+90,Alvin and the Chipmunks: The Road Chip,3705,85886987,2016-12-18,20th Century Fox
+91,When the Bough Breaks,2246,29747603,2016-09-09,Screen Gems
+92,Zoolander 2,3418,28848693,2016-02-12,Paramount Pictures
+93,Joy,2924,56451232,2016-12-25,20th Century Fox
+94,The Finest Hours,3143,27569558,2016-01-29,Walt Disney Studios Motion Pictures
+95,Florence Foster Jenkins,1528,27383770,2016-08-12,Paramount Pictures
+96,Manchester by the Sea,1213,47695371,2016-11-18,Roadside Attractions
+97,Hell or High Water,1505,27007844,2016-08-12,Lionsgate
+98,The Forest,2509,26594261,2016-01-08,Focus Features
+99,Ben-Hur,3084,26410477,2016-08-19,Paramount Pictures
+100,Fences,2368,57682904,2016-12-16,Paramount Pictures
+101,The Witch,2204,25138705,2016-02-19,A24
+102,Collateral Beauty,3028,31016021,2016-12-16,Warner Bros.
+103,Bridget Jones's Baby,2930,24252420,2016-09-16,Universal Pictures
+104,Kevin Hart: What Now?,2567,23591043,2016-10-14,Universal Pictures
+105,Whiskey Tango Foxtrot,2413,23083334,2016-03-04,Paramount Pictures
+106,Snowden,2443,21587519,2016-09-16,Open Road Films (II)
+107,Mechanic: Resurrection,2258,21218403,2016-08-26,Lionsgate
+108,Free State of Jones,2815,20810036,2016-06-24,STX Entertainment
+109,Blair Witch,3121,20777061,2016-09-16,Lionsgate
+110,God's Not Dead 2,2419,20774575,2016-04-01,Pure Flix Entertainment
+111,Keanu,2681,20591853,2016-04-29,Warner Bros.
+112,Middle School: The Worst Years of My Life,2822,20007149,2016-10-07,Lionsgate
+113,Nine Lives,2264,19700032,2016-08-05,EuropaCorp
+114,Race,2387,19206207,2016-02-19,Focus Features
+115,Spotlight,1227,45055776,2016-11-06,Open Road Films (II)
+116,Brooklyn,962,38322743,2016-11-04,Fox Searchlight Pictures
+117,The Choice,2631,18730891,2016-02-05,Lionsgate
+118,Eye in the Sky,1089,18704595,2016-03-11,Bleecker Street Media
+119,Bad Santa 2,2945,17782178,2016-11-23,Broad Green Pictures
+120,Masterminds,3042,17368022,2016-09-30,Relativity Media
+121,Concussion,2841,34542474,2016-12-25,Sony Pictures Releasing
+122,Norm of the North,2411,17062499,2016-01-15,Lionsgate
+123,The Birth of a Nation,2105,15861566,2016-10-07,Fox Searchlight Pictures
+124,Eddie the Eagle,2044,15789389,2016-02-26,20th Century Fox
+125,The Infiltrator,1601,15436808,2016-07-13,Broad Green Pictures
+126,Keeping Up with the Joneses,3022,14904426,2016-10-21,20th Century Fox
+127,Criminal,2683,14708696,2016-04-15,Lionsgate
+128,"Hello, My Name Is Doris",979,14444999,2016-03-11,Roadside Attractions
+129,The Edge of Seventeen,1945,14431633,2016-11-18,STX Entertainment
+130,Love & Friendship,826,14016568,2016-05-13,Roadside Attractions
+131,Point Break,2910,28782481,2016-12-25,Warner Bros.
+132,Hillary's America: The Secret History of the Democratic Party,1217,13099931,2016-07-15,Pure Flix / Quality Flix
+133,Triple 9,2205,12639297,2016-02-26,Open Road Films (II)
+134,The Light Between Oceans,1500,12545979,2016-09-02,Walt Disney Studios Motion Pictures
+135,Moonlight,1564,27854932,2016-10-21,A24
+136,The Good Dinosaur,3749,123087120,2016-11-25,Walt Disney Studios Motion Pictures
+137,The Hunger Games: Mockingjay - Part 2,4175,281723902,2016-11-20,Lionsgate
+138,Fifty Shades of Black,2075,11686940,2016-01-29,Open Road Films (II)
+139,No Manches Frida,465,11528613,2016-09-02,Pantelion Films
+140,Café Society,631,11103205,2016-07-15,Lionsgate
+141,Pride and Prejudice and Zombies,2931,10938134,2016-02-05,Screen Gems
+142,The Darkness,1769,10753574,2016-05-13,BH Tilt
+143,Creed,3502,109767581,2016-11-25,Warner Bros.
+144,Nocturnal Animals,1262,10663357,2016-11-18,Focus Features
+145,The Lady in the Van,602,10021175,2016-12-04,Sony Pictures Classics
+146,Room,862,14677654,2016-10-16,A24
+147,The Perfect Match,925,9669521,2016-03-11,Lionsgate
+148,Popstar: Never Stop Never Stopping,2313,9639125,2016-06-03,Universal Pictures
+149,Hardcore Henry,3015,9252038,2016-04-08,STX Entertainment
+150,Meet the Blacks,1015,9097072,2016-04-01,Freestyle Releasing
+151,Carol,790,12711491,2016-11-20,The Weinstein Company
+152,Queen of Katwe,1259,8874389,2016-09-23,Walt Disney Studios Motion Pictures
+153,Ratchet & Clank,2895,8821329,2016-04-29,Focus Features
+154,The Lobster,560,8700374,2016-05-13,A24
+NA,2016 Re-release,NA,NA,NA,NA
+155,Dangal,338,12391761,2016-12-21,UTV Motion Pictures
+156,A Beautiful Planet,155,15650615,2016-04-29,IMAX
+157,The Wild Life,2493,8005586,2016-09-09,Lionsgate
+158,Loving,572,7751969,2016-11-04,Focus Features
+159,Shut In,2058,6900335,2016-11-11,EuropaCorp
+160,The Brothers Grimsby,2235,6874837,2016-03-11,Sony Pictures Releasing
+161,The Danish Girl,794,11114018,2016-11-27,Focus Features
+162,The Young Messiah,1769,6490401,2016-03-11,Focus Features
+163,Jackie,508,13960394,2016-12-02,Fox Searchlight Pictures
+164,Southside with You,897,6304223,2016-08-26,Roadside Attractions
+165,Captain Fantastic,550,5879835,2016-07-08,Bleecker Street Media
+166,Sultan,283,6200000,2016-07-06,Yash Raj Films
+167,Lion,1802,51738905,2016-11-25,The Weinstein Company
+168,Hunt for the Wilderpeople,200,5205468,2016-06-24,The Orchard
+169,Bleed for This,1549,5083906,2016-11-18,Open Road Films (II)
+170,Incarnate,1737,4799774,2016-12-02,BH Tilt
+171,Absolutely Fabulous: The Movie,355,4772155,2016-07-22,Fox Searchlight Pictures
+172,Hands of Stone,2011,4712792,2016-08-26,The Weinstein Company
+173,Don't Think Twice,175,4417667,2016-07-22,The Film Arcade
+174,The Meddler,464,4267218,2016-04-22,Sony Pictures Classics
+NA,2016 Re-release,NA,NA,NA,NA
+175,Ae Dil Hai Mushkil,302,4264983,2016-10-28,FIP
+176,A Hologram for the King,523,4212494,2016-04-22,Roadside Attractions
+177,Swiss Army Man,636,4210454,2016-06-24,A24
+178,45 Years,251,4247285,2016-12-23,IFC Films
+179,Denial,648,4073489,2016-09-30,Bleecker Street Media
+180,Morgan,2020,3915251,2016-09-02,20th Century Fox
+181,Kabali,236,3903095,2016-07-21,-
+182,The Man Who Knew Infinity,288,3866794,2016-04-29,IFC Films
+183,Where to Invade Next,308,3827261,2016-02-12,Drafthouse Films
+184,Max Steel,2034,3818664,2016-10-14,Open Road Films (II)
+185,Batman: The Killing Joke,1325,3775000,2016-07-25,Fathom Events
+186,Midnight Special,521,3712282,2016-03-18,Warner Bros.
+187,Anomalisa,573,3759286,2016-12-30,Paramount Pictures
+188,Rules Don't Apply,2386,3652206,2016-11-23,20th Century Fox
+189,Miss Sloane,1648,3500605,2016-11-25,EuropaCorp
+190,Indignation,317,3401155,2016-07-29,Roadside Attractions
+191,Everybody Wants Some!!,454,3400278,2016-03-30,Paramount Pictures
+192,Maggie's Plan,335,3351735,2016-05-20,Sony Pictures Classics
+193,A Man Called Ove,194,3479315,2016-09-30,Music Box Films
+194,Sing Street,525,3237118,2016-04-15,The Weinstein Company
+195,The Mermaid,106,3232685,2016-02-19,Sony Pictures Releasing
+196,Green Room,777,3220371,2016-04-15,A24
+197,Our Kind of Traitor,399,3153157,2016-07-01,Roadside Attractions
+198,Compadres,368,3127773,2016-04-22,Pantelion Films
+199,The Martian,3854,228433663,2016-10-02,20th Century Fox
+200,The Other Side of the Door,585,3000342,2016-03-04,20th Century Fox
+1,Star Wars: Episode VIII - The Last Jedi,4232,620181382,2017-12-15,Walt Disney Studios Motion Pictures
+2,Beauty and the Beast,4210,504014165,2017-03-17,Walt Disney Studios Motion Pictures
+3,Wonder Woman,4165,412563408,2017-06-02,Warner Bros.
+4,Guardians of the Galaxy: Vol. 2,4347,389813101,2017-05-05,Walt Disney Studios Motion Pictures
+5,Spider-Man: Homecoming,4348,334201140,2017-07-07,Sony Pictures Releasing
+6,It,4148,327481748,2017-09-08,Warner Bros.
+7,Thor: Ragnarok,4080,315058289,2017-11-03,Walt Disney Studios Motion Pictures
+8,Despicable Me 3,4535,264624300,2017-06-30,Universal Pictures
+9,Logan,4071,226277068,2017-03-03,20th Century Fox
+10,The Fate of the Furious,4329,226008385,2017-04-14,Universal Pictures
+11,Justice League,4051,229024295,2017-11-17,Warner Bros.
+12,Dunkirk,4014,188045546,2017-07-21,Warner Bros.
+13,Coco,3987,210460015,2017-11-22,Walt Disney Studios Motion Pictures
+14,The Lego Batman Movie,4088,175750384,2017-02-10,Warner Bros.
+15,Get Out,3143,176040665,2017-02-24,Universal Pictures
+16,The Boss Baby,3829,175003033,2017-03-31,20th Century Fox
+17,Pirates of the Caribbean: Dead Men Tell No Tales,4276,172558876,2017-05-26,Walt Disney Studios Motion Pictures
+18,Jumanji: Welcome to the Jungle,3849,404515480,2017-12-20,Sony Pictures Releasing
+19,Kong: Skull Island,3846,168052812,2017-03-10,Warner Bros.
+20,Hidden Figures,3416,169607287,2017-12-25,20th Century Fox
+21,Cars 3,4256,152901115,2017-06-16,Walt Disney Studios Motion Pictures
+22,War for the Planet of the Apes,4100,146880162,2017-07-14,20th Century Fox
+23,Split,3373,138291365,2017-01-20,Universal Pictures
+24,Transformers: The Last Knight,4132,130168683,2017-06-21,Paramount Pictures
+25,Rogue One: A Star Wars Story,4157,532177324,2017-12-16,Walt Disney Studios Motion Pictures
+26,Wonder,3519,132422809,2017-11-17,Lionsgate
+27,La La Land,3236,151101803,2017-12-09,Lionsgate
+28,Sing,4029,270395425,2017-12-21,Universal Pictures
+29,Girls Trip,2648,115171585,2017-07-21,Universal Pictures
+30,Fifty Shades Darker,3714,114581250,2017-02-10,Universal Pictures
+31,Baby Driver,3226,107825862,2017-06-28,TriStar Pictures
+32,Annabelle: Creation,3565,102092201,2017-08-11,Warner Bros.
+33,Daddy's Home 2,3575,104029443,2017-11-10,Paramount Pictures
+34,Murder on the Orient Express,3354,102826543,2017-11-10,20th Century Fox
+35,Kingsman: The Golden Circle,4038,100229647,2017-09-22,20th Century Fox
+36,John Wick: Chapter 2,3113,92029184,2017-02-10,Lionsgate
+37,Blade Runner 2049,4058,92054159,2017-10-06,Warner Bros.
+38,The Emoji Movie,4075,86089513,2017-07-28,Sony Pictures Releasing
+39,Power Rangers,3693,85364450,2017-03-24,Lionsgate
+40,The Mummy,4035,80227895,2017-06-09,Universal Pictures
+41,The Hitman's Bodyguard,3377,75468583,2017-08-18,Lionsgate
+42,Alien: Covenant,3772,74262031,2017-05-19,20th Century Fox
+43,Captain Underpants: The First Epic Movie,3529,73921000,2017-06-02,20th Century Fox
+44,A Bad Moms Christmas,3615,72110659,2017-11-01,STX Entertainment
+45,A Dog's Purpose,3178,64508620,2017-01-27,Universal Pictures
+46,Pitch Perfect 3,3468,104897530,2017-12-22,Universal Pictures
+47,The Lego Ninjago Movie,4047,59281555,2017-09-22,Warner Bros.
+48,Baywatch,3647,58060186,2017-05-25,Paramount Pictures
+49,The Shack,2888,57386418,2017-03-03,Lionsgate
+50,Happy Death Day,3535,55683845,2017-10-13,Universal Pictures
+51,Ferdinand,3630,84410380,2017-12-15,20th Century Fox
+52,Atomic Blonde,3326,51687870,2017-07-28,Focus Features
+53,American Made,3098,51342000,2017-09-29,Universal Pictures
+54,The Dark Tower,3451,50701325,2017-08-04,Sony Pictures Releasing
+55,The Greatest Showman,3342,174340174,2017-12-20,20th Century Fox
+56,Boo 2! A Madea Halloween,2388,47319572,2017-10-20,Lionsgate
+57,Lion,1802,51738905,2017-11-25,The Weinstein Company
+58,Snatched,3511,45852178,2017-05-12,20th Century Fox
+59,The Great Wall,3328,45540830,2017-02-17,Universal Pictures
+60,Smurfs: The Lost Village,3610,45020282,2017-04-07,Sony Pictures Releasing
+61,Going in Style,3076,45018541,2017-04-07,Warner Bros.
+62,All Eyez on Me,2471,44922302,2017-06-16,Lionsgate
+63,xXx: Return of Xander Cage,3651,44898413,2017-01-20,Paramount Pictures
+64,Passengers,3478,100014699,2017-12-21,Sony Pictures Releasing
+65,47 Meters Down,2471,44307191,2017-06-16,Entertainment Studios Motion Pictures
+66,The Big Sick,2597,42873127,2017-06-23,Lionsgate
+67,Moana,3875,248757044,2017-11-23,Walt Disney Studios Motion Pictures
+68,Ghost in the Shell,3440,40563557,2017-03-31,Paramount Pictures
+69,Valerian and the City of a Thousand Planets,3553,41189488,2017-07-21,STX Entertainment
+70,The Star,2976,40852824,2017-11-17,Sony Pictures Releasing
+71,King Arthur: Legend of the Sword,3702,39175066,2017-05-12,Warner Bros.
+72,Jigsaw,2941,38052832,2017-10-27,Lionsgate
+73,American Assassin,3154,36249674,2017-09-15,Lionsgate
+74,The Foreigner,2515,34393507,2017-10-13,STX Entertainment
+75,"Everything, Everything",2801,34121140,2017-05-19,Warner Bros.
+76,Wind River,2890,33800859,2017-08-04,The Weinstein Company
+77,Geostorm,3246,33700160,2017-10-20,Warner Bros.
+78,Monster Trucks,3119,33370166,2017-01-13,Paramount Pictures
+79,Fist Fight,3185,32187017,2017-02-17,Warner Bros.
+80,How to Be a Latin Lover,1203,32149404,2017-04-28,Pantelion Films
+81,Lady Bird,1557,48958273,2017-11-03,A24
+82,Fences,2368,57682904,2017-12-16,Paramount Pictures
+83,Patriots Day,3120,31886361,2017-12-21,Lionsgate
+84,Kidnap,2418,30971040,2017-08-04,Aviron Pictures
+85,Underworld: Blood Wars,3070,30353973,2017-01-06,Screen Gems
+86,The Mountain Between Us,3259,30348555,2017-10-06,20th Century Fox
+87,Life,3146,30234022,2017-03-24,Sony Pictures Releasing
+88,Why Him?,3008,60323786,2017-12-23,20th Century Fox
+89,The Nut Job 2: Nutty by Nature,4003,28370522,2017-08-11,Open Road Films (II)
+90,Rings,2931,27793018,2017-02-03,Paramount Pictures
+91,Logan Lucky,3031,27780977,2017-08-18,Bleecker Street Media
+92,Home Again,3036,27020284,2017-09-08,Open Road Films (II)
+93,Resident Evil: The Final Chapter,3104,26830068,2017-01-27,Screen Gems
+94,The House,3134,25584504,2017-06-30,Warner Bros.
+95,Gifted,2215,24801212,2017-04-07,Fox Searchlight Pictures
+96,"Three Billboards Outside Ebbing, Missouri",1726,54513740,2017-11-10,Fox Searchlight Pictures
+97,The Bye Bye Man,2220,22395806,2017-01-13,STX Entertainment
+98,Victoria & Abdul,1060,22245070,2017-09-22,Focus Features
+99,Rough Night,3162,22105643,2017-06-16,Sony Pictures Releasing
+100,My Little Pony: The Movie,2528,21885107,2017-10-06,Lionsgate
+101,Leap!,2705,21858070,2017-08-25,The Weinstein Company
+NA,2017 Re-release,NA,NA,NA,NA
+102,Sleepless,1803,20783704,2017-01-13,Open Road Films (II)
+103,Diary of a Wimpy Kid: The Long Haul,3174,20738724,2017-05-19,20th Century Fox
+104,Manchester by the Sea,1213,47695371,2017-11-18,Roadside Attractions
+105,The Circle,3163,20497844,2017-04-28,STX Entertainment
+106,Baahubali 2: The Conclusion,425,20186659,2017-04-28,Great India Films
+107,CHIPS,2464,18600152,2017-03-24,Warner Bros.
+108,Assassin's Creed,2996,54647948,2017-12-21,20th Century Fox
+109,Only the Brave,2577,18343983,2017-10-20,Sony Pictures Releasing
+110,Darkest Hour,1733,56468410,2017-11-22,Focus Features
+111,The Disaster Artist,1010,21120616,2017-12-01,A24
+112,Mother!,2368,17800004,2017-09-15,Paramount Pictures
+113,The Zookeeper's Wife,1057,17571660,2017-03-31,Focus Features
+114,The Glass Castle,1461,17273059,2017-08-11,Lionsgate
+115,Downsizing,2668,24449754,2017-12-22,Paramount Pictures
+116,Flatliners,2552,16883115,2017-09-29,Sony Pictures Releasing
+117,Detroit,3007,16790139,2017-07-28,Annapurna Pictures
+118,The Shape of Water,2341,63859435,2017-12-01,Fox Searchlight Pictures
+119,Moonlight,1564,27854932,2017-10-21,A24
+120,The Case for Christ,1386,14682684,2017-04-07,Pure Flix Entertainment
+121,Wish Upon,2250,14301505,2017-07-14,Broad Green Pictures
+122,It Comes at Night,2533,13985117,2017-06-09,A24
+123,Born in China,1508,13873211,2017-04-21,Walt Disney Studios Motion Pictures
+124,Megan Leavey,1956,13406883,2017-06-09,Bleecker Street Media
+125,Father Figures,2902,17501244,2017-12-22,Warner Bros.
+126,The Founder,1115,12786053,2017-01-19,The Weinstein Company
+127,All the Money in the World,2123,25113707,2017-12-25,TriStar Pictures
+128,Battle of the Sexes,1822,12638526,2017-09-22,Fox Searchlight Pictures
+129,Before I Fall,2346,12241122,2017-03-03,Open Road Films (II)
+130,"Roman J. Israel, Esq.",1669,11962778,2017-11-17,Sony Pictures Releasing
+131,Unforgettable,2417,11368012,2017-04-21,Warner Bros.
+132,Fantastic Beasts and Where to Find Them,4144,234037575,2017-11-18,Warner Bros.
+133,The Beguiled,941,10709995,2017-06-23,Focus Features
+134,Live by Night,2822,10378555,2017-12-25,Warner Bros.
+135,The Belko Experiment,1341,10166820,2017-03-17,BH Tilt
+136,Thank You for Your Service,2083,9536300,2017-10-27,Universal Pictures
+137,Marshall,821,10051659,2017-10-13,Open Road Films (II)
+138,Rock Dog,2077,9420546,2017-02-24,Lionsgate
+139,Arrival,3115,100546139,2017-11-11,Paramount Pictures
+140,The Lost City of Z,866,8580410,2017-04-14,Bleecker Street Media
+141,The Promise,2251,8224288,2017-04-21,Open Road Films (II)
+142,A Cure for Wellness,2704,8106986,2017-02-17,20th Century Fox
+143,The Space Between Us,2812,7885294,2017-02-03,STX Entertainment
+144,Jackie,508,13960394,2017-12-02,Fox Searchlight Pictures
+145,Gold,2166,7227038,2017-01-27,The Weinstein Company
+146,Let There Be Light,774,7233471,2017-10-27,Atlas Distribution Company
+147,I Am Not Your Negro,320,7123919,2017-02-03,Magnolia Pictures
+148,Beatriz at Dinner,683,7115854,2017-06-09,Roadside Attractions
+149,Birth of the Dragon,1633,6901965,2017-08-25,BH Tilt
+150,Silence,1580,7100177,2017-12-23,Paramount Pictures
+151,The Snowman,1815,6700035,2017-10-20,Universal Pictures
+152,Collateral Beauty,3028,31016021,2017-12-16,Warner Bros.
+153,Same Kind of Different as Me,1362,6423605,2017-10-20,Pure Flix Entertainment
+154,Lowriders,365,6303560,2017-05-12,BH Tilt
+155,Loving Vincent,218,6735118,2017-09-22,Good Deed Entertainment
+156,Maudie,233,6170998,2017-04-14,Sony Pictures Classics
+157,Just Getting Started,2161,6069605,2017-12-08,Broad Green Pictures
+158,All Saints,846,5802208,2017-08-25,Affirm Films
+159,Suburbicon,2046,5775178,2017-10-27,Paramount Pictures
+160,Paris Can Wait,447,5617731,2017-05-12,Sony Pictures Classics
+161,The Man Who Invented Christmas,720,5676486,2017-11-22,Bleecker Street Media
+162,20th Century Women,650,5664764,2017-12-28,A24
+163,Molly's Game,1708,28780744,2017-12-25,STX Entertainment
+164,The Florida Project,229,5904366,2017-10-06,A24
+165,Your Name.,311,5017246,2017-04-07,FUNimation Entertainment
+166,Office Christmas Party,3210,54767494,2017-12-09,Paramount Pictures
+167,A Beautiful Planet,155,15650615,2017-04-29,IMAX
+168,Tiger Zinda Hai,299,5560921,2017-12-22,Yash Raj Films
+169,Call Me by Your Name,914,18095701,2017-11-24,Sony Pictures Classics
+170,The Book of Henry,650,4504974,2017-06-16,Focus Features
+171,Stronger,645,4211129,2017-09-22,Roadside Attractions
+172,The Hero,447,4077333,2017-06-09,The Orchard
+173,Dangal,338,12391761,2017-12-21,UTV Motion Pictures
+174,Sleight,591,3986245,2017-04-28,BH Tilt
+175,A United Kingdom,317,3902185,2017-02-10,Fox Searchlight Pictures
+176,Norman,373,3814868,2017-04-14,Sony Pictures Classics
+177,Friend Request,2573,3759078,2017-09-22,Entertainment Studios Motion Pictures
+178,A Monster Calls,1523,3740823,2017-12-23,Focus Features
+179,Table 19,868,3614896,2017-03-03,Fox Searchlight Pictures
+180,Their Finest,330,3603484,2017-04-07,STX Entertainment
+181,Phoenix Forgotten,1626,3600146,2017-04-21,Cinelou Films
+182,Trolls,4066,153856089,2017-11-04,20th Century Fox
+183,An Inconvenient Sequel: Truth to Power,556,3496795,2017-07-28,Paramount Pictures
+184,Til Death Do Us Part,562,3455267,2017-09-29,Novus Content
+185,Raees,265,3262954,2017-01-25,Zee Cinema
+186,Close Encounters of the Third Kind,901,3100479,2017-09-01,Sony Pictures Releasing
+NA,2017 Re-release,NA,NA,NA,NA
+187,Colossal,327,3029287,2017-04-07,Neon
+188,Ingrid Goes West,647,3024308,2017-08-11,Neon
+189,Leap!,237,2844490,2017-02-24,Entertainment One
+190,The Oscar Nominated Short Films 2017: Live Action,272,2835355,2017-02-10,Shorts International
+191,Kedi,130,2835047,2017-02-10,Oscilloscope
+192,Doctor Strange,3882,232641920,2017-11-04,Walt Disney Studios Motion Pictures
+193,Hacksaw Ridge,2971,67209615,2017-11-04,Lionsgate
+194,Wolf Warrior 2,53,2721100,2017-07-28,The H Collective
+195,My Cousin Rachel,531,2716368,2017-06-09,Fox Searchlight Pictures
+196,Showtime Championship Boxing: Floyd Mayweather vs. Conor McGregor,532,2620183,2017-08-26,Fathom Events
+197,A Question of Faith,661,2587072,2017-09-29,Pure Flix Entertainment
+198,Is Genesis History?,704,2570392,2017-02-23,Fathom Events
+199,Newsies: The Broadway Musical,780,2545060,2017-02-18,Fathom Events
+200,IN OUR HANDS: Battle for Jerusalem,733,2534370,2017-05-23,Fathom Events
+1,Black Panther,4084,700059566,2018-02-16,Walt Disney Studios Motion Pictures
+2,Avengers: Infinity War,4474,678815482,2018-04-27,Walt Disney Studios Motion Pictures
+3,Incredibles 2,4410,608581744,2018-06-15,Walt Disney Studios Motion Pictures
+4,Jurassic World: Fallen Kingdom,4485,417719760,2018-06-22,Universal Pictures
+5,Deadpool 2,4349,318491426,2018-05-18,20th Century Fox
+6,The Grinch,4141,271740675,2018-11-09,Universal Pictures
+7,Jumanji: Welcome to the Jungle,3849,404515480,2018-12-20,Sony Pictures Releasing
+8,Mission: Impossible - Fallout,4395,220159104,2018-07-27,Paramount Pictures
+9,Ant-Man and the Wasp,4206,216648740,2018-07-06,Walt Disney Studios Motion Pictures
+10,Solo: A Star Wars Story,4381,213767512,2018-05-25,Walt Disney Studios Motion Pictures
+11,Venom,4250,213515506,2018-10-05,Sony Pictures Releasing
+12,A Star Is Born,3904,215288866,2018-10-05,Warner Bros.
+13,Aquaman,4184,335061807,2018-12-21,Warner Bros.
+14,Bohemian Rhapsody,4000,216428042,2018-11-02,20th Century Fox
+15,A Quiet Place,3808,188024361,2018-04-06,Paramount Pictures
+16,Ralph Breaks the Internet,4017,201091711,2018-11-21,Walt Disney Studios Motion Pictures
+17,Crazy Rich Asians,3865,174532921,2018-08-15,Warner Bros.
+18,Hotel Transylvania 3: Summer Vacation,4267,167510016,2018-07-13,Sony Pictures Releasing
+19,Halloween,3990,159342015,2018-10-19,Universal Pictures
+20,Fantastic Beasts: The Crimes of Grindelwald,4163,159555901,2018-11-16,Warner Bros.
+21,The Meg,4118,145443742,2018-08-10,Warner Bros.
+22,Ocean's Eight,4145,140218711,2018-06-08,Warner Bros.
+23,Ready Player One,4234,137690172,2018-03-29,Warner Bros.
+24,The Greatest Showman,3342,174340174,2018-12-20,20th Century Fox
+25,Mamma Mia! Here We Go Again,3514,120634935,2018-07-20,Universal Pictures
+26,The Nun,3876,117450119,2018-09-07,Warner Bros.
+27,Peter Rabbit,3725,115253424,2018-02-09,Sony Pictures Releasing
+28,Creed II,3752,115715889,2018-11-21,Metro-Goldwyn-Mayer (MGM)
+29,Spider-Man: Into the Spider-Verse,3813,190241310,2018-12-14,Sony Pictures Releasing
+30,Mary Poppins Returns,4090,171958438,2018-12-19,Walt Disney Studios Motion Pictures
+31,Star Wars: Episode VIII - The Last Jedi,4232,620181382,2018-12-15,Walt Disney Studios Motion Pictures
+32,The Equalizer 2,3388,102084362,2018-07-20,Sony Pictures Releasing
+33,Rampage,4115,101028233,2018-04-13,Warner Bros.
+34,A Wrinkle in Time,3980,100478608,2018-03-09,Walt Disney Studios Motion Pictures
+35,Fifty Shades Freed,3768,100407760,2018-02-09,Universal Pictures
+36,Christopher Robin,3602,99215042,2018-08-03,Walt Disney Studios Motion Pictures
+37,I Can Only Imagine,2894,83482352,2018-03-16,Roadside Attractions
+38,Smallfoot,4131,83240103,2018-09-28,Warner Bros.
+39,The Post,2851,81903458,2018-12-22,20th Century Fox
+40,Night School,3019,77339130,2018-09-28,Universal Pictures
+41,Bumblebee,3597,127195589,2018-12-21,Paramount Pictures
+42,The First Purge,3038,69488745,2018-07-04,Universal Pictures
+43,Game Night,3502,69179066,2018-02-23,Warner Bros.
+44,Book Club,3169,68566296,2018-05-18,Paramount Pictures
+45,The House with a Clock in Its Walls,3592,68549695,2018-09-21,Universal Pictures
+46,Skyscraper,3822,68420120,2018-07-13,Universal Pictures
+47,Insidious: The Last Key,3150,67745330,2018-01-05,Universal Pictures
+48,Instant Family,3426,67363237,2018-11-16,Paramount Pictures
+49,The Mule,3329,103804407,2018-12-14,Warner Bros.
+50,Blockers,3418,60311495,2018-04-06,Universal Pictures
+51,Pacific Rim: Uprising,3708,59874525,2018-03-23,Universal Pictures
+52,Tomb Raider,3854,58250803,2018-03-16,Warner Bros.
+53,Maze Runner: The Death Cure,3793,58032443,2018-01-26,20th Century Fox
+54,Tag,3382,54730625,2018-06-15,Warner Bros.
+55,The Nutcracker and the Four Realms,3766,54858851,2018-11-02,Walt Disney Studios Motion Pictures
+56,A Simple Favor,3102,53548586,2018-09-14,Lionsgate
+57,Life of the Party,3656,53059911,2018-05-11,Warner Bros.
+58,The Predator,4070,51024708,2018-09-14,20th Century Fox
+59,Overboard,2006,50316123,2018-05-04,Pantelion Films
+60,Sicario: Day of the Soldado,3055,50072235,2018-06-29,Sony Pictures Releasing
+61,I Feel Pretty,3440,48795601,2018-04-20,STX Entertainment
+62,BlacKkKlansman,1914,49275340,2018-08-10,Focus Features
+63,The Shape of Water,2341,63859435,2018-12-01,Fox Searchlight Pictures
+64,Red Sparrow,3064,46874505,2018-03-02,20th Century Fox
+65,Breaking In,2537,46840590,2018-05-11,Universal Pictures
+66,Goosebumps 2: Haunted Halloween,3723,46700633,2018-10-12,Sony Pictures Releasing
+67,12 Strong,3018,45819713,2018-01-19,Warner Bros.
+68,Den of Thieves,2432,44947622,2018-01-19,STX Entertainment
+69,First Man,3640,44936545,2018-10-12,Universal Pictures
+70,Hereditary,2998,44069456,2018-06-08,A24
+71,Acrimony,2006,43549096,2018-03-30,Lionsgate
+72,Sherlock Gnomes,3662,43242871,2018-03-23,Paramount Pictures
+73,Uncle Drew,2742,42469946,2018-06-29,Lionsgate
+74,Widows,2803,42402632,2018-11-16,20th Century Fox
+75,Pitch Perfect 3,3468,104897530,2018-12-22,Universal Pictures
+76,Truth or Dare,3068,41411015,2018-04-13,Universal Pictures
+77,Paddington 2,3702,40891591,2018-01-12,Warner Bros.
+78,"Love, Simon",2434,40826341,2018-03-16,20th Century Fox
+79,Darkest Hour,1733,56468410,2018-11-22,Focus Features
+80,The Commuter,2892,36343858,2018-01-12,Lionsgate
+81,The 15:17 to Paris,3042,36276286,2018-02-09,Warner Bros.
+82,Mile 22,3520,36108758,2018-08-17,STX Entertainment
+83,Alpha,2881,35857181,2018-08-17,Studio 8
+84,Peppermint,2980,35418723,2018-09-07,STX Entertainment
+85,Death Wish,2882,34017028,2018-03-02,Metro-Goldwyn-Mayer (MGM)
+86,The Spy Who Dumped Me,3111,33562069,2018-08-03,Lionsgate
+87,Annihilation,2112,32732301,2018-02-23,Paramount Pictures
+88,Green Book,2648,85080171,2018-11-16,Universal Pictures
+89,Isle of Dogs,1947,32015231,2018-03-23,Fox Searchlight Pictures
+90,Nobody's Fool,2468,31713110,2018-11-02,Paramount Pictures
+91,Adrift,3015,31445012,2018-06-01,STX Entertainment
+92,Ferdinand,3630,84410380,2018-12-15,20th Century Fox
+93,Robin Hood,2827,30824628,2018-11-21,Lionsgate
+94,Super Troopers 2,2125,30617396,2018-04-20,20th Century Fox
+95,Slender Man,2358,30569484,2018-08-10,Screen Gems
+96,"Three Billboards Outside Ebbing, Missouri",1726,54513740,2018-11-10,Fox Searchlight Pictures
+97,Coco,3987,210460015,2018-11-22,Walt Disney Studios Motion Pictures
+98,Teen Titans GO! To the Movies,3188,29790236,2018-07-27,Warner Bros.
+99,Hostiles,2934,29819114,2018-12-22,Entertainment Studios Motion Pictures
+100,The Hate U Give,2375,29719483,2018-10-05,20th Century Fox
+101,"I, Tonya",1450,30014539,2018-12-08,Neon
+102,Searching,2009,26020957,2018-08-24,Screen Gems
+103,Winchester,2480,25091816,2018-02-02,Lionsgate
+104,The Strangers: Prey at Night,2464,24586708,2018-03-09,Aviron Pictures
+105,White Boy Rick,2504,24011188,2018-09-14,Studio 8
+106,Second Act,2607,39282227,2018-12-21,STX Entertainment
+107,Molly's Game,1708,28780744,2018-12-25,STX Entertainment
+108,Won't You Be My Neighbor?,893,22835787,2018-06-08,Focus Features
+109,Overlord,2859,21704844,2018-11-09,Paramount Pictures
+110,Holmes & Watson,2780,30573626,2018-12-25,Sony Pictures Releasing
+111,Proud Mary,2125,20877013,2018-01-12,Screen Gems
+112,The Happytime Murders,3256,20706452,2018-08-24,STX Entertainment
+113,Phantom Thread,1186,21198205,2018-12-25,Focus Features
+114,SuperFly,2220,20545116,2018-06-13,Sony Pictures Releasing
+115,Vice,2534,47836282,2018-12-25,Annapurna Pictures
+116,Show Dogs,3212,17857020,2018-05-18,Global Road Entertainment
+117,Bad Times at the El Royale,2808,17839115,2018-10-12,20th Century Fox
+118,Operation Finale,1818,17612099,2018-08-29,Metro-Goldwyn-Mayer (MGM)
+119,"Paul, Apostle of Christ",1473,17560475,2018-03-23,Affirm Films
+120,Lady Bird,1557,48958273,2018-11-03,A24
+121,Sorry to Bother You,1050,17493096,2018-07-06,Annapurna Pictures
+122,Chappaquiddick,1645,17395520,2018-04-06,Entertainment Studios Motion Pictures
+123,Forever My Girl,1427,16376066,2018-01-19,Roadside Attractions
+124,The Favourite,1554,34366783,2018-11-23,Fox Searchlight Pictures
+125,Hunter Killer,2728,15767460,2018-10-26,Lionsgate
+126,Mortal Engines,3103,15951040,2018-12-14,Universal Pictures
+127,The Girl in the Spider's Web,2929,14841338,2018-11-09,Sony Pictures Releasing
+128,The Possession of Hannah Grace,2298,14837422,2018-11-30,Screen Gems
+129,RBG,432,14017361,2018-05-04,Magnolia Pictures
+130,Eighth Grade,1084,13539709,2018-07-13,A24
+131,Call Me by Your Name,914,18095701,2018-11-24,Sony Pictures Classics
+132,The Darkest Minds,3127,12695691,2018-08-03,20th Century Fox
+133,All the Money in the World,2123,25113707,2018-12-25,TriStar Pictures
+134,Three Identical Strangers,433,12320845,2018-06-29,Neon
+135,Upgrade,1458,11977130,2018-06-01,BH Tilt
+136,Padmaavat,354,11846060,2018-01-25,Viva Pictures
+137,Free Solo,483,17541090,2018-09-28,National Geographic Entertainment
+138,The Old Man & the Gun,1042,11277120,2018-09-28,Fox Searchlight Pictures
+139,Hell Fest,2297,11107431,2018-09-28,Lionsgate
+140,Wonder,3519,132422809,2018-11-17,Lionsgate
+141,The Miracle Season,1707,10230620,2018-04-06,LD Entertainment
+142,Mary Queen of Scots,1052,16468499,2018-12-07,Focus Features
+143,Midnight Sun,2173,9561064,2018-03-23,Global Road Entertainment
+144,Tully,1356,9369755,2018-05-04,Focus Features
+145,Traffik,1046,9186156,2018-04-20,Lionsgate
+146,Unfriended: Dark Web,1547,8866745,2018-07-20,BH Tilt
+147,Welcome to Marwen,1911,10763520,2018-12-21,Universal Pictures
+148,Early Man,2494,8267544,2018-02-16,Lionsgate
+149,The Wife,541,9601092,2018-08-17,Sony Pictures Classics
+150,The Death of Stalin,548,8047856,2018-03-09,IFC Films
+151,They Shall Not Grow Old,1335,17956913,2018-12-17,Warner Bros.
+152,Sanju,359,7909317,2018-06-29,FIP
+153,Unsane,2023,7732899,2018-03-23,Bleecker Street Media
+154,Beautiful Boy,776,7649973,2018-10-12,Amazon Studios
+155,Can You Ever Forgive Me?,555,8803865,2018-10-19,Fox Searchlight Pictures
+156,Mid90s,1206,7362439,2018-10-19,A24
+157,Downsizing,2668,24449754,2018-12-22,Paramount Pictures
+158,Dog Days,2442,6809080,2018-08-08,LD Entertainment
+159,Boy Erased,672,6788692,2018-11-02,Focus Features
+160,Hotel Artemis,2407,6708147,2018-06-08,Global Road Entertainment
+161,A-X-L,1710,6501381,2018-08-24,Global Road Entertainment
+162,Fahrenheit 11/9,1719,6352306,2018-09-21,Briarcliff Entertainment
+163,Unbroken: Path to Redemption,1620,6216897,2018-09-14,Pure Flix Entertainment
+164,The Hurricane Heist,2402,6115825,2018-03-09,Entertainment Studios Motion Pictures
+165,Every Day,1669,6102076,2018-02-23,Orion Pictures
+166,Leave No Trace,361,6046104,2018-06-29,Bleecker Street Media
+167,Once Upon a Deadpool,1566,6100309,2018-12-12,20th Century Fox
+NA,2018 Re-release,NA,NA,NA,NA
+168,Death of a Nation,1005,5885881,2018-08-03,Pure Flix / Quality Flix
+169,Pandas,35,7574012,2018-04-06,Warner Bros.
+170,My Hero Academia: Two Heroes,535,5754556,2018-09-25,FUNimation Entertainment
+171,God's Not Dead: A Light in Darkness,1693,5728940,2018-03-30,Pure Flix Entertainment
+172,Kin,2141,5718096,2018-08-31,Lionsgate
+173,Colette,593,5137622,2018-09-21,Bleecker Street Media
+174,Action Point,2032,5059608,2018-06-01,Paramount Pictures
+175,Beirut,755,5019226,2018-04-11,Bleecker Street Media
+176,Gringo,2404,4969853,2018-03-09,STX Entertainment
+177,Samson,1249,4719928,2018-02-16,Pure Flix Entertainment
+178,Father Figures,2902,17501244,2018-12-22,Warner Bros.
+179,Johnny English Strikes Again,552,4412170,2018-10-26,Universal Pictures
+180,Gotti,503,4343227,2018-06-15,Vertical Entertainment
+181,Blindspotting,523,4333394,2018-07-20,Lionsgate
+182,Burn the Stage: The Movie,645,4201819,2018-11-15,Trafalgar Releasing
+183,Ya veremos,369,4165949,2018-08-31,Pantelion Films
+184,Life Itself,2609,4102648,2018-09-21,Amazon Studios
+185,Sgt. Stubby: An American Hero,1633,4015935,2018-04-13,Fun Academy Media Group
+186,Thor: Ragnarok,4080,315058289,2018-11-03,Walt Disney Studios Motion Pictures
+187,Gosnell: The Trial of America's Biggest Serial Killer,673,3679893,2018-10-12,GVN Releasing
+188,Indivisible,830,3511417,2018-10-26,Pure Flix Entertainment
+189,The Oscar Nominated Short Films 2018: Live Action,272,3508777,2018-02-09,Shorts International
+190,Disobedience,247,3498782,2018-04-27,Bleecker Street Media
+191,Justice League,4051,229024295,2018-11-17,Warner Bros.
+192,First Reformed,334,3448256,2018-05-18,A24
+193,"Juliet, Naked",467,3444895,2018-08-17,Roadside Attractions
+194,Bad Samaritan,2007,3435047,2018-05-04,Electric Entertainment
+195,7 Days in Entebbe,838,3326885,2018-03-16,Focus Features
+196,The Disaster Artist,1010,21120616,2018-12-01,A24
+197,2001: A Space Odyssey,13,3236321,2018-05-18,Warner Bros.
+NA,2018 Re-release,NA,NA,NA,NA
+198,2,314,4152000,2018-11-30,-
+199,The Leisure Seeker,353,3226443,2018-12-15,Sony Pictures Classics
+200,The Sisters Brothers,1141,3143056,2018-09-21,Annapurna Pictures
+1,Avengers: Endgame,4662,858373000,2019-04-26,Walt Disney Studios Motion Pictures
+2,The Lion King,4802,543638043,2019-07-19,Walt Disney Studios Motion Pictures
+3,Toy Story 4,4575,434038008,2019-06-21,Walt Disney Studios Motion Pictures
+4,Frozen II,4440,477373578,2019-11-22,Walt Disney Studios Motion Pictures
+5,Captain Marvel,4310,426829839,2019-03-08,Walt Disney Studios Motion Pictures
+6,Star Wars: Episode IX - The Rise of Skywalker,4406,515202542,2019-12-20,Walt Disney Studios Motion Pictures
+7,Spider-Man: Far from Home,4634,390532085,2019-07-02,Sony Pictures Releasing
+8,Aladdin,4476,355559216,2019-05-24,Walt Disney Studios Motion Pictures
+9,Joker,4374,335451311,2019-10-04,Warner Bros.
+10,It: Chapter Two,4570,211593228,2019-09-06,Warner Bros.
+11,Jumanji: The Next Level,4227,320314960,2019-12-13,Sony Pictures Releasing
+12,Us,3743,175084580,2019-03-22,Universal Pictures
+13,Fast & Furious Presents: Hobbs & Shaw,4344,173956935,2019-08-02,Universal Pictures
+14,John Wick: Chapter 3 - Parabellum,3850,171015687,2019-05-17,Lionsgate
+15,How to Train Your Dragon: The Hidden World,4286,160799505,2019-02-22,Universal Pictures
+16,The Secret Life of Pets 2,4564,158980250,2019-06-07,Universal Pictures
+17,Pokémon: Detective Pikachu,4248,144105346,2019-05-10,Warner Bros.
+18,Once Upon a Time... in Hollywood,3659,142502728,2019-07-26,Sony Pictures Releasing
+19,Shazam!,4306,140371656,2019-04-05,Warner Bros.
+20,Aquaman,4184,335061807,2019-12-21,Warner Bros.
+21,Knives Out,3461,165363234,2019-11-27,Lionsgate
+22,Dumbo,4259,114766307,2019-03-29,Walt Disney Studios Motion Pictures
+23,Maleficent: Mistress of Evil,3820,113929605,2019-10-18,Walt Disney Studios Motion Pictures
+24,Glass,3844,111048468,2019-01-18,Universal Pictures
+25,Godzilla: King of the Monsters,4108,110500138,2019-05-31,Warner Bros.
+26,The Upside,3568,108252517,2019-01-11,STX Entertainment
+27,Ford v Ferrari,3746,117624357,2019-11-15,20th Century Fox
+28,The Lego Movie 2: The Second Part,4303,105806508,2019-02-08,Warner Bros.
+29,Hustlers,3525,104963598,2019-09-13,STX Entertainment
+30,The Addams Family,4107,100044905,2019-10-11,United Artists Releasing
+31,Downton Abbey,3548,96853865,2019-09-20,Focus Features
+32,Rocketman,3610,96368160,2019-05-31,Paramount Pictures
+33,Alita: Battle Angel,3802,85838210,2019-02-14,20th Century Fox
+34,Good Boys,3458,83140306,2019-08-16,Universal Pictures
+35,Spider-Man: Into the Spider-Verse,3813,190241310,2019-12-14,Sony Pictures Releasing
+36,Men in Black: International,4224,80001807,2019-06-14,Sony Pictures Releasing
+37,Annabelle Comes Home,3613,74152591,2019-06-26,Warner Bros.
+38,Yesterday,2755,73286650,2019-06-28,Universal Pictures
+39,A Madea Family Funeral,2442,73257045,2019-03-01,Lionsgate
+40,Zombieland: Double Tap,3468,73123082,2019-10-18,Sony Pictures Releasing
+41,Angel Has Fallen,3336,69030436,2019-08-23,Lionsgate
+42,Scary Stories to Tell in the Dark,3135,68947075,2019-08-09,Lionsgate
+43,Mary Poppins Returns,4090,171958438,2019-12-19,Walt Disney Studios Motion Pictures
+44,X-Men: Dark Phoenix,3721,65845974,2019-06-07,20th Century Fox
+45,Terminator: Dark Fate,4086,62253077,2019-11-01,Paramount Pictures
+46,Abominable,4248,60716390,2019-09-27,Universal Pictures
+47,Dora and the Lost City of Gold,3735,60477943,2019-08-09,Paramount Pictures
+48,Escape Room,2717,57005601,2019-01-04,Sony Pictures Releasing
+49,A Beautiful Day in the Neighborhood,3491,61704055,2019-11-22,Sony Pictures Releasing
+50,Midway,3242,56846802,2019-11-08,Lionsgate
+51,Bumblebee,3597,127195589,2019-12-21,Paramount Pictures
+52,The Curse of La Llorona,3372,54733739,2019-04-19,Warner Bros.
+53,Pet Sematary,3585,54724696,2019-04-05,Paramount Pictures
+54,What Men Want,2912,54611903,2019-02-08,Paramount Pictures
+55,Green Book,2648,85080171,2019-11-16,Universal Pictures
+56,Ad Astra,3460,50188370,2019-09-20,20th Century Fox
+57,Isn't It Romantic,3444,48791187,2019-02-13,Warner Bros.
+58,Gemini Man,3642,48546770,2019-10-11,Paramount Pictures
+59,Ma,2816,45896028,2019-05-31,Universal Pictures
+60,Five Feet Apart,2866,45729221,2019-03-15,Lionsgate
+61,Wonder Park,3838,45216793,2019-03-15,Paramount Pictures
+62,Rambo: Last Blood,3618,44819352,2019-09-20,Lionsgate
+63,Playing with Fire,3185,44451847,2019-11-08,Paramount Pictures
+64,Harriet,2186,43082155,2019-11-01,Focus Features
+65,A Dog's Way Home,3090,42004346,2019-01-11,Sony Pictures Releasing
+66,The Angry Birds Movie 2,3869,41667116,2019-08-13,Sony Pictures Releasing
+67,Little,2667,40860481,2019-04-12,Universal Pictures
+68,Queen & Slim,1715,43808310,2019-11-27,Universal Pictures
+69,Breakthrough,2913,40713082,2019-04-17,20th Century Fox
+70,The Mule,3329,103804407,2019-12-14,Warner Bros.
+71,Crawl,3170,39014193,2019-07-12,Paramount Pictures
+72,Little Women,3308,108101214,2019-12-25,Sony Pictures Releasing
+73,The Intruder,2231,35419122,2019-05-03,Screen Gems
+74,The Hustle,3077,35417038,2019-05-10,United Artists Releasing
+75,Last Christmas,3454,35150750,2019-11-08,Universal Pictures
+76,Overcomer,2293,34746945,2019-08-23,Affirm Films
+77,Cold Pursuit,2630,32138862,2019-02-08,Lionsgate
+78,Doctor Sleep,3855,31581712,2019-11-08,Warner Bros.
+79,Dragon Ball Super: Broly,1267,30712119,2019-01-16,FUNimation Entertainment
+80,Long Shot,3230,30316271,2019-05-03,Lionsgate
+81,Spies in Disguise,3502,66757013,2019-12-25,20th Century Fox
+82,Child's Play,3007,29208403,2019-06-21,United Artists Releasing
+83,Ready or Not,2998,28714231,2019-08-21,Fox Searchlight Pictures
+84,Happy Death Day 2U,3212,28148130,2019-02-13,Universal Pictures
+85,Vice,2534,47836282,2019-12-25,Annapurna Pictures
+86,21 Bridges,2665,28539757,2019-11-22,STX Entertainment
+87,Midsommar,2707,27426361,2019-07-03,A24
+88,Bohemian Rhapsody,4000,216428042,2019-11-02,20th Century Fox
+89,The Art of Racing in the Rain,2765,26395642,2019-08-09,20th Century Fox
+90,Countdown,2675,25621766,2019-10-25,STX Entertainment
+91,Uncut Gems,2686,50023780,2019-12-13,A24
+92,Judy,1627,24313888,2019-09-27,Roadside Attractions
+93,Ralph Breaks the Internet,4017,201091711,2019-11-21,Walt Disney Studios Motion Pictures
+94,Fighting with My Family,2855,22958886,2019-02-14,Metro-Goldwyn-Mayer (MGM)
+95,On the Basis of Sex,1957,24622687,2019-12-25,Focus Features
+96,A Dog's Journey,3279,22782371,2019-05-17,Universal Pictures
+97,Booksmart,2518,22680962,2019-05-24,United Artists Releasing
+98,Parasite,2001,53369749,2019-10-11,Neon
+99,Stuber,3050,22370452,2019-07-12,20th Century Fox
+100,47 Meters Down: Uncaged,2883,22260900,2019-08-16,Entertainment Studios Motion Pictures
+101,Black and Blue,2062,22055313,2019-10-25,Screen Gems
+102,Hellboy,3303,21903748,2019-04-12,Lionsgate
+103,Shaft,2952,21360215,2019-06-14,Warner Bros.
+104,Jojo Rabbit,1173,33370906,2019-10-18,Fox Searchlight Pictures
+105,The Peanut Butter Falcon,1490,20457158,2019-08-09,Roadside Attractions
+106,UglyDolls,3652,20150241,2019-05-03,STX Entertainment
+107,Cats,3380,27166770,2019-12-20,Universal Pictures
+108,Unplanned,1516,19005109,2019-03-29,Pure Flix Entertainment
+109,The Favourite,1554,34366783,2019-11-23,Fox Searchlight Pictures
+110,Bombshell,1721,31762808,2019-12-13,Lionsgate
+111,Richard Jewell,2502,22345542,2019-12-13,Warner Bros.
+112,Charlie's Angels,3452,17803077,2019-11-15,Sony Pictures Releasing
+113,The Farewell,891,17695781,2019-07-12,A24
+114,Brightburn,2607,17300439,2019-05-24,Screen Gems
+115,The Good Liar,2454,17156058,2019-11-15,Warner Bros.
+116,The Kid Who Would Be King,3528,16790790,2019-01-25,20th Century Fox
+117,Missing Link,3437,16649539,2019-04-12,United Artists Releasing
+118,Second Act,2607,39282227,2019-12-21,STX Entertainment
+119,Late Night,2220,15499454,2019-06-07,Amazon Studios
+120,Miss Bala,2203,15006824,2019-02-01,Sony Pictures Releasing
+121,The Prodigy,2530,14856291,2019-02-08,Orion Pictures
+122,A Star Is Born,3904,215288866,2019-10-05,Warner Bros.
+123,Poms,2750,13631124,2019-05-10,STX Entertainment
+124,If Beale Street Could Talk,1018,14915773,2019-12-14,Annapurna Pictures
+125,They Shall Not Grow Old,1335,17956913,2019-12-17,Warner Bros.
+126,The Kitchen,2745,12180032,2019-08-09,Warner Bros.
+127,After,2138,12138565,2019-04-12,Aviron Pictures
+128,Blinded by the Light,2307,11901145,2019-08-16,Warner Bros.
+129,The Lighthouse,978,10867104,2019-10-18,A24
+130,Dark Waters,2112,11136084,2019-11-22,Focus Features
+131,Greta,2417,10532219,2019-03-01,Focus Features
+132,The Best of Enemies,1705,10205616,2019-04-05,STX Entertainment
+133,Black Christmas,2625,10429730,2019-12-13,Universal Pictures
+134,Hotel Mumbai,930,9651611,2019-03-22,Bleecker Street Media
+135,Holmes & Watson,2780,30573626,2019-12-25,Sony Pictures Releasing
+136,Motherless Brooklyn,1342,9277736,2019-11-01,Warner Bros.
+137,No Manches Frida 2,472,9270920,2019-03-15,Pantelion Films
+138,"Where'd You Go, Bernadette",2404,9198356,2019-08-16,United Artists Releasing
+139,Apollo 11,588,9039891,2019-03-01,Neon
+140,Serenity,2561,8547045,2019-01-25,Aviron Pictures
+141,Anna,2114,7743794,2019-06-21,Lionsgate
+142,Penguins,1815,7699452,2019-04-17,Walt Disney Studios Motion Pictures
+143,Brittany Runs a Marathon,1033,7189808,2019-08-23,Amazon Studios
+144,Mary Queen of Scots,1052,16468499,2019-12-07,Focus Features
+145,The Dead Don't Die,690,6563605,2019-06-14,Focus Features
+146,Jexi,2332,6546159,2019-10-11,Lionsgate
+147,Run the Race,1075,6424420,2019-02-22,Roadside Attractions
+148,Free Solo,483,17541090,2019-09-28,National Geographic Entertainment
+149,The Current War,1082,5979540,2019-10-25,101 Studios
+150,Captive State,2549,5958315,2019-03-15,Focus Features
+151,The Wandering Earth,129,5971413,2019-02-05,CMC Pictures
+152,Arctic Dogs,2844,5801249,2019-11-01,Entertainment Studios Motion Pictures
+153,Gloria Bell,1127,5611123,2019-03-08,A24
+154,Gully Boy,270,5566534,2019-02-14,Viva Pictures
+155,Stan & Ollie,754,5470235,2019-12-28,Sony Pictures Classics
+156,The Goldfinch,2542,5332621,2019-09-13,Warner Bros.
+157,Don't Let Go,922,5215062,2019-08-30,OTL Releasing
+158,The Mustang,527,5043620,2019-03-15,Focus Features
+159,The Sun Is Also a Star,2073,4950029,2019-05-17,Warner Bros.
+160,Bring the Soul: The Movie,873,4809800,2019-08-07,Trafalgar Releasing
+161,Pavarotti,288,4600249,2019-06-07,CBS Films
+162,Tolkien,1501,4535154,2019-05-10,Fox Searchlight Pictures
+163,The Last Black Man in San Francisco,207,4515719,2019-06-07,A24
+164,War,305,4654000,2019-10-02,Yash Raj Films
+165,Cold War,270,4580048,2019-12-21,Amazon Studios
+NA,2018 Re-release,NA,NA,NA,NA
+166,Compulsive Liar,89,4697364,2019-07-12,Entertainment One
+167,Brian Banks,1240,4376819,2019-08-09,Bleecker Street Media
+168,The Biggest Little Farm,285,4366949,2019-05-10,Neon
+169,The Grinch,4141,271740675,2019-11-09,Universal Pictures
+170,Amazing Grace,263,4450456,2019-12-07,Neon
+171,Linda Ronstadt: The Sound of My Voice,247,4252657,2019-09-06,Greenwich Entertainment
+172,Uri: The Surgical Strike,132,4186168,2019-01-11,Pack Your Bag Films
+173,Replicas,2329,4046429,2019-01-11,Entertainment Studios Motion Pictures
+174,Pain and Glory,266,4567338,2019-10-04,Sony Pictures Classics
+175,Ne Zha,135,3695533,2019-08-29,Well Go USA Entertainment
+176,Mission Mangal,263,3659413,2019-08-15,FIP
+177,The Oscar Nominated Short Films 2019: Documentary,415,3531094,2019-02-08,Shorts International
+178,BTS World Tour 'Love Yourself' in Seoul,997,3509917,2019-01-26,Fathom Events
+179,The Beach Bum,1100,3502600,2019-03-29,Neon
+180,Echo in the Canyon,147,3355324,2019-05-24,Greenwich Entertainment
+181,Creed II,3752,115715889,2019-11-21,Metro-Goldwyn-Mayer (MGM)
+182,Jay and Silent Bob Reboot,788,4589490,2019-10-15,Saban Films
+183,Maiden,180,3168978,2019-06-28,Sony Pictures Classics
+184,Simmba,301,5102129,2019-12-28,Reliance Big Pictures
+185,Bharat,311,2971549,2019-06-05,Viva Pictures
+186,Honey Boy,460,3012615,2019-11-08,Amazon Studios
+187,Friends 25th: The One With The Anniversary,1586,2884827,2019-09-23,Fathom Events
+188,Saaho,381,2872057,2019-08-29,Yash Raj Films
+189,Fantastic Beasts: The Crimes of Grindelwald,4163,159555901,2019-11-16,Warner Bros.
+190,Kalank,320,2729336,2019-04-17,FIP
+191,Tod@s caen,371,2670925,2019-08-30,Pantelion Films
+192,Everybody Knows,283,2660165,2019-02-08,Focus Features
+193,Instant Family,3426,67363237,2019-11-16,Paramount Pictures
+194,The Art of Self-Defense,550,2410914,2019-07-12,Bleecker Street Media
+195,Arctic,268,2410795,2019-02-01,Bleecker Street Media
+NA,2019 Re-release,NA,NA,NA,NA
+196,Welcome to Marwen,1911,10763520,2019-12-21,Universal Pictures
+197,"My People, My Country",83,2356683,2019-10-01,CMC Pictures
+198,Promare,701,2529324,2019-09-17,GKIDS
+199,Super 30,317,2269878,2019-07-12,Reliance Big Pictures
+200,Faustina: Love and Mercy,810,2243180,2019-10-28,Fathom Events
+1,Bad Boys for Life,3775,206305244,2020-01-17,Sony Pictures Releasing
+2,1917,3987,159227644,2020-12-25,Universal Pictures
+3,Sonic the Hedgehog,4198,148974665,2020-02-14,Paramount Pictures
+4,Jumanji: The Next Level,4227,320314960,2020-12-13,Sony Pictures Releasing
+5,Star Wars: Episode IX - The Rise of Skywalker,4406,515202542,2020-12-20,Walt Disney Studios Motion Pictures
+6,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,4236,84158461,2020-02-07,Warner Bros.
+7,Dolittle,4155,77047065,2020-01-17,Universal Pictures
+8,Little Women,3308,108101214,2020-12-25,Sony Pictures Releasing
+9,The Invisible Man,3636,70410000,2020-02-28,Universal Pictures
+10,The Call of the Wild,3914,62342368,2020-02-21,20th Century Studios
+11,Onward,4310,61555145,2020-03-06,Walt Disney Studios Motion Pictures
+12,Tenet,2930,58504105,2020-09-03,Warner Bros.
+13,Knives Out,3461,165363234,2020-11-27,Lionsgate
+14,Frozen II,4440,477373578,2020-11-22,Walt Disney Studios Motion Pictures
+15,Spies in Disguise,3502,66757013,2020-12-25,20th Century Fox
+16,The Gentlemen,2675,36471795,2020-01-24,STX Entertainment
+17,Just Mercy,2457,36001502,2020-12-25,Warner Bros.
+18,The Croods: A New Age,2211,58568815,2020-11-25,Universal Pictures
+19,Parasite,2001,53369749,2020-10-11,Neon
+20,Fantasy Island,2784,27309289,2020-02-14,Sony Pictures Releasing
+21,Uncut Gems,2686,50023780,2020-12-13,A24
+22,The New Mutants,2754,23852659,2020-08-28,20th Century Studios
+23,Wonder Woman 1984,2218,46801036,2020-12-25,Warner Bros.
+24,Like a Boss,3081,22169514,2020-01-10,Paramount Pictures
+25,The Grudge,2642,21221803,2020-01-03,Sony Pictures Releasing
+26,Unhinged,2402,20831465,2020-08-14,Solstice Studios
+27,The Photograph,2516,20578185,2020-02-14,Universal Pictures
+28,The War with Grandpa,2365,21277892,2020-10-09,101 Studios
+29,Underwater,2791,17291078,2020-01-10,20th Century Fox
+30,The Turning,2571,15472775,2020-01-24,Universal Pictures
+31,Gretel & Hansel,3007,15347654,2020-01-31,United Artists Releasing
+32,Honest Thief,2502,14163574,2020-10-09,Open Road Films (II)
+33,My Hero Academia: Heroes Rising,1231,13304000,2020-02-26,FUNimation Entertainment
+34,Bombshell,1721,31762808,2020-12-13,Lionsgate
+35,The Way Back,2718,13590514,2020-03-06,Warner Bros.
+36,Brahms: The Boy II,2151,12611536,2020-02-21,STX Entertainment
+37,Jojo Rabbit,1173,33370906,2020-10-18,Fox Searchlight Pictures
+38,Impractical Jokers: The Movie,1900,10691091,2020-02-21,truTV
+39,Ford v Ferrari,3746,117624357,2020-11-15,20th Century Fox
+40,Emma.,1732,10055355,2020-02-21,Focus Features
+41,Bloodshot,2861,12561824,2020-03-13,Sony Pictures Releasing
+42,I Still Believe,3250,9868521,2020-03-13,Lionsgate
+43,Come Play,2183,10475990,2020-10-30,Focus Features
+44,Let Him Go,2458,9358025,2020-11-06,Focus Features
+45,Freaky,2472,9030855,2020-11-13,Universal Pictures
+46,Downhill,2311,8287061,2020-02-14,Searchlight Pictures
+47,Weathering with You,1020,8056636,2020-01-15,GKIDS
+48,Cats,3380,27166770,2020-12-20,Universal Pictures
+49,The Hunt,3028,5812500,2020-03-13,Universal Pictures
+50,The Rhythm Section,3049,5437971,2020-01-31,Paramount Pictures
+51,Monster Hunter,1817,15162470,2020-12-18,Screen Gems
+52,A Beautiful Day in the Neighborhood,3491,61704055,2020-11-22,Sony Pictures Releasing
+53,Hocus Pocus,2570,43846,2020-10-02,Walt Disney Studios Motion Pictures
+54,Richard Jewell,2502,22345542,2020-12-13,Warner Bros.
+55,The SpongeBob Movie: Sponge on the Run,326,4810790,2020-08-14,Paramount Pictures
+56,The Broken Hearts Gallery,2221,4067442,2020-09-11,TriStar Pictures
+57,Infidel,1885,4051990,2020-09-18,Cloudburst Entertainment
+58,News of the World,1986,12668325,2020-12-25,Universal Pictures
+59,Portrait of a Lady on Fire,334,3759854,2020-12-06,Neon
+60,Bill & Ted Face the Music,1007,3439660,2020-08-28,United Artists Releasing
+61,2020 Oscar Nominated Short Films,536,3306611,2020-01-31,Magnolia Pictures
+62,Queen & Slim,1715,43808310,2020-11-27,Universal Pictures
+63,The Empty Man,2051,2992948,2020-10-23,20th Century Studios
+64,My Boyfriend's Meds,350,2971116,2020-02-21,Pantelion Films
+65,The Last Full Measure,617,2949212,2020-01-24,Roadside Attractions
+66,Words on Bathroom Walls,1395,2542518,2020-08-21,Roadside Attractions
+67,Star Wars: Episode V - The Empire Strikes Back,2097,2482000,2020-07-10,Walt Disney Studios Motion Pictures
+68,Fatale,1222,6306897,2020-12-18,Lionsgate
+69,The Nightmare Before Christmas,2194,2286000,2020-10-16,Walt Disney Studios Motion Pictures
+70,Ip Man 4: The Finale,125,3956031,2020-12-25,Well Go USA Entertainment
+71,Half Brothers,1386,2241980,2020-12-04,Focus Features
+72,Elf,850,2182679,2020-11-13,New Line Cinema
+73,The Personal History of David Copperfield,1550,1876298,2020-08-28,Searchlight Pictures
+74,The Wretched,101,1814193,2020-05-01,IFC Films
+75,The Lodge,395,2138907,2020-02-07,Neon
+76,Joker,4374,335451311,2020-10-04,Warner Bros.
+77,The Rental,250,1637548,2020-07-24,IFC Films
+78,Once Upon a Time... in Hollywood,3659,142502728,2020-07-26,Sony Pictures Releasing
+79,Jurassic Park,316,1386600,2020-06-19,Universal Pictures
+80,2 Hearts,1683,1349286,2020-10-16,Freestyle Releasing
+81,Promising Young Woman,1448,6460965,2020-12-25,Focus Features
+82,True to the Game 2,281,1200871,2020-11-06,Faith Media Distribution
+83,Peninsula,151,1231407,2020-08-07,Well Go USA Entertainment
+84,The Assistant,25,1100313,2020-01-31,Bleecker Street Media
+85,Love and Monsters,387,1070714,2020-10-16,Paramount Pictures
+86,Relic,133,1047083,2020-07-03,IFC Films
+87,The Tax Collector,138,1044212,2020-08-07,RLJ Entertainment
+88,The Last Shift,886,1034467,2020-09-25,Stage 6 Films
+89,Becky,54,1004574,2020-06-05,Quiver Distribution
+90,The Song of Names,182,1077584,2020-12-25,Sony Pictures Classics
+91,All My Life,970,913935,2020-12-04,Universal Pictures
+92,Mafia Inc,85,889863,2020-02-14,Entertainment One
+93,National Lampoon's Christmas Vacation,620,871000,2020-11-25,Warner Bros.
+94,Jay and Silent Bob Reboot,788,4589490,2020-10-15,Saban Films
+95,A Hidden Life,151,1730597,2020-12-13,Fox Searchlight Pictures
+96,Cut Throat City,389,855894,2020-08-21,Well Go USA Entertainment
+97,The Goonies,457,825000,2020-07-10,Warner Bros.
+98,Sarileru Neekevvaru,300,821000,2020-01-10,Great India Films
+99,Vanguard,1375,793525,2020-11-20,Gravitas Ventures
+100,21 Bridges,2665,28539757,2020-11-22,STX Entertainment
+101,Jaws,187,758300,2020-06-19,Universal Pictures
+102,Possessor,320,752885,2020-10-02,Neon
+103,After We Collided,546,2386483,2020-10-23,Open Road Films (II)
+104,Coco,3987,210460015,2020-11-22,Walt Disney Studios Motion Pictures
+105,Toy Story,2102,727000,2020-11-06,Walt Disney Studios Motion Pictures
+106,"Monsters, Inc.",1875,726000,2020-10-23,Walt Disney Studios Motion Pictures
+107,Baaghi 3,265,721439,2020-03-06,FIP
+108,The Santa Clause,1581,706000,2020-11-20,Walt Disney Studios Motion Pictures
+109,Patterns of Evidence: The Red Sea Miracle,807,696191,2020-02-18,Fathom Events
+110,Pain and Glory,266,4567338,2020-10-04,Sony Pictures Classics
+111,The Polar Express,450,711000,2020-12-04,Warner Bros.
+112,The Last Vermeer,912,685380,2020-11-20,TriStar Pictures
+113,The Addams Family,1307,678926,2020-10-23,United Artists Releasing
+114,Merci pour tout,76,1073969,2020-12-25,Entertainment One
+115,Maleficent: Mistress of Evil,3820,113929605,2020-10-18,Walt Disney Studios Motion Pictures
+116,Ghostbusters,622,605000,2020-07-03,Columbia Pictures
+117,Chhapaak,100,604334,2020-01-10,FIP
+118,Shortcut,704,588869,2020-09-25,Gravitas Ventures
+119,Panga,102,582720,2020-01-24,FIP
+120,Midway,3242,56846802,2020-11-08,Lionsgate
+121,Black Christmas,2625,10429730,2020-12-13,Universal Pictures
+122,Synchronic,327,636673,2020-10-23,Well Go USA Entertainment
+123,Guardians of the Galaxy,1560,542000,2020-11-13,Walt Disney Studios Motion Pictures
+124,Color Out of Space,81,765561,2020-01-24,RLJ Entertainment
+125,Followed,100,538179,2020-06-19,Global View Entertainment
+126,Alone,173,537589,2020-09-18,Magnolia Pictures
+127,Harriet,2186,43082155,2020-11-01,Focus Features
+128,Kajillionaire,547,531430,2020-09-25,Focus Features
+129,The Addams Family,4107,100044905,2020-10-11,United Artists Releasing
+130,Madagascar,NA,516210,2020-12-25,Universal Pictures
+131,100% Wolf,124,658764,2020-10-09,Viva Pictures
+132,The Big Ugly,68,514107,2020-07-24,Vertical Entertainment
+133,The Call,195,516521,2020-10-02,Atlas Distribution Company
+134,The Grinch,450,473781,2020-11-27,Universal Pictures
+135,Dark Waters,2112,11136084,2020-11-22,Focus Features
+136,The Forgotten Carols,70,502252,2020-11-20,Purdie Distribution
+137,Spell,369,500104,2020-10-30,Paramount Pictures
+138,Ava,252,497747,2020-09-25,Vertical Entertainment
+139,Pinocchio,824,1831718,2020-12-25,Roadside Attractions
+140,Beauty and the Beast,527,467000,2020-07-17,Walt Disney Pictures
+141,Once Were Brothers,152,449561,2020-02-21,Magnolia Pictures
+142,Seberg,373,434702,2020-02-21,Amazon Studios
+143,Iron Man,462,430000,2020-07-17,Walt Disney Pictures
+144,Fantastic Fungi,37,1788322,2020-09-20,Area 23a
+145,Infamous,58,429148,2020-06-12,Vertical Entertainment
+146,Tulsa,192,413378,2020-08-21,Pryor Entertainment
+147,Stevie Nicks 24 Karat Gold the Concert,413,410265,2020-10-21,Trafalgar Releasing
+148,Buddy Games,401,405904,2020-11-20,Paramount Pictures
+149,Black Panther,421,367000,2020-07-10,Walt Disney Pictures
+150,The Kid Detective,865,364138,2020-10-16,Stage 6 Films
+151,She Dies Tomorrow,24,398663,2020-07-31,Neon
+152,Greed,596,355308,2020-02-28,Sony Pictures Classics
+153,Yellow Rose,900,367849,2020-10-09,Stage 6 Films
+154,Ride Your Wave,605,332432,2020-02-19,Fathom Events
+155,The Eight Hundred,142,372755,2020-08-28,CMC Pictures
+156,Les Misérables,69,330181,2020-01-10,Amazon Studios
+157,Die Hard,1172,325000,2020-12-04,Walt Disney Studios Motion Pictures
+158,Clemency,127,364716,2020-12-27,Neon
+159,Ordinary Love,22,323688,2020-02-14,Bleecker Street Media
+160,Casper,2757,100836847,2020-05-26,Universal Pictures
+161,The Informer,283,300460,2020-11-06,Vertical Entertainment
+162,Playing with Fire,3185,44451847,2020-11-08,Paramount Pictures
+163,Save Yourselves!,388,301162,2020-10-02,Bleecker Street Media
+164,Judy,1627,24313888,2020-09-27,Roadside Attractions
+165,The Traitor,45,296027,2020-01-31,Sony Pictures Classics
+166,Gremlins,64,295000,2020-07-10,-
+167,How the Grinch Stole Christmas,300,420180,2020-12-04,Universal Pictures
+168,Mystify: Michael Hutchence,597,289573,2020-01-07,Fathom Events
+169,Created Equal: Clarence Thomas in His Own Words,53,282149,2020-01-31,Manifold Productions Inc.
+170,Fatman,259,278378,2020-11-13,Saban Films
+171,An American in Paris,651,267824,2020-01-19,Fathom Events
+172,Wonder Woman,560,252000,2020-12-11,Warner Bros.
+173,Back to the Future,258,247000,2020-07-31,Universal Pictures
+174,Bohemian Rhapsody,NA,240000,2020-07-17,20th Century Fox
+175,63 Up,28,483684,2020-11-27,BritBox
+176,Tokyo Godfathers,519,237571,2020-03-09,Fathom Events
+177,Blind Eyes Opened,534,234505,2020-01-23,Fathom Events
+178,The Climb,408,234429,2020-11-13,Sony Pictures Classics
+179,Doctor Who Live Q&A And Screening,692,228615,2020-01-05,Fathom Events
+180,CatVideoFest 2020,84,437625,2020-02-21,Oscilloscope
+181,Wild Mountain Thyme,450,213440,2020-12-11,Bleecker Street Media
+182,The Secrets We Keep,471,207928,2020-09-16,Bleecker Street Media
+183,Jiang Ziya,55,214670,2020-10-01,Well Go USA Entertainment
+184,Fate/stay night [Heaven's Feel] III. spring song,304,200000,2020-11-18,Fathom Events
+185,Ashfall,18,372562,2020-12-19,Capelight Pictures
+186,National Theater Live: Cyrano de Bergerac,472,198352,2020-02-20,Fathom Events
+187,Zombieland: Double Tap,3468,73123082,2020-10-18,Sony Pictures Releasing
+188,Cunningham,23,265102,2020-12-13,Magnolia Pictures
+189,The Doors: Break On Thru - A Celebration Of Ray Manzarek,330,190160,2020-02-12,Trafalgar Releasing
+190,The Outpost,81,186635,2020-07-03,Fathom Events
+191,The Wolf of Snow Hollow,112,185026,2020-10-09,United Artists Releasing
+192,Come Away,475,184477,2020-11-13,Relativity Media
+193,The Good Liar,2454,17156058,2020-11-15,Warner Bros.
+194,And Then We Danced,23,177262,2020-02-07,Music Box Films
+195,Beanpole,35,196258,2020-01-29,Kino Lorber
+196,Follow Me,50,167962,2020-09-18,Vertical Entertainment
+197,Extra Ordinary,80,164346,2020-03-06,Good Deed Entertainment
+198,Palm Springs,66,164000,2020-07-10,Neon
+199,A Call to Spy,79,159014,2020-10-02,IFC Films
+200,Love Story,650,153504,2020-02-09,Fathom Events
+1,Spider-Man: No Way Home,4336,804793477,2021-12-17,Sony Pictures Releasing
+2,Shang-Chi and the Legend of the Ten Rings,4300,224543292,2021-09-03,Walt Disney Studios Motion Pictures
+3,Venom: Let There Be Carnage,4225,213550366,2021-10-01,Sony Pictures Releasing
+4,Black Widow,4275,183651655,2021-07-09,Walt Disney Studios Motion Pictures
+5,F9: The Fast Saga,4203,173005945,2021-06-25,Universal Pictures
+6,Eternals,4090,164870234,2021-11-05,Walt Disney Studios Motion Pictures
+7,No Time to Die,4407,160891007,2021-10-08,Metro-Goldwyn-Mayer (MGM)
+8,A Quiet Place Part II,3744,160072261,2021-05-28,Paramount Pictures
+9,Ghostbusters: Afterlife,4315,129360575,2021-11-19,Sony Pictures Releasing
+10,Free Guy,4165,121626598,2021-08-13,20th Century Studios
+11,Jungle Cruise,4310,116987516,2021-07-30,Walt Disney Studios Motion Pictures
+12,Godzilla vs. Kong,3084,100916094,2021-03-31,Warner Bros.
+13,Dune: Part One,4125,108327830,2021-10-22,Warner Bros.
+14,Halloween Kills,3727,92002155,2021-10-15,Universal Pictures
+15,Encanto,3980,96093622,2021-11-24,Walt Disney Studios Motion Pictures
+16,Cruella,3922,86103234,2021-05-28,Walt Disney Studios Motion Pictures
+17,Sing 2,3892,162790990,2021-12-22,Universal Pictures
+18,Space Jam: A New Legacy,4002,70592228,2021-07-16,Warner Bros.
+19,The Conjuring: The Devil Made Me Do It,3280,65631050,2021-06-04,Warner Bros.
+20,Candyman,3569,61186570,2021-08-27,Universal Pictures
+21,The Boss Baby 2: Family Business,3688,57300280,2021-07-02,Universal Pictures
+22,The Addams Family 2,4207,56489153,2021-10-01,United Artists Releasing
+23,The Suicide Squad,4019,55817425,2021-08-06,Warner Bros.
+24,Raya and the Last Dragon,2375,54723032,2021-03-05,Walt Disney Studios Motion Pictures
+25,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,2087,49505008,2021-04-23,FUNimation Entertainment
+26,Clifford the Big Red Dog,3700,48947356,2021-11-10,Paramount Pictures
+27,House of Gucci,3477,53809574,2021-11-24,United Artists Releasing
+28,Old,3379,48276510,2021-07-23,Universal Pictures
+29,Tom & Jerry,2563,46536687,2021-02-26,Warner Bros.
+30,The Forever Purge,3058,44539245,2021-07-02,Universal Pictures
+31,Peter Rabbit 2: The Runaway,3346,40501717,2021-06-11,Sony Pictures Releasing
+32,PAW Patrol: The Movie,3189,40127371,2021-08-20,Paramount Pictures
+33,Hitman's Wife's Bodyguard,3361,38014727,2021-06-16,Lionsgate
+34,Mortal Kombat,3114,42326031,2021-04-23,Warner Bros.
+35,Don't Breathe 2,3005,32712950,2021-08-13,Screen Gems
+36,In the Heights,3509,29975167,2021-06-11,Warner Bros.
+37,Snake Eyes,3540,28264325,2021-07-23,Paramount Pictures
+38,West Side Story,2820,38530322,2021-12-10,20th Century Studios
+39,The Matrix Resurrections,3552,37686805,2021-12-22,Warner Bros.
+40,Wrath of Man,3007,27466489,2021-05-07,United Artists Releasing
+41,Nobody,2567,27568035,2021-03-26,Universal Pictures
+42,The Croods: A New Age,2211,58568815,2021-11-25,Universal Pictures
+43,Escape Room: Tournament of Champions,2815,25314753,2021-07-16,Sony Pictures Releasing
+44,Respect,3207,24278399,2021-08-13,Metro-Goldwyn-Mayer (MGM)
+45,Wonder Woman 1984,2218,46801036,2021-12-25,Warner Bros.
+46,Spiral,2991,23216862,2021-05-14,Lionsgate
+47,Ron's Gone Wrong,3560,23009270,2021-10-22,20th Century Studios
+48,Spirit Untamed,3394,17716215,2021-06-04,Universal Pictures
+49,The Green Knight,2798,17173321,2021-07-30,A24
+50,Resident Evil: Welcome to Raccoon City,2803,17000612,2021-11-24,Screen Gems
+51,The King's Man,3180,37176373,2021-12-22,20th Century Studios
+52,The French Dispatch,1225,16124375,2021-10-22,Searchlight Pictures
+53,The Marksman,2018,15566093,2021-01-15,Open Road Films (II)
+54,The Unholy,2057,15532137,2021-04-02,Screen Gems
+55,The Little Things,2206,15342746,2021-01-29,Warner Bros.
+56,Dear Evan Hansen,3364,15002646,2021-09-24,Universal Pictures
+57,King Richard,3302,15129285,2021-11-19,Warner Bros.
+58,Stillwater,2611,14465535,2021-07-30,Focus Features
+59,Christmas with the Chosen: The Messengers,1700,13728000,2021-12-01,Fathom Events
+60,Malignant,3501,13391791,2021-09-10,Warner Bros.
+61,Chaos Walking,2132,13287908,2021-03-05,Lionsgate
+62,My Hero Academia: World Heroes' Mission,1585,12271658,2021-10-29,FUNimation Entertainment
+63,American Underdog,2813,26514814,2021-12-25,Lionsgate
+64,The Last Duel,3065,10853945,2021-10-15,20th Century Studios
+65,Antlers,2800,10619670,2021-10-29,Searchlight Pictures
+66,Cry Macho,4022,10310734,2021-09-17,Warner Bros.
+67,Monster Hunter,1817,15162470,2021-12-18,Screen Gems
+68,Last Night in Soho,3016,10127625,2021-10-29,Focus Features
+69,News of the World,1986,12668325,2021-12-25,Universal Pictures
+70,The Many Saints of Newark,3181,8237403,2021-10-01,Warner Bros.
+71,The Protégé,2577,7446823,2021-08-20,Lionsgate
+72,The Night House,2240,7100581,2021-08-20,Searchlight Pictures
+73,Spencer,1265,7086632,2021-11-05,Neon
+74,Belfast,1255,9250870,2021-11-12,Focus Features
+75,Nightmare Alley,2145,11338107,2021-12-17,Searchlight Pictures
+76,Those Who Wish Me Dead,3379,7407200,2021-05-14,Warner Bros.
+77,The Courier,1641,6613432,2021-03-19,Roadside Attractions
+78,Judas and the Black Messiah,1906,5478009,2021-02-12,Warner Bros.
+79,Licorice Pizza,1977,17318007,2021-11-26,United Artists Releasing
+80,Promising Young Woman,1448,6460965,2021-12-25,Focus Features
+81,Roadrunner: A Film About Anthony Bourdain,954,5354970,2021-07-16,Focus Features
+82,Copshop,3005,5213243,2021-09-17,Open Road Films (II)
+83,Zola,1468,4844399,2021-06-30,A24
+84,Separation,1911,4509143,2021-04-30,Open Road Films (II)
+85,Boogie,1272,4178620,2021-03-05,Focus Features
+86,Fatale,1222,6306897,2021-12-18,Lionsgate
+87,A Journal for Jordan,2500,6545174,2021-12-25,Sony Pictures Releasing
+88,Reminiscence,3265,3900193,2021-08-20,Warner Bros.
+89,12 Mighty Orphans,1047,3689637,2021-06-11,Sony Pictures Releasing
+90,Sooryavanshi,491,3547776,2021-11-05,Reliance Entertainment
+91,Pig,588,3186668,2021-07-16,Neon
+92,The Girl Who Believes in Miracles,1012,3163362,2021-04-02,Atlas Distribution Company
+93,Voyagers,1996,3149935,2021-04-09,Lionsgate
+94,Minari,912,3110580,2021-02-12,A24
+95,'83,486,4055660,2021-12-23,Reliance Entertainment
+96,Dream Horse,1284,2913328,2021-05-21,Bleecker Street Media
+97,The House Next Door: Meet the Blacks 2,539,2893660,2021-06-11,Hidden Empire Film Group (HEFG)
+98,Here Today,1230,2807494,2021-05-07,Stage 6 Films
+99,Finding You,1447,2753985,2021-05-14,Roadside Attractions
+100,Lamb,865,2676410,2021-10-08,A24
+101,The Card Counter,739,2657850,2021-09-10,Focus Features
+102,Land,1349,2577830,2021-02-12,Focus Features
+103,The War with Grandpa,2365,21277892,2021-10-09,101 Studios
+104,The Eyes of Tammy Faye,1352,2404127,2021-09-17,Searchlight Pictures
+105,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)",752,2320649,2021-06-25,Searchlight Pictures
+106,After We Fell,1294,2170750,2021-09-10,Vertical Entertainment
+107,Queen Bees,600,1926706,2021-06-11,Gravitas Ventures
+108,The Father,933,2122771,2021-02-26,Sony Pictures Classics
+109,Show Me the Father,1073,1803226,2021-09-10,Affirm Films
+110,C'mon C'mon,569,1863674,2021-11-19,A24
+111,Profile,2104,1744740,2021-05-14,Focus Features
+112,Titane,562,1442988,2021-10-01,Neon
+113,Together Together,665,1437938,2021-04-23,Bleecker Street Media
+114,Joe Bell,1094,1405488,2021-07-23,Roadside Attractions
+115,Nomadland,1200,3700000,2021-02-19,Searchlight Pictures
+116,Pinocchio,824,1831718,2021-12-25,Roadside Attractions
+117,Pushpa: The Rise - Part 1,400,1320000,2021-12-17,Hamsini Entertainment
+118,Scott Pilgrim vs. the World,448,1867625,NA,Universal Pictures
+119,Wrong Turn,259,1251184,2021-01-26,Saban Films
+120,Honsla Rakh,100,1800000,2021-10-15,-
+121,God's Not Dead: We the People,565,1170367,2021-10-04,Fathom Events
+122,In the Earth,571,1113723,2021-04-16,Neon
+123,The Rescue,561,1060556,2021-10-08,Greenwich Entertainment
+124,Sword Art Online: Progressive - Aria of a Starless Night,840,1050000,2021-12-03,FUNimation Entertainment
+125,True to the Game 3,440,1038255,2021-12-03,Faith Media Distribution
+126,Long Weekend,821,1018532,2021-03-12,Stage 6 Films
+127,The Jesus Music,270,1016725,2021-10-01,Lionsgate
+128,Love Story,300,971000,2021-09-24,Sony Pictures Releasing
+129,Come Play,2183,10475990,2021-10-30,Focus Features
+130,Little Eggs: An African Rescue,320,927154,2021-08-27,Pantelion Films
+131,Witnesses,90,855765,2021-06-04,Purdie Distribution
+132,Scoob!,NA,2188425,2021-05-21,Warner Bros.
+133,The Alpinist,245,844743,2021-09-10,Roadside Attractions
+134,Four Good Days,489,837849,2021-04-30,Vertical Entertainment
+135,The Mauritanian,287,836536,2021-02-12,STX Entertainment
+136,Lamb of God: The Concert Film,138,744813,2021-03-12,Excel Entertainment
+137,Blue Bayou,487,788675,2021-09-17,Focus Features
+138,French Exit,493,741895,2021-02-12,Sony Pictures Classics
+139,L'Arracheuse de temps,72,750623,2021-11-19,Entertainment One
+140,Nine Days,443,694849,2021-07-30,Sony Pictures Classics
+141,Our Friend,818,663725,2021-01-22,Gravitas Ventures
+142,Chal Mera Putt 3,90,644000,2021-10-01,Rhythm Boyz Entertainment
+143,The Sparks Brothers,534,648665,2021-06-18,Focus Features
+144,"If I Can't Have Love, I Want Power",122,626946,2021-08-25,IMAX
+145,Aline,72,667815,2021-11-26,Roadside Attractions
+146,Werewolves Within,270,575783,2021-06-25,IFC Films
+147,City of Lies,502,572493,2021-03-19,Saban Films
+148,Anita,15,556632,2021-11-12,CMC Pictures
+149,Courageous,1023,504855,2021-09-24,Affirm Films
+150,The Truffle Hunters,105,521202,2021-03-05,Sony Pictures Classics
+151,For the Love of Money,519,480774,2021-11-24,Freestyle Releasing
+152,National Champions,1197,475488,2021-12-10,STX Entertainment
+153,Jathi Ratnalu,130,470000,2021-03-12,Flyhigh Cinemas
+154,Most Eligible Bachelor,195,470000,2021-10-15,-
+155,Tenet,2930,58504105,2021-09-03,Warner Bros.
+156,World War Z,80,448000,2021-05-28,Paramount Pictures
+157,The Lost Leonardo,217,445740,2021-08-13,Sony Pictures Classics
+158,2021 Oscar Nominated Short Films: Live Action,184,443050,2021-04-02,Magnolia Pictures
+159,Flag Day,196,424667,2021-08-20,United Artists Releasing
+160,Willy's Wonderland,171,418286,2021-02-12,Screen Media Films
+161,Top Gun,153,457577,2021-05-14,Paramount Pictures
+162,Dutch,202,404371,2021-03-12,Faith Media Distribution
+163,Ghostbusters,774,391718,2021-10-29,Sony Pictures Classics
+164,The Metropolitan Opera HD Live: Mussorgsky: Boris Godunov,791,387000,2021-10-08,Fathom Events
+165,Crisis,216,404738,2021-02-26,Quiver Distribution
+166,Red Rocket,385,1023086,2021-12-10,A24
+167,Julia,288,399811,2021-11-12,Sony Pictures Classics
+168,Ghost in the Shell,124,373169,2021-09-17,Lionsgate
+169,The Dry,186,364237,2021-05-21,IFC Films
+170,"Dad, I'm Sorry",NA,350000,2021-05-28,3388 Films
+171,The Battle at Lake Changjin,20,342411,2021-11-19,CMC Pictures
+172,The Emperor's New Groove,744,334000,2021-01-15,Walt Disney Studios Motion Pictures
+173,Benedetta,201,354481,2021-12-03,IFC Films
+174,Freaky,2472,9030855,2021-11-13,Universal Pictures
+175,Drive My Car,213,2352240,2021-11-24,Janus Films
+176,Final Account,308,308976,2021-05-21,Focus Features
+177,The Water Man,311,383234,2021-05-07,RLJ Entertainment
+178,New Order,236,303556,2021-05-21,Neon
+179,India Sweets and Spices,343,288714,2021-11-19,Bleecker Street Media
+180,Blithe Spirit,239,282500,2021-02-19,IFC Films
+181,American Skin,72,282332,2021-01-15,Vertical Entertainment
+182,I'm Your Man,122,275155,2021-09-24,Bleecker Street Media
+183,Escape from Mogadishu,42,346271,2021-08-06,Well Go USA Entertainment
+184,Raging Fire,59,385305,2021-08-13,Well Go USA Entertainment
+185,A Mouthful of Air,816,269435,2021-10-29,Stage 6 Films
+186,Rita Moreno: Just a Girl Who Decided to Go for It,227,264626,2021-06-18,Roadside Attractions
+187,Weathering with You,1020,8056636,2021-01-15,GKIDS
+188,Once I Was Engaged,32,254775,2021-07-21,Excel Entertainment
+189,Supernova,330,234220,2021-01-29,Bleecker Street Media
+190,Becoming Cousteau,319,231687,2021-10-22,Picturehouse
+191,Half Brothers,1386,2241980,2021-12-04,Focus Features
+192,Limbo,213,224405,2021-04-30,Focus Features
+193,Promare,701,2529324,2021-09-17,GKIDS
+194,Together,250,214390,2021-08-27,Universal Pictures
+195,The Swimming Pool,10,211467,2021-05-14,Rialto Distribution
+196,Ailey,88,204513,2021-07-23,Neon
+197,The Lady of Heaven,59,291597,2021-12-10,Universal Pictures International (UPI)
+198,Groundhog Day,845,200989,2021-01-29,Sony Pictures Classics
+199,The Resort,114,191996,2021-04-30,Vertical Entertainment
+200,Kaamelott: First Installment,26,188000,2021-07-23,Paramount Pictures
+1,Top Gun: Maverick,4751,718732821,2022-05-27,Paramount Pictures
+2,Black Panther: Wakanda Forever,4396,453829060,2022-11-11,Walt Disney Studios Motion Pictures
+3,Doctor Strange in the Multiverse of Madness,4534,411331607,2022-05-06,Walt Disney Studios Motion Pictures
+4,Avatar: The Way of Water,4340,684075767,2022-12-16,20th Century Studios
+5,Jurassic World: Dominion,4697,376851080,2022-06-10,Universal Pictures
+6,Minions: The Rise of Gru,4427,370549695,2022-07-01,Universal Pictures
+7,The Batman,4417,369345583,2022-03-04,Warner Bros.
+8,Thor: Love and Thunder,4375,343256830,2022-07-08,Walt Disney Studios Motion Pictures
+9,Spider-Man: No Way Home,4336,804793477,2022-12-17,Sony Pictures Releasing
+10,Sonic the Hedgehog 2,4258,190872904,2022-04-08,Paramount Pictures
+11,Black Adam,4402,168152111,2022-10-21,Warner Bros.
+12,Elvis,3932,151040048,2022-06-24,Warner Bros.
+13,Uncharted,4275,148648820,2022-02-18,Sony Pictures Releasing
+14,Nope,3807,123277080,2022-07-22,Universal Pictures
+15,Lightyear,4255,118307188,2022-06-17,Walt Disney Studios Motion Pictures
+16,Smile,3659,105935048,2022-09-30,Paramount Pictures
+17,The Lost City,4283,105344029,2022-03-25,Paramount Pictures
+18,Bullet Train,4357,103368602,2022-08-05,Sony Pictures Releasing
+19,The Bad Guys,4042,97459240,2022-04-22,Universal Pictures
+20,Fantastic Beasts: The Secrets of Dumbledore,4245,95850844,2022-04-15,Warner Bros.
+21,DC League of Super-Pets,4332,93657117,2022-07-29,Warner Bros.
+22,Where the Crawdads Sing,3650,90230760,2022-07-15,Sony Pictures Releasing
+23,The Black Phone,3156,90123230,2022-06-24,Universal Pictures
+24,Sing 2,3892,162790990,2022-12-22,Universal Pictures
+25,Scream,3666,81641405,2022-01-14,Paramount Pictures
+26,Morbius,4268,73865530,2022-04-01,Columbia Pictures
+27,Everything Everywhere All at Once,2220,77191785,2022-03-25,A24
+28,Ticket to Paradise,4066,68275985,2022-10-21,Universal Pictures
+29,The Woman King,3765,67328130,2022-09-16,TriStar Pictures
+30,Halloween Ends,3901,64079860,2022-10-14,Universal Pictures
+31,Dog,3827,61778069,2022-02-18,United Artists Releasing
+32,Jackass Forever,3653,57743451,2022-02-04,Paramount Pictures
+33,Puss in Boots: The Last Wish,4121,186090535,2022-12-21,Universal Pictures
+34,Violent Night,3723,50057405,2022-12-02,Universal Pictures
+35,"Lyle, Lyle, Crocodile",4350,46888441,2022-10-07,Sony Pictures Releasing
+36,Death on the Nile,3420,45630104,2022-02-11,20th Century Studios
+37,Don't Worry Darling,4121,45309403,2022-09-23,Warner Bros.
+38,Downton Abbey: A New Era,3830,44141550,2022-05-20,Focus Features
+39,Barbarian,2890,40842944,2022-09-09,20th Century Studios
+40,Dragon Ball Super: Super Hero,3018,38112140,2022-08-19,Crunchyroll
+41,Strange World,4174,37968963,2022-11-23,Walt Disney Studios Motion Pictures
+42,The Menu,3228,38501125,2022-11-18,Searchlight Pictures
+43,Jujutsu Kaisen 0,2418,34542754,2022-03-18,Crunchyroll
+44,The Northman,3284,34233110,2022-04-22,Focus Features
+45,The Bob's Burgers Movie,3425,31933830,2022-05-27,20th Century Studios
+46,Beast,3754,31846530,2022-08-19,Universal Pictures
+47,The Invitation,3117,25100080,2022-08-26,Sony Pictures Releasing
+48,Avatar,2040,24714024,2022-09-23,Walt Disney Pictures
+49,Ambulance,3412,22781115,2022-04-08,Universal Pictures
+50,Marry Me,3643,22438180,2022-02-11,Universal Pictures
+51,The King's Man,3180,37176373,2022-12-22,20th Century Studios
+52,Father Stu,2705,20884796,2022-04-13,Sony Pictures Releasing
+53,The Unbearable Weight of Massive Talent,3036,20300157,2022-04-22,Lionsgate
+54,Devotion,3458,20511938,2022-11-23,Columbia Pictures
+55,Prey for the Devil,2980,19802293,2022-10-28,Lionsgate
+56,Moonfall,3446,19060660,2022-02-04,Lionsgate
+57,Paws of Fury: The Legend of Hank,3481,17811382,2022-07-15,Paramount Pictures
+58,Amsterdam,3005,14947969,2022-10-07,20th Century Studios
+59,The Chosen Season 3: Episode 1 & 2,2021,14612089,2022-11-18,Fathom Events
+60,The 355,3145,14570455,2022-01-07,Universal Pictures
+61,American Underdog,2813,26514814,2022-12-25,Lionsgate
+62,Glass Onion,696,13280000,2022-11-23,Netflix
+63,Whitney Houston: I Wanna Dance with Somebody,3625,23708080,2022-12-23,TriStar Pictures
+64,Easter Sunday,3176,13013690,2022-08-05,Universal Pictures
+65,One Piece Film: Red,2367,12775324,2022-11-04,Crunchyroll
+66,Licorice Pizza,1977,17318007,2022-11-26,United Artists Releasing
+67,The Fabelmans,1962,17348945,2022-11-11,Universal Pictures
+68,X,2920,11769469,2022-03-18,A24
+69,Bros,3356,11628165,2022-09-30,Universal Pictures
+70,Bodies Bodies Bodies,2541,11446602,2022-08-05,A24
+71,RRR,1200,14500000,2022-03-25,Sarigama Cinemas
+72,Terrifier 2,1550,10640105,2022-10-06,Cinedigm Entertainment Group
+73,Mrs. Harris Goes to Paris,1001,10433915,2022-07-15,Focus Features
+74,West Side Story,2820,38530322,2022-12-10,20th Century Studios
+75,Firestarter,3413,9739250,2022-05-13,Universal Pictures
+76,Blacklight,2772,9591094,2022-02-11,Briarcliff Entertainment
+77,See How They Run,2502,9586237,2022-09-16,Walt Disney Studios Motion Pictures
+78,The Matrix Resurrections,3552,37686805,2022-12-22,Warner Bros.
+79,Pearl,2982,9423445,2022-09-16,A24
+80,Spider-Man: No Way Home,3935,9321593,2022-09-02,Sony Pictures Releasing
+81,Redeeming Love,1963,9214020,2022-01-21,Universal Pictures
+82,Babylon,3351,15658225,2022-12-23,Paramount Pictures
+83,The Banshees of Inisherin,1205,10582266,2022-10-21,Searchlight Pictures
+84,Till,2136,9000202,2022-10-14,United Artists Releasing
+85,Three Thousand Years of Longing,2436,8286741,2022-08-26,United Artists Releasing
+86,Brahmastra Part One: Shiva,810,7839108,2022-09-09,Walt Disney Studios Motion Pictures
+87,Bones and All,2727,7834907,2022-11-23,United Artists Releasing
+88,Memory,2555,7329043,2022-04-29,Open Road Films (II)
+89,Fall,1548,7240521,2022-08-12,Lionsgate
+90,Men,2212,7587853,2022-05-20,A24
+91,Ghostbusters: Afterlife,4315,129360575,2022-11-19,Sony Pictures Releasing
+92,BTS Permission to Dance on Stage - Seoul: Live Viewing,803,6840000,2022-03-12,Trafalgar Releasing
+93,Marcel the Shell with Shoes On,821,6333702,2022-06-24,A24
+94,She Said,2023,5825995,2022-11-18,Universal Pictures
+95,Tár,1090,6773650,2022-10-07,Focus Features
+96,I Heard the Bells,1204,5644104,2022-12-01,Fathom Events
+97,Encanto,3980,96093622,2022-11-24,Walt Disney Studios Motion Pictures
+98,Orphan: First Kill,557,5413227,2022-08-19,Paramount Pictures
+99,House of Gucci,3477,53809574,2022-11-24,United Artists Releasing
+100,The Whale,1721,17463630,2022-12-09,A24
+101,Lifemark,1531,5180537,2022-09-09,Fathom Events
+102,Jaws,1246,5809280,2022-09-02,Universal Pictures
+103,The Cursed,1695,4588389,2022-02-18,LD Entertainment
+104,Nightmare Alley,2145,11338107,2022-12-17,Searchlight Pictures
+105,Vengeance,1003,4330720,2022-07-29,Focus Features
+106,Ponniyin Selvan: Part I,500,4282000,2022-09-30,Sarigama Cinemas
+107,Moonage Daydream,733,4218925,2022-09-16,Neon
+108,Triangle of Sadness,610,4608096,2022-10-07,Neon
+109,Belle,1338,4018313,2022-01-14,GKIDS
+110,Family Camp,1057,3973263,2022-05-13,Roadside Attractions
+111,Cyrano,797,3873124,2022-02-25,United Artists Releasing
+112,Laal Singh Chaddha,517,3401324,2022-08-11,Paramount Pictures
+113,The Outfit,1328,3344040,2022-03-18,Focus Features
+114,Clerks III,5,4663106,2022-09-16,Fathom Events
+115,The Worst Person in the World,554,3034775,2022-02-04,Neon
+116,K.G.F: Chapter 2,NA,2874000,2022-04-15,Viva Pictures
+117,Breaking,909,2806359,2022-08-26,Bleecker Street Media
+118,A Journal for Jordan,2500,6545174,2022-12-25,Sony Pictures Releasing
+119,Honk for Jesus. Save Your Soul.,1882,2561270,2022-09-02,Focus Features
+120,Mack & Rita,1930,2540965,2022-08-12,Gravitas Premiere
+121,Studio 666,2306,2513963,2022-02-25,Open Road Films (II)
+122,Crimes of the Future,773,2452882,2022-06-03,Neon
+123,Belfast,1255,9250870,2022-11-12,Focus Features
+124,Gigi & Nate,1220,2280814,2022-09-02,Roadside Attractions
+125,The Good House,1061,2219760,2022-09-30,Roadside Attractions
+126,Parallel Mothers,684,2297501,2022-12-24,Sony Pictures Classics
+127,Emily the Criminal,483,2156296,2022-08-12,Roadside Attractions
+128,Umma,805,2121025,2022-03-18,Stage 6 Films
+129,The Wolf and the Lion,1005,2072173,2022-02-04,Blue Fox Entertainment
+130,E.T. the Extra-Terrestrial,793,2234590,2022-08-12,Universal Pictures
+131,Drive My Car,213,2352240,2022-11-24,Janus Films
+132,Jeepers Creepers: Reborn,996,2033057,2022-09-19,Fathom Events
+133,Watcher,764,1961207,2022-06-03,IFC Films
+134,Mr. Malcolm's List,1384,1885718,2022-07-01,Bleecker Street Media
+135,Armageddon Time,1006,1872625,2022-10-28,Focus Features
+136,Radhe Shyam,800,1860000,2022-03-11,-
+137,Vikram,465,1770000,2022-06-03,Prime Media Pictures
+138,The King's Daughter,2170,1758963,2022-01-21,Gravitas Ventures
+139,2022 Oscar Nominated Short Films: Live Action/2022 Oscar Nominated Short Films: Animation/2022 Oscar Nominated Short Films: Documentary,355,1801646,2022-02-25,ShortsTV
+140,Infinite Storm,1525,1600543,2022-03-25,Bleecker Street Media
+141,Vikram Vedha,558,1589362,2022-09-30,Reliance Entertainment
+142,The Duke,353,1526970,2022-04-22,Sony Pictures Classics
+143,Running the Bases,1080,1511980,2022-09-16,UP2U Films
+144,¿Y cómo es él?,325,1500636,2022-04-22,Lionsgate
+145,The Kashmir Files,230,1485000,2022-03-18,Zee Studios
+146,2000 Mules,415,1465513,2022-05-20,D'Souza Media
+147,It's a Wonderful Life,960,1439643,2022-12-18,Fathom Events
+148,The Godfather,596,1414662,2022-02-25,Paramount Pictures
+149,Spoiler Alert,783,1384003,2022-12-02,Focus Features
+150,Medieval,1311,1374325,2022-09-09,The Avenue Entertainment
+151,Rogue One: A Star Wars Story,255,1362667,2022-08-26,Walt Disney Studios Motion Pictures
+152,Decision to Leave,169,2179864,2022-10-14,MUBI
+153,Howl's Moving Castle,868,1212525,2022-09-23,Fathom Events
+154,F3: Fun and Frustration,400,1195000,2022-05-27,-
+155,Dune: Part One,4125,108327830,2022-10-22,Warner Bros.
+156,Aftersun,97,1658790,2022-10-21,A24
+157,After Ever Happy,1144,1072750,2022-09-07,Fathom Events
+158,Fire of Love,191,1120412,2022-07-06,Neon
+159,"Hallelujah: Leonard Cohen, a Journey, a Song",168,1062603,2022-07-01,Sony Pictures Releasing
+160,The Contractor,489,1035265,2022-04-01,STX Entertainment
+161,Jug Jugg Jeeyo,318,1033000,2022-06-24,-
+162,'83,486,4055660,2022-12-23,Reliance Entertainment
+163,Coldplay Music of The Spheres Live Broadcast from Buenos Aires,833,1015000,2022-10-28,Trafalgar Releasing
+164,The Beatles: Get Back - The Rooftop Concert,179,976712,2022-01-30,IMAX
+165,Venom: Let There Be Carnage,4225,213550366,2022-10-01,Sony Pictures Releasing
+166,Man of God,830,920561,2022-03-21,Fathom Events
+167,Empire of Light,436,1177577,2022-12-09,Searchlight Pictures
+168,Johnny Cash: The Redemption of an American Icon,1087,840580,2022-12-05,Fathom Events
+169,The Tiger Rising,872,835162,2022-01-21,Variance Films
+170,Hansan: Rising Dragon,32,865888,2022-07-29,Well Go USA Entertainment
+171,Acharya,396,832000,2022-04-29,Prime Media Pictures
+172,Petite Maman,224,829065,2022-04-22,Neon
+173,Evangelion: 3.0+1.0 Thrice Upon a Time,745,810744,2022-12-06,Fathom Events
+174,The Roundup,22,812859,2022-05-19,Capelight Pictures
+175,Star Trek II: The Wrath of Khan,967,794943,2022-09-04,Fathom Events
+176,"The Metropolitan Opera HD Live: Kevin Puts: The Hours, Libretto by Greg Pierce",826,791374,2022-12-10,Fathom Events
+177,The Phantom of the Open,501,748695,2022-06-03,Sony Pictures Classics
+178,Saint Michael Meet the Angel,811,643828,2022-09-29,Fathom Events
+179,Ante Sundharaniki,350,620000,2022-06-10,-
+180,Unsilenced,186,613621,2022-01-21,Zhen Pictures
+181,HIT: The 2nd Case,280,600000,2022-12-02,Tolly Movies
+182,Official Competition,173,593790,2022-06-17,IFC Films
+183,Gangubai Kathiawadi,NA,592000,2022-03-04,Paramount Pictures International
+184,When I'm Young,315,588028,2022-09-23,Pantelion Films
+185,The Mean One,162,612260,2022-12-08,Atlas Distribution Company
+186,"Confess, Fletch",516,538842,2022-09-16,Paramount Pictures
+187,Call Jane,1068,512770,2022-10-28,Roadside Attractions
+188,The Quintessential Quintuplets Movie,910,502000,2022-12-02,Crunchyroll
+189,God's Country,785,493679,2022-09-16,IFC Films
+190,Deep in the Heart: A Texas Wildlife Story,69,480240,2022-06-03,Fin & Fur Films
+191,The Railway Children Return,923,466391,2022-09-23,Blue Fox Entertainment
+192,Vivo,705,454807,2022-04-25,Fathom Events
+193,Selena,427,444681,2022-04-07,Iconic Events Releasing
+194,Eiffel,308,444814,2022-04-29,Blue Fox Entertainment
+195,Brian and Charles,279,430635,2022-06-17,Focus Features
+196,King Richard,3302,15129285,2022-11-19,Warner Bros.
+197,Superspreader,235,399370,2022-09-30,Iconic Events Releasing
+198,The Inspection,144,390429,2022-11-18,A24
+199,Alice,169,373043,2022-03-18,Roadside Attractions
+200,Emergency Declaration,42,412196,2022-08-12,Well Go USA Entertainment
+1,Barbie,4337,636238421,2023-07-21,Warner Bros.
+2,The Super Mario Bros. Movie,4371,574934330,2023-04-05,Universal Pictures
+3,Spider-Man: Across the Spider-Verse,4332,381311319,2023-06-02,Columbia Pictures
+4,Guardians of the Galaxy Vol. 3,4450,358995815,2023-05-05,Walt Disney Studios Motion Pictures
+5,Oppenheimer,3761,330078895,2023-07-21,Universal Pictures
+6,The Little Mermaid,4320,298172056,2023-05-26,Walt Disney Studios Motion Pictures
+7,Avatar: The Way of Water,4340,684075767,2023-12-16,20th Century Studios
+8,Ant-Man and the Wasp: Quantumania,4345,214504909,2023-02-17,Walt Disney Studios Motion Pictures
+9,John Wick: Chapter 4,3855,187131806,2023-03-24,Lionsgate
+10,Sound of Freedom,3411,184178046,2023-07-04,Angel
+11,Taylor Swift: The Eras Tour,3855,180756269,2023-10-13,AMC Theatres
+12,Indiana Jones and the Dial of Destiny,4600,174480468,2023-06-30,Walt Disney Studios Motion Pictures
+13,Mission: Impossible - Dead Reckoning Part One,4327,172640980,2023-07-12,Paramount Pictures
+14,The Hunger Games: The Ballad of Songbirds & Snakes,3776,166350594,2023-11-17,Lionsgate
+15,Transformers: Rise of the Beasts,3680,157341749,2023-06-09,Paramount Pictures
+16,Creed III,4007,156248615,2023-03-03,United Artists Releasing
+17,Elemental,4035,154426697,2023-06-16,Walt Disney Studios Motion Pictures
+18,Fast X,4088,146126015,2023-05-19,Universal Pictures
+19,Five Nights at Freddy's,3789,137275620,2023-10-27,Universal Pictures
+20,Wonka,4213,218402312,2023-12-15,Warner Bros.
+21,Puss in Boots: The Last Wish,4121,186090535,2023-12-21,Universal Pictures
+22,Teenage Mutant Ninja Turtles: Mutant Mayhem,3950,118700272,2023-08-02,Paramount Pictures
+23,Scream VI,3676,108391107,2023-03-10,Paramount Pictures
+24,The Flash,4256,108133313,2023-06-16,Warner Bros.
+25,Trolls Band Together,3893,103270155,2023-11-17,Universal Pictures
+26,M3GAN,3628,95159005,2023-01-06,Universal Pictures
+27,Dungeons & Dragons: Honor Among Thieves,3856,93549650,2023-03-31,Paramount Pictures
+28,The Equalizer 3,3965,92373751,2023-09-01,Columbia Pictures
+29,The Nun II,3743,86267073,2023-09-08,Warner Bros.
+30,The Marvels,4030,84500223,2023-11-10,Walt Disney Studios Motion Pictures
+31,Meg 2: The Trench,3604,82600317,2023-08-04,Warner Bros.
+32,Insidious: The Red Door,3188,82156962,2023-07-07,Screen Gems
+33,Aquaman and the Lost Kingdom,3787,124481226,2023-12-22,Warner Bros.
+34,Blue Beetle,3871,72488072,2023-08-18,Warner Bros.
+35,Haunted Mansion,3740,67653287,2023-07-28,Walt Disney Studios Motion Pictures
+36,Killers of the Flower Moon,3786,68035488,2023-10-20,Paramount Pictures
+37,Evil Dead Rise,3417,67233054,2023-04-21,Warner Bros.
+38,The Exorcist: Believer,3684,65537395,2023-10-06,Universal Pictures
+39,PAW Patrol: The Mighty Movie,4027,65343309,2023-09-29,Paramount Pictures
+40,Cocaine Bear,3571,64670240,2023-02-24,Universal Pictures
+41,A Man Called Otto,3957,64267657,2023-12-30,Columbia Pictures
+42,Wish,3900,63973821,2023-11-22,Walt Disney Studios Motion Pictures
+43,Napoleon,3500,61524375,2023-11-22,Columbia Pictures
+44,Shazam! Fury of the Gods,4071,57638006,2023-03-17,Warner Bros.
+45,Migration,3839,127630880,2023-12-22,Universal Pictures
+46,Saw X,3262,53607898,2023-09-29,Lionsgate
+47,Air,3507,52460106,2023-04-05,Amazon MGM Studios
+48,Jesus Revolution,2575,52102987,2023-02-24,Lionsgate
+49,No Hard Feelings,3208,50452282,2023-06-23,Sony Pictures Releasing
+50,Talk to Me,2379,48299436,2023-07-28,A24
+51,Godzilla Minus One,2622,57144669,2023-12-01,Toho International
+52,Gran Turismo,3856,44428554,2023-08-25,Sony Pictures Releasing
+53,The Color Purple,3218,60619191,2023-12-25,Warner Bros.
+54,The Boogeyman,3205,43244282,2023-06-02,20th Century Studios
+55,A Haunting in Venice,3305,42471412,2023-09-15,20th Century Studios
+56,The Creator,3680,40774679,2023-09-29,20th Century Studios
+57,80 for Brady,3939,39448525,2023-02-03,Paramount Pictures
+58,The Boy and the Heron,2325,46832867,2023-12-08,GKIDS
+59,Knock at the Cabin,3657,35397980,2023-02-03,Universal Pictures
+60,Renaissance: A Film by Beyoncé,2542,33889684,2023-12-01,AMC Theatres
+61,Missing,3025,32502025,2023-01-20,Sony Pictures Releasing
+62,Plane,3060,32111181,2023-01-13,Lionsgate
+63,65,3405,32062904,2023-03-10,Sony Pictures Releasing
+64,Thanksgiving,3204,31908884,2023-11-17,TriStar Pictures
+65,My Big Fat Greek Wedding 3,3678,28496030,2023-09-08,Focus Features
+66,Asteroid City,1901,28153025,2023-06-16,Focus Features
+67,Magic Mike's Last Dance,3034,26005156,2023-02-10,Warner Bros.
+68,Anyone But You,3055,88319668,2023-12-22,Columbia Pictures
+69,Strays,3232,23988885,2023-08-18,Universal Pictures
+70,The Boys in the Boat,2687,52641306,2023-12-25,Amazon MGM Studios
+71,Priscilla,2361,20960939,2023-10-27,A24
+72,"Are You There God? It's Me, Margaret.",3343,20372406,2023-04-28,Lionsgate
+73,The Pope's Exorcist,3178,20009380,2023-04-14,Screen Gems
+74,The Holdovers,1601,20355375,2023-10-27,Focus Features
+75,The Blackening,1775,17707207,2023-06-16,Lionsgate
+76,Book Club: The Next Chapter,3513,17581565,2023-05-12,Focus Features
+77,Pathaan,697,17487476,2023-01-25,Yash Raj Films USA Inc.
+78,Black Panther: Wakanda Forever,4396,453829060,2023-11-11,Walt Disney Studios Motion Pictures
+79,Renfield,3378,17297895,2023-04-14,Universal Pictures
+80,The Blind,1715,17265487,2023-09-28,Fathom Events
+81,The Covenant,2631,16938039,2023-04-21,Metro-Goldwyn-Mayer (MGM)
+82,The Expendables 4,3518,16710153,2023-09-22,Lionsgate
+83,Champions,3039,16397335,2023-03-10,Focus Features
+84,The Iron Claw,2794,35070296,2023-12-22,A24
+85,Ruby Gillman: Teenage Kraken,3408,15753600,2023-06-30,DreamWorks
+86,Jawan,826,15198530,2023-09-07,Yash Raj Films USA Inc.
+87,Titanic,2464,15096069,2023-02-10,Paramount Pictures
+88,Animal,698,15004482,2023-12-01,-
+89,Dumb Money,2837,13925356,2023-09-15,Sony Pictures Releasing
+90,The Last Voyage of the Demeter,2715,13637180,2023-08-11,Universal Pictures
+91,Joy Ride,2820,12897789,2023-07-07,Lionsgate
+92,His Only Son,1930,12392740,2023-03-31,Angel
+93,The Whale,1721,17463630,2023-12-09,A24
+94,About My Father,2464,12089391,2023-05-26,Lionsgate
+95,Bottoms,1265,12036071,2023-08-25,Orion Pictures
+96,The Shift,2450,12118219,2023-12-01,Angel
+97,After Death,2730,11478326,2023-10-27,Angel
+98,Saltburn,1566,11425829,2023-11-17,Amazon MGM Studios
+99,Past Lives,906,11331983,2023-06-02,A24
+100,Suzume,2170,10932037,2023-04-14,Crunchyroll
+101,Ferrari,2386,18550028,2023-12-25,Neon
+102,The Machine,2409,10458331,2023-05-26,Sony Pictures Releasing
+103,Whitney Houston: I Wanna Dance with Somebody,3625,23708080,2023-12-23,TriStar Pictures
+104,Poor Things,2300,34553225,2023-12-08,Searchlight Pictures
+105,The Nightmare Before Christmas,2185,10251956,2023-10-20,Walt Disney Studios Motion Pictures
+106,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,1774,10117806,2023-03-03,Crunchyroll
+107,House Party,1400,9002247,2023-01-13,Warner Bros.
+108,Radical,534,8702731,2023-11-03,Pantelion Films
+109,Salaar,802,8929282,2023-12-22,-
+110,Silent Night,1873,8012103,2023-12-01,Lionsgate
+111,Beau Is Afraid,2125,8176562,2023-04-14,A24
+112,The Hill,1703,7665865,2023-08-25,Briarcliff Entertainment
+113,Sisu,1006,7265622,2023-04-28,Lionsgate
+114,Star Wars: Episode VI - Return of the Jedi,475,7259924,2023-04-28,-
+115,Everything Everywhere All at Once,2220,77191785,2023-03-25,A24
+116,Dunki,650,7460159,2023-12-21,Yash Raj Films USA Inc.
+117,Coraline,1469,7149366,2023-08-14,-
+118,Retribution,1750,6937696,2023-08-25,Roadside Attractions
+119,Journey to Bethlehem,2002,6820796,2023-11-10,Affirm Films
+120,Next Goal Wins,2240,6713826,2023-11-17,Searchlight Pictures
+121,Operation Fortune: Ruse de Guerre,2168,6496125,2023-03-03,Lionsgate
+122,BTS: Yet to Come in Cinemas,1210,8481053,2023-02-01,Trafalgar Releasing
+123,Babylon,3351,15658225,2023-12-23,Paramount Pictures
+124,Love Again,2703,6230837,2023-05-05,Screen Gems
+125,Dream Scenario,1578,5742193,2023-11-10,A24
+126,The Fabelmans,1962,17348945,2023-11-11,Universal Pictures
+127,The Chosen Season 3 Finale,1979,5525069,2023-02-02,Fathom Events
+128,Nefarious,933,5433685,2023-04-14,SDG Releasing
+129,Big George Foreman,3054,5426772,2023-04-28,Sony Pictures Releasing
+130,Waitress: The Musical,1214,5402148,2023-12-07,Bleecker Street Media
+131,Tiger 3,779,5365263,2023-11-11,Yash Raj Films USA Inc.
+132,Women Talking,707,5456531,2023-12-23,United Artists Releasing
+133,Freelance,2057,5314136,2023-10-27,Relativity Media
+134,Infinity Pool,1835,5078400,2023-01-27,Neon
+135,Hocus Pocus,1430,4929004,2023-10-06,Walt Disney Studios Motion Pictures
+136,You Hurt My Feelings,912,4830788,2023-05-26,A24
+137,Kandahar,2105,4813132,2023-05-26,Open Road Films (II)
+138,Golda,883,4801781,2023-08-25,Bleecker Street Media
+139,It Lives Inside,2005,4675092,2023-09-22,Neon
+140,Hypnotic,2118,4500169,2023-05-12,Ketchup Entertainment
+141,Stop Making Sense,786,5211310,2023-09-22,-
+142,Marlowe,2281,4350243,2023-02-15,Open Road Films (II)
+143,The Amazing Maurice,1717,4303645,2023-02-03,Viva Pictures
+144,Mummies,384,4275970,2023-02-24,Warner Bros.
+145,Theater Camp,555,4009945,2023-07-14,Searchlight Pictures
+146,Ponniyin Selvan: Part Two,NA,3813000,2023-04-28,-
+147,Anatomy of a Fall,583,5076369,2023-10-13,Neon
+148,Left Behind: Rise of the Antichrist,1407,3649422,2023-01-26,Fathom Events
+149,The Journey: A Music Special from Andrea Bocelli,1074,3574915,2023-04-02,Fathom Events
+150,Chevalier,1281,3541159,2023-04-21,Walt Disney Studios Motion Pictures
+151,Mafia Mamma,2002,3496761,2023-04-14,Bleecker Street Media
+152,The Wandering Earth II,172,5023132,2023-01-22,Well Go USA Entertainment
+153,A Thousand and One,926,3400020,2023-03-31,Focus Features
+154,Violent Night,3723,50057405,2023-12-02,Universal Pictures
+155,What Happens Later,1492,3273895,2023-11-03,Bleecker Street Media
+156,2023 Oscar Nominated Short Films: Live Action,357,3025631,2023-02-17,ShortsTV
+157,Living,644,3038113,2023-12-23,Sony Pictures Classics
+158,Jurassic Park,1224,2970355,2023-08-25,Universal Pictures
+159,The Menu,3228,38501125,2023-11-18,Searchlight Pictures
+160,Tu Jhoothi Main Makkaar,400,2503604,2023-03-08,Yash Raj Films USA Inc.
+161,Come Out in Jesus Name,1047,2500574,2023-03-13,Fathom Events
+162,The Miracle Club,677,2402780,2023-07-14,Sony Pictures Releasing
+163,A Good Person,687,2210465,2023-03-24,United Artists Releasing
+164,Spirited Away: Live on Stage,1046,1455081,2023-04-23,-
+165,Moving On,794,2136832,2023-03-17,Roadside Attractions
+166,Skinamarink,809,2052272,2023-01-13,IFC Films
+167,Die Hard,1355,2048453,2023-12-08,20th Century Studios
+168,Jules,780,1924922,2023-08-11,Bleecker Street Media
+169,Somewhere in Queens,602,1802442,2023-04-21,Roadside Attractions
+170,The Marsh King's Daughter,1055,1792905,2023-11-03,Lionsgate
+171,Oldboy,250,1750719,2023-08-16,Neon
+172,Winnie-the-Pooh: Blood and Honey,1652,2082898,2023-02-15,Fathom Events
+173,Fear,974,2090261,2023-01-27,Hidden Empire Film Group (HEFG)
+174,Lost in the Stars,NA,1721446,2023-07-07,CMC Pictures
+175,Creation of the Gods I: Kingdom of Storms,115,1706355,2023-09-22,Well Go USA Entertainment
+176,American Fiction,1902,21098470,2023-12-15,Metro-Goldwyn-Mayer (MGM)
+177,The Retirement Plan,1175,1607344,2023-09-15,Falling Forward Films
+178,Polite Society,927,1595585,2023-04-28,Focus Features
+179,That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond,1473,1588491,2023-01-20,Crunchyroll
+180,The Banshees of Inisherin,1205,10582266,2023-10-21,Searchlight Pictures
+181,The Quiet Girl,244,1500014,2023-02-24,Neon
+182,BlackBerry,449,1476597,2023-05-12,IFC Films
+183,Dicks: The Musical,635,1453012,2023-10-06,A24
+184,Eileen,558,1435007,2023-12-01,Neon
+185,Maybe I Do,465,1293722,2023-01-27,Vertical Entertainment
+186,The First Slam Dunk,581,1291869,2023-07-28,GKIDS
+187,Billie Eilish: Live at the O2 (Extended Cut),600,1290000,2023-01-27,Trafalgar Releasing
+188,The Big Lebowski,1235,18718818,2023-03-06,Gramercy Pictures (I)
+189,Back to the Future,1550,212326307,2023-07-03,Universal Pictures
+190,Tár,1090,6773650,2023-10-07,Focus Features
+191,The Lost King,753,1188032,2023-03-24,IFC Films
+192,The Lord of the Rings: The Return of the King,1107,1176085,2023-04-13,Fathom Events
+193,Camp Hideout,848,1125010,2023-09-15,Roadside Attractions
+194,Strange World,4174,37968963,2023-11-23,Walt Disney Studios Motion Pictures
+195,Close,233,1100113,2023-01-27,A24
+196,Emily,579,1097067,2023-02-17,Bleecker Street Media
+197,Knights of the Zodiac,588,1090155,2023-05-12,-
+198,Broker,271,1046899,2023-12-23,Neon
+199,Showing Up,115,754483,2023-04-07,A24
+200,Inside,357,918415,2023-03-17,Focus Features
+1,Inside Out 2,4440,652980194,2024-06-14,Walt Disney Studios Motion Pictures
+2,Deadpool & Wolverine,4330,636745858,2024-07-26,Walt Disney Studios Motion Pictures
+3,Wicked,3888,474983975,2024-11-22,Universal Pictures
+4,Moana 2,4200,460405297,2024-11-27,Walt Disney Studios Motion Pictures
+5,Despicable Me 4,4449,361004205,2024-07-03,Universal Pictures
+6,Beetlejuice Beetlejuice,4575,294100435,2024-09-06,Warner Bros.
+7,Dune: Part Two,4074,282144358,2024-03-01,Warner Bros.
+8,Twisters,4170,267762265,2024-07-19,Universal Pictures
+9,Godzilla X Kong: The New Empire,3948,196350016,2024-03-29,Warner Bros.
+10,Kung Fu Panda 4,4067,193590620,2024-03-08,Universal Pictures
+11,Bad Boys: Ride or Die,3885,193573217,2024-06-07,Sony Pictures Releasing
+12,Kingdom of the Planet of the Apes,4075,171130165,2024-05-10,20th Century Studios
+13,Gladiator II,3580,172438016,2024-11-22,Paramount Pictures
+14,Sonic the Hedgehog 3,3769,236115100,2024-12-20,Paramount Pictures
+15,It Ends with Us,3839,148518266,2024-08-09,Sony Pictures Releasing
+16,The Wild Robot,3997,143901945,2024-09-27,Universal Pictures
+17,Venom: The Last Dance,4131,139755882,2024-10-25,Sony Pictures Releasing
+18,A Quiet Place: Day One,3708,139051884,2024-06-28,Paramount Pictures
+19,Mufasa: The Lion King,4100,254567693,2024-12-20,Walt Disney Studios Motion Pictures
+20,Ghostbusters: Frozen Empire,4345,113376590,2024-03-22,Sony Pictures Releasing
+21,IF,4068,111375918,2024-05-17,Paramount Pictures
+22,Alien: Romulus,3915,105313091,2024-08-16,20th Century Studios
+23,Bob Marley: One Love,3597,96981216,2024-02-14,Paramount Pictures
+24,Red One,4032,97000759,2024-11-15,Amazon MGM Studios
+25,The Fall Guy,4008,92900355,2024-05-03,Universal Pictures
+26,The Garfield Movie,4108,91956547,2024-05-24,Sony Pictures Releasing
+27,Wonka,4213,218402312,2024-12-15,Warner Bros.
+28,Longlegs,2850,74346140,2024-07-12,Neon
+29,Migration,3839,127630880,2024-12-22,Universal Pictures
+30,Mean Girls,3826,72581770,2024-01-12,Paramount Pictures
+31,Smile 2,3624,69012586,2024-10-18,Paramount Pictures
+32,Civil War,3929,68756072,2024-04-12,A24
+33,Furiosa: A Mad Max Saga,3864,67475791,2024-05-24,Warner Bros.
+34,The Beekeeper,3337,66220535,2024-01-12,Metro-Goldwyn-Mayer (MGM)
+35,Anyone But You,3055,88319668,2024-12-22,Columbia Pictures
+36,Transformers One,3978,59098421,2024-09-20,Paramount Pictures
+37,Joker: Folie à Deux,4102,58300287,2024-10-04,Warner Bros.
+38,Terrifier 3,2762,53981071,2024-10-11,Cineverse
+39,Challengers,3477,50119408,2024-04-26,Amazon MGM Studios
+40,Nosferatu,3132,95608235,2024-12-25,Focus Features
+41,Aquaman and the Lost Kingdom,3787,124481226,2024-12-22,Warner Bros.
+42,Argylle,3647,45207275,2024-02-02,Universal Pictures
+43,Madame Web,4013,43817106,2024-02-14,Columbia Pictures
+44,Trap,3181,42777281,2024-08-02,Warner Bros.
+45,The Best Christmas Pageant Ever,3020,40048808,2024-11-08,Lionsgate
+46,Speak No Evil,3375,36931420,2024-09-13,Universal Pictures
+47,The Strangers: Chapter 1,2856,35202562,2024-05-17,Lionsgate
+48,Coraline,1564,33626425,2024-08-15,Fathom Events
+NA,15th Anniversary,NA,NA,NA,NA
+49,Night Swim,3257,32494740,2024-01-05,Universal Pictures
+50,Conclave,2377,32580655,2024-10-25,Focus Features
+51,The Boys in the Boat,2687,52641306,2024-12-25,Amazon MGM Studios
+52,Reagan,2770,30047417,2024-08-30,Showbiz Direct
+53,The Forge,1921,29123632,2024-08-23,Affirm Films
+54,Horizon: An American Saga - Chapter 1,3334,29035702,2024-06-28,Warner Bros.
+55,A Complete Unknown,2835,75001720,2024-12-25,Searchlight Pictures
+56,Imaginary,3118,28009161,2024-03-08,Lionsgate
+57,Heretic,3230,27986380,2024-11-08,A24
+58,Abigail,3393,25867515,2024-04-19,Universal Pictures
+59,Monkey Man,3037,25116955,2024-04-05,Universal Pictures
+60,Arthur the King,3003,25049006,2024-03-15,Lionsgate
+61,We Live in Time,2964,24692924,2024-10-11,A24
+62,Poor Things,2300,34553225,2024-12-08,Searchlight Pictures
+63,Blink Twice,3067,23093906,2024-08-23,Amazon MGM Studios
+64,Kraven the Hunter,3211,25026310,2024-12-13,Sony Pictures Releasing
+65,The Bikeriders,2692,21746895,2024-06-21,Focus Features
+66,The Ministry of Ungentlemanly Warfare,2845,20535053,2024-04-19,Lionsgate
+67,Fly Me to the Moon,3356,20532222,2024-07-12,Columbia Pictures
+68,Unsung Hero,2832,20335239,2024-04-26,Lionsgate
+69,The First Omen,3375,20092802,2024-04-05,20th Century Studios
+70,Cabrini,2850,19512134,2024-03-08,Angel
+71,American Fiction,1902,21098470,2024-12-15,Metro-Goldwyn-Mayer (MGM)
+72,Ordinary Angels,3020,19174421,2024-02-23,Lionsgate
+73,The Iron Claw,2794,35070296,2024-12-22,A24
+74,The Watchers,3351,19071404,2024-06-07,Warner Bros.
+75,Tarot,3104,18771004,2024-05-03,Screen Gems
+76,Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,1949,17657658,2024-02-23,Sony Pictures Releasing
+77,Harold and the Purple Crayon,3325,17640924,2024-08-02,Columbia Pictures
+78,The Color Purple,3218,60619191,2024-12-25,Warner Bros.
+79,The Substance,1949,17584795,2024-09-20,MUBI
+80,Immaculate,2362,15671307,2024-03-22,Neon
+81,Borderlands,3125,15482668,2024-08-09,Lionsgate
+82,Interstellar,321,15207563,2024-12-06,Paramount Pictures
+NA,2024 Re-release,NA,NA,NA,NA
+83,MaXXXine,2450,15097632,2024-07-05,A24
+84,The Chosen: S4 Episodes 1-3,2280,14409169,2024-02-01,Fathom Events
+85,Anora,1938,20474295,2024-10-18,Neon
+86,Homestead,1886,20811864,2024-12-20,Angel
+87,Star Wars: Episode I - The Phantom Menace,2700,13029994,2024-05-03,Walt Disney Studios Motion Pictures
+NA,2024 Re-release,NA,NA,NA,NA
+88,Kalki 2898 AD,1049,18289575,2024-06-27,Prathyangira Cinemas
+89,Am I Racist?,1600,12311598,2024-09-13,SDG Releasing
+90,Here,2732,12237270,2024-11-01,Sony Pictures Releasing
+91,Bonhoeffer,1900,12222383,2024-11-22,Angel
+92,Sound of Hope: The Story of Possum Trot,2200,11647099,2024-07-04,Angel
+93,Godzilla Minus One,2622,57144669,2024-12-01,Toho International
+94,The Boy and the Heron,2325,46832867,2024-12-08,GKIDS
+95,The Chosen: S4 Episodes 4-6,2272,9482744,2024-02-15,Fathom Events
+96,Never Let Go,2667,10306106,2024-09-20,Lionsgate
+97,Late Night with the Devil,1442,10001000,2024-03-22,IFC Films
+98,Lisa Frankenstein,3144,9774285,2024-02-09,Focus Features
+99,Piece by Piece,1873,9756635,2024-10-11,Focus Features
+100,Saturday Night,2336,9511315,2024-09-27,Sony Pictures Releasing
+101,The Crow,2752,9275659,2024-08-23,Lionsgate
+102,Babygirl,2164,28196732,2024-12-25,A24
+103,Thelma,1290,9002073,2024-06-21,Magnolia Pictures
+104,The Lord of the Rings: The War of the Rohirrim,2602,9158572,2024-12-13,Warner Bros.
+105,Love Lies Bleeding,1828,8335797,2024-03-08,A24
+106,The Zone of Interest,598,8659464,2024-12-08,A24
+107,Spy x Family Code: White,2009,8110042,2024-04-19,Crunchyroll
+108,Ferrari,2386,18550028,2024-12-25,Neon
+109,The Chosen: S4 Episodes 7-8,2215,7729152,NA,Fathom Events
+110,A Real Pain,1185,8344978,2024-11-01,Searchlight Pictures
+111,Megalopolis,1854,7629085,2024-09-27,Lionsgate
+112,Sight,2118,7206741,2024-05-24,Angel
+113,Haikyu!! The Dumpster Battle,1119,7071622,2024-05-31,Crunchyroll
+114,Afraid,3003,6725687,2024-08-30,Sony Pictures Releasing
+115,The Hunger Games: The Ballad of Songbirds & Snakes,3776,166350594,2024-11-17,Lionsgate
+116,I.S.S.,2518,6573799,2024-01-19,Bleecker Street Media
+117,Pushpa: The Rule - Part 2,1245,13000000,2024-12-05,AA Films
+118,Cuckoo,1503,6217733,2024-08-09,Neon
+119,Back to Black,2013,6178165,2024-05-17,Focus Features
+120,The Book of Clarence,2010,6132813,2024-01-12,Sony Pictures Releasing
+121,The Nightmare Before Christmas,1860,6124705,2024-10-11,Walt Disney Studios Motion Pictures
+NA,2024 Re-release,NA,NA,NA,NA
+122,Columbia 100th Anniversary Series,466,6013515,2024-04-15,Sony Pictures Releasing
+NA,Columbia 100th Anniversary Series,NA,NA,NA,NA
+123,Someone Like You,1802,5937306,2024-04-05,Fathom Events
+124,Trolls Band Together,3893,103270155,2024-11-17,Universal Pictures
+125,One Life,1009,5716885,2024-03-15,Bleecker Street Media
+126,Devara Part 1,1040,5600000,2024-09-26,Prathyangira Cinemas
+127,The Killer's Game,2623,5404378,2024-09-13,Lionsgate
+128,My Old Ass,1390,5372282,2024-09-13,Amazon MGM Studios
+129,White Bird,1038,5069171,2024-10-04,Lionsgate
+130,My Hero Academia: You're Next,1845,5041781,2024-10-11,Toho International
+131,Kinds of Kindness,920,5038931,2024-06-21,Searchlight Pictures
+132,Drive-Away Dolls,2280,5028215,2024-02-23,Focus Features
+133,The Fire Inside,2032,8093190,2024-12-25,Amazon MGM Studios
+134,I Saw the TV Glow,469,5017817,2024-05-03,A24
+135,Wicked Little Letters,1009,5008179,2024-03-29,Sony Pictures Releasing
+136,Dìdi,435,4839360,2024-07-26,Focus Features
+137,Origin,664,4689830,2024-12-08,Neon
+138,Land of Bad,1317,4620045,2024-02-16,The Avenue Entertainment
+139,The Exorcism,2240,4530418,2024-06-21,Vertical Entertainment
+140,Y2K,2108,4446596,2024-12-06,A24
+141,In a Violent Nature,1426,4229999,2024-05-31,IFC Films
+142,For King + Country: A Drummer Boy Christmas - Live,1540,4227406,2024-12-05,Fathom Events
+143,The Apprentice,1740,4001904,2024-10-11,Briarcliff Entertainment
+144,Babes,1118,3800038,2024-05-17,Neon
+145,Perfect Days,271,3766668,2024-02-07,Neon
+146,Oppenheimer,3761,330078895,2024-07-21,Universal Pictures
+147,All of Us Strangers,295,4050103,2024-12-22,Searchlight Pictures
+148,Shrek 2,1512,3427910,2024-04-12,DreamWorks
+NA,2024 Re-release,NA,NA,NA,NA
+149,Wish,3900,63973821,2024-11-22,Walt Disney Studios Motion Pictures
+150,Solo Leveling: ReAwakening,846,3350693,2024-12-06,Sony Pictures Releasing
+151,Queer,460,3736813,2024-11-27,A24
+152,God's Not Dead: In God We Trust,1392,3269322,2024-09-12,Fathom Events
+153,The Lord of the Rings: The Fellowship of the Ring,1529,3256658,2024-06-07,Fathom Events
+NA,2024 Re-release,NA,NA,NA,NA
+154,2024 Oscar Nominated Short Films: Documentary,367,3162293,2024-02-16,ShortsTV
+155,The Front Room,2095,3092269,2024-09-06,A24
+156,Strange Darling,1135,3083595,2024-08-23,-
+157,The Long Game,1030,3060040,2024-04-12,-
+158,Jesus Thirsts: The Miracle of the Eucharist,1112,2927121,2024-06-04,Fathom Events
+159,1992,875,2906073,2024-08-30,Lionsgate
+160,The Fabulous Four,1045,2854291,2024-07-26,Bleecker Street Media
+161,My Penguin Friend,1083,2769460,2024-08-16,Roadside Attractions
+162,Absolution,1500,2716343,2024-11-01,The Samuel Goldwyn Company
+163,The Taste of Things,505,2654510,2024-02-09,IFC Films
+164,GHOST: Rite Here Rite Now,755,2647702,2024-06-20,Trafalgar Releasing
+165,Ezra,1320,2631460,2024-05-31,Bleecker Street Media
+166,Sight & Sound Presents: Daniel LIVE,851,2629933,2024-08-30,Fathom Events
+167,Boy Kills World,1993,2626127,2024-04-26,Roadside Attractions
+168,"Hello, Love, Again",248,2625000,2024-11-14,-
+169,Escape from Germany,131,2616475,2024-04-12,Susan Tuckett Media
+170,Jung Kook: I Am Still,769,2574318,2024-09-18,Trafalgar Releasing
+171,The Lord of the Rings: The Two Towers,1549,2566412,2024-06-07,Fathom Events
+NA,2024 Re-release,NA,NA,NA,NA
+172,The Blue Angels,450,2560945,2024-05-17,Amazon MGM Studios
+173,Problemista,379,2503154,2024-03-01,A24
+174,The American Society of Magical Negroes,1153,2480645,2024-03-15,Focus Features
+175,The Lord of the Rings: The Return of the King,1172,2450927,2024-06-10,Fathom Events
+NA,2024 Re-release,NA,NA,NA,NA
+176,Summer Camp,1787,2403638,2024-05-31,Roadside Attractions
+177,Sing Sing,191,2403211,2024-07-12,A24
+178,Howl's Moving Castle,1592,2384690,2024-09-26,Fathom Events
+NA,20th Anniversary – Studio Ghibli Fest 2024,NA,NA,NA,NA
+179,Interstella 5555: The 5tory of the 5ecret 5tar 5ystem,641,2328339,2024-12-12,Trafalgar Releasing
+180,Hitpig,2107,2324019,2024-11-01,Viva Pictures
+181,Elevation,1416,2321801,2024-11-08,Vertical Entertainment
+182,Alien,1750,2305647,2024-04-26,Walt Disney Studios Motion Pictures
+NA,2024 Re-release,NA,NA,NA,NA
+183,Exhuma,70,2310900,2024-03-15,Well Go USA Entertainment
+184,Flow,377,4844117,2024-11-22,Janus Films
+185,In the Land of Saints and Sinners,896,2258795,2024-03-29,The Samuel Goldwyn Company
+186,Bhool Bhulaiyaa 3,754,2230000,2024-11-01,-
+187,The Lion King,1330,2195943,2024-07-12,Walt Disney Studios Motion Pictures
+NA,2024 Re-release,NA,NA,NA,NA
+188,Singham Again,749,2190000,2024-11-01,-
+189,Stree 2,666,2570000,2024-08-16,Parthenos
+190,The Holdovers,1601,20355375,2024-10-27,Focus Features
+191,Average Joe,1713,2106965,2024-10-11,Fathom Events
+192,The Ark and the Darkness,1030,2097560,2024-03-20,Fathom Events
+193,Between the Temples,576,2084122,2024-08-23,Sony Pictures Classics
+194,Lee,854,2005488,2024-09-27,Roadside Attractions
+195,Look Back,531,2002270,2024-10-04,GKIDS
+196,Yolo,200,2001584,2024-03-08,Sony Pictures Releasing
+197,Queen Rock Montreal,387,2000000,2024-01-18,-
+198,The Order,603,2010901,2024-12-06,Vertical Entertainment
+199,SUGA: Agust D Tour 'D-DAY' the Movie,787,1951896,2024-04-10,Trafalgar Releasing
+200,Out of Darkness,897,1951547,2024-02-09,Bleecker Street Media
+1,A Minecraft Movie,4289,424087780,2025-04-04,Warner Bros.
+2,Lilo & Stitch,4410,423778855,2025-05-23,Walt Disney Studios Motion Pictures
+3,Superman,4275,354223803,2025-07-11,Warner Bros.
+4,Jurassic World: Rebirth,4324,339640400,2025-07-02,Universal Pictures
+5,Zootopia 2,4000,428130160,2025-11-26,Walt Disney Studios Motion Pictures
+6,Wicked: For Good,4115,342915090,2025-11-17,Universal Pictures
+7,Sinners,3518,279989632,2025-04-18,Warner Bros.
+8,The Fantastic Four: First Steps,4125,274286610,2025-07-25,Walt Disney Studios Motion Pictures
+9,How to Train Your Dragon,4373,262958100,2025-06-13,Universal Pictures
+10,Avatar: Fire and Ash,3835,404340010,2025-12-19,20th Century Studios
+11,Captain America: Brave New World,4105,200500001,2025-02-14,Walt Disney Studios Motion Pictures
+12,Mission: Impossible - The Final Reckoning,3861,197413515,2025-05-23,Paramount Pictures
+13,Thunderbolts*,4330,190274328,2025-05-02,Walt Disney Studios Motion Pictures
+14,F1: The Movie,3732,189642436,2025-06-27,Warner Bros.
+15,The Conjuring: Last Rites,3802,177756445,2025-09-05,Warner Bros.
+16,Weapons,3631,151572492,2025-08-08,Warner Bros.
+17,Final Destination: Bloodlines,3523,138254739,2025-05-16,Warner Bros.
+18,Demon Slayer: Kimetsu No Yaiba Infinity Castle,3342,136950340,2025-09-12,Sony Pictures Releasing
+19,Mufasa: The Lion King,4100,254567693,2025-12-20,Walt Disney Studios Motion Pictures
+20,Five Nights at Freddy's 2,3579,127730290,2025-12-05,Universal Pictures
+21,Dog Man,3887,97970355,2025-01-31,Universal Pictures
+22,Freakier Friday,3975,94186236,2025-08-08,Walt Disney Studios Motion Pictures
+23,Predator: Badlands,3725,91083631,2025-11-07,20th Century Studios
+24,Snow White,4200,87203963,2025-03-21,Walt Disney Studios Motion Pictures
+25,Sonic the Hedgehog 3,3769,236115100,2025-12-20,Paramount Pictures
+26,The Bad Guys 2,3860,82593605,2025-08-01,Universal Pictures
+27,Black Phone 2,3460,77378880,2025-10-17,Universal Pictures
+28,Tron: Ares,4000,73161014,2025-10-10,Walt Disney Studios Motion Pictures
+29,Elio,3750,72987454,2025-06-20,Walt Disney Studios Motion Pictures
+30,One Battle After Another,3634,72918884,2025-09-26,Warner Bros.
+31,28 Years Later,3444,70446897,2025-06-20,Sony Pictures Releasing
+32,The Accountant 2,3610,65523366,2025-04-25,Amazon MGM Studios
+33,Now You See Me: Now You Don't,3403,61882396,2025-11-14,Lionsgate
+34,The King of Kings,3535,60270106,2025-04-11,Angel
+35,David,3118,80382774,2025-12-19,Angel
+36,Ballerina,3409,58051327,2025-06-06,Lionsgate
+37,Moana 2,4200,460405297,2025-11-27,Walt Disney Studios Motion Pictures
+38,The Housemaid,3123,126432462,2025-12-19,Lionsgate
+39,The Naked Gun,3363,52647396,2025-08-01,Paramount Pictures International
+40,Karate Kid: Legends,3859,52547391,2025-05-30,Sony Pictures Releasing
+41,One of Them Days,2675,50054690,2025-01-17,Sony Pictures Releasing
+42,Regretting You,3425,48852948,2025-10-24,Paramount Pictures International
+43,Nosferatu,3132,95608235,2025-12-25,Focus Features
+44,A Complete Unknown,2835,75001720,2025-12-25,Searchlight Pictures
+45,The SpongeBob Movie: Search for SquarePants,3570,71068170,2025-12-19,Paramount Pictures International
+46,Mickey 17,3807,46142263,2025-03-07,Warner Bros.
+47,Paddington in Peru,3890,45800000,2025-02-14,Sony Pictures Releasing
+48,Downton Abbey: The Grand Finale,3711,44996590,2025-09-12,Focus Features
+49,Chainsaw Man - The Movie: Reze Arc,3003,43438461,2025-10-24,Sony Pictures Releasing
+50,Wicked,3888,474983975,2025-11-22,Universal Pictures
+51,The Amateur,3400,40759635,2025-04-11,20th Century Studios
+52,Marty Supreme,2887,96040064,2025-12-19,A24
+53,The Monkey,3227,39724909,2025-02-21,Neon
+54,The Running Man,3534,37815641,2025-11-14,Paramount Pictures International
+55,A Working Man,3262,37000711,2025-03-28,Amazon MGM Studios
+56,Materialists,2844,36521973,2025-06-13,A24
+57,Den of Thieves: Pantera,3008,36015016,2025-01-10,Lionsgate
+58,The Long Walk,2845,35163573,2025-09-12,Lionsgate
+59,Star Wars: Episode III - Revenge of the Sith,2800,34107714,2025-04-25,Walt Disney Studios Motion Pictures
+NA,20th anniversary,NA,NA,NA,NA
+60,Taylor Swift: The Official Release Party of a Showgirl,3702,34062774,2025-10-03,AMC Theatres
+61,I Know What You Did Last Summer,3206,32165634,2025-07-18,Sony Pictures Releasing
+62,Gabby's Dollhouse: The Movie,3507,32011820,2025-09-26,Universal Pictures
+63,Anaconda,3509,65098148,2025-12-25,Sony Pictures Releasing
+64,Smurfs,3504,31075170,2025-07-18,Paramount Pictures International
+65,Heart Eyes,3102,30415738,2025-02-07,Sony Pictures Releasing
+66,Flight Risk,3161,29783527,2025-01-24,Lionsgate
+67,Warfare,2670,26000309,2025-04-11,A24
+68,Him,3168,25009605,2025-09-19,Universal Pictures
+69,M3GAN 2.0,3133,24101280,2025-06-27,Universal Pictures
+70,Ne Zha 2,2228,23308176,2025-02-14,CMC Pictures
+71,KPop Demon Hunters,2890,24300000,2025-08-23,Netflix
+72,Roofman,3370,22739882,2025-10-10,Paramount Pictures International
+73,Springsteen: Deliver Me from Nowhere,3460,22638297,2025-10-24,20th Century Studios
+74,The Woman in the Yard,2845,22405985,2025-03-28,Universal Pictures
+75,Nobody 2,3282,21604985,2025-08-15,Universal Pictures
+76,Black Bag,2713,21474035,2025-03-14,Focus Features
+77,Death of a Unicorn,3050,12899252,2025-03-28,A24
+78,Together,2302,21273159,2025-07-30,Neon
+79,Last Breath,3090,21051180,2025-02-28,Focus Features
+80,Companion,3285,20869122,2025-01-31,Warner Bros.
+81,Wolf Man,3354,20707280,2025-01-17,Universal Pictures
+82,The Chosen: Last Supper,2272,20257290,2025-03-28,-
+83,Until Dawn,3055,20172192,2025-04-25,Screen Gems
+84,Novocaine,3369,19861854,2025-03-14,Paramount Pictures International
+85,The Phoenician Scheme,1731,19555015,2025-05-30,Focus Features
+86,Bring Her Back,2449,19333305,2025-05-30,A24
+87,Babygirl,2164,28196732,2025-12-25,A24
+88,Caught Stealing,3578,19005242,2025-08-29,Sony Pictures Releasing
+89,Bugonia,2043,17692390,2025-10-24,Focus Features
+90,Hamilton,1850,16946377,2025-09-05,Walt Disney Studios Motion Pictures
+NA,2025 Re-release,NA,NA,NA,NA
+91,Song Sung Blue,2705,39185290,2025-12-25,Focus Features
+92,Drop,3089,16600805,2025-04-11,Universal Pictures
+93,Good Fortune,2990,16585758,2025-10-17,Lionsgate
+94,Jujutsu Kaisen: Execution,1935,16583133,2025-12-05,GKIDS
+95,Friendship,1293,16252948,2025-05-09,A24
+96,Eternity,2386,16210244,2025-11-26,A24
+97,Love Hurts,3055,15683090,2025-02-07,Universal Pictures
+98,The Brutalist,1612,16279129,2025-12-20,A24
+99,The Roses,2700,15298844,2025-08-29,Searchlight Pictures
+100,The Last Rodeo,2205,15201659,2025-05-23,Angel
+101,The Strangers: Chapter 2,2690,15153346,2025-09-26,Lionsgate
+102,Nuremberg,1830,14524692,2025-11-07,Sony Pictures Classics
+103,Jaws,3200,12819675,2025-08-29,-
+NA,2025 Re-release (50th Anniversary),NA,NA,NA,NA
+104,The Chosen: Last Supper Part 2,2313,12372228,2025-04-04,-
+105,The Chosen: Last Supper Part 3,2297,11742410,2025-04-11,-
+106,Sarah's Oil,2410,11675627,2025-11-07,Amazon MGM Studios
+107,The Smashing Machine,3345,11411388,2025-10-03,A24
+108,Hamnet,1996,24208900,2025-11-26,Focus Features
+109,Becoming Led Zeppelin,1039,10403353,2025-02-07,Sony Pictures Classics
+110,Eddington,2111,10223277,2025-07-18,A24
+111,Rental Family,1925,10047429,2025-11-21,Searchlight Pictures
+112,The Day the Earth Blew Up: A Looney Tunes Movie,2827,8875344,2025-03-14,Ketchup Entertainment
+113,Sketch,2157,8129808,2025-08-06,Angel
+114,Back to the Future,2290,7923545,2025-10-31,Universal Pictures
+NA,40th Anniversary,NA,NA,NA,NA
+115,Gladiator II,3580,172438016,2025-11-22,Paramount Pictures
+116,Soul on Fire,1720,7448606,2025-10-10,Affirm Films
+117,Clown in a Cornfield,2277,7251799,2025-05-09,RLJ Entertainment
+118,Presence,1750,6900044,2025-01-24,Neon
+119,Princess Mononoke,630,6851056,2025-03-28,GKIDS
+NA,4K Restoration,NA,NA,NA,NA
+120,Homestead,1886,20811864,2025-12-20,Angel
+121,Toy Story,2375,6721383,2025-09-12,Walt Disney Studios Motion Pictures
+NA,2025 Re-release,NA,NA,NA,NA
+122,The Life of Chuck,1072,6712600,2025-06-06,Neon
+123,A Big Bold Beautiful Journey,3330,6671082,2025-09-19,Sony Pictures Releasing
+124,Good Boy,1650,6624062,2025-10-03,IFC Films
+125,The Last Supper,1575,6564857,2025-03-14,-
+126,The Unbreakable Boy,1717,6443813,2025-02-21,Lionsgate
+127,Anora,1938,20474295,2025-10-18,Neon
+128,I'm Still Here,762,6233517,2025-01-17,Sony Pictures Classics
+129,Pride & Prejudice,1393,6193658,2025-04-20,Focus Features
+NA,20th Anniversary Re-Release,NA,NA,NA,NA
+130,The Alto Knights,2651,6125566,2025-03-21,Warner Bros.
+131,Truth & Treason,2106,6044364,2025-10-17,Angel
+132,Kill Bill: The Whole Bloody Affair,1204,6002538,2025-12-05,Lionsgate
+133,Honey Don't!,1338,5810510,2025-08-22,Focus Features
+134,Dan Da Dan: Evil Eye,1085,5637078,2025-06-06,GKIDS
+135,Die My Love,1983,5515263,2025-11-07,MUBI
+136,The Senior,2405,5295949,2025-09-19,Angel
+137,Hurry Up Tomorrow,2020,5215357,2025-05-16,Lionsgate
+138,Light of the World,2075,5213377,2025-09-05,-
+139,The Last Showgirl,946,4799804,2025-12-13,Roadside Attractions
+140,Stitch Head,2162,4562943,2025-10-29,Briarcliff Entertainment
+141,Sisu: Road to Revenge,2222,4544481,2025-11-21,Sony Pictures Releasing
+142,Brave the Dark,2230,4525443,2025-01-24,Angel
+143,Shelby Oaks,1823,4500051,2025-10-24,Neon
+144,Avatar: The Way of Water,2140,4383734,2025-10-03,Walt Disney Studios Motion Pictures
+NA,2025 Re-release,NA,NA,NA,NA
+145,Keeper,1950,4200165,2025-11-14,Neon
+146,Shin Godzilla,1290,4042146,2025-08-14,GKIDS
+NA,2025 Re-release,NA,NA,NA,NA
+147,Ella McCay,2500,4033242,2025-12-12,20th Century Studios
+148,The Friend,1237,3941217,2025-03-28,Bleecker Street Media
+149,Shadow Force,2170,3933483,2025-05-09,Lionsgate
+150,Sentimental Value,334,5338580,2025-11-07,Neon
+151,Colorful Stage! The Movie: A Miku Who Can't Sing,800,3661284,2025-04-18,GKIDS
+152,Chhaava,497,4800000,2025-02-14,Yash Raj Films
+153,Dhurandhar,400,19702994,2025-12-05,Moviegoers Entertainment
+154,Fight or Flight,2153,3522025,2025-05-09,Vertical Entertainment
+155,The Penguin Lessons,1017,3294990,2025-03-28,Sony Pictures Classics
+156,2025 Oscar Nominated Short Films: Live Action,500,3275477,2025-02-14,ShortsTV
+157,After the Hunt,1238,3258830,2025-10-10,Amazon MGM Studios
+158,Jujutsu Kaisen: Hidden Inventory / Premature Death - The Movie,1187,3257365,2025-07-16,GKIDS
+159,Hell of a Summer,1255,3182678,2025-04-04,Neon
+160,Relay,1483,3164481,2025-08-22,Bleecker Street Media
+161,Kraven the Hunter,3211,25026310,2025-12-13,Sony Pictures Releasing
+162,War 2,875,3087065,2025-08-14,Yash Raj Films USA Inc.
+163,The Fire Inside,2032,8093190,2025-12-25,Amazon MGM Studios
+164,How the Grinch Stole Christmas,2250,3063665,2025-12-12,Universal Pictures
+NA,2025 Re-release,NA,NA,NA,NA
+165,Rule Breakers,2044,2969825,2025-03-07,Angel
+166,Attack on Titan: The Last Attack,525,2890192,2025-02-10,Sony Pictures Releasing
+167,The Toxic Avenger,1995,2866783,2025-08-29,Iconic Events Releasing
+168,Dangerous Animals,1636,2738137,2025-06-06,IFC Films
+169,Nickel Boys,540,2858346,2025-12-13,Amazon MGM Studios
+170,Pink Floyd: Live at Pompeii,678,2620076,2025-04-24,Trafalgar Releasing
+NA,2025 Re-release,NA,NA,NA,NA
+171,Eleanor the Great,892,2607002,2025-09-26,Sony Pictures Classics
+172,Flow,377,4844117,2025-11-22,Janus Films
+173,No Other Land,140,2549422,2025-01-31,-
+174,Spinal Tap II: The End Continues,1920,2508554,2025-09-12,Bleecker Street Media
+175,The Legend of Ochi,1153,2475373,2025-04-18,A24
+176,Merrily We Roll Along,1084,2508329,2025-12-05,Sony Pictures Classics
+177,Coolie,800,2450000,2025-08-15,Prathyangira Cinemas
+178,"Sorry, Baby",338,2418280,2025-06-27,A24
+179,5-Sep,398,2508723,2025-12-13,Paramount Pictures International
+180,The Room Next Door,861,2519488,2025-12-20,Sony Pictures Classics
+181,Spider-Man/Spider-Man 2/Spider-Man 3,1485,2250977,2025-09-26,-
+NA,Fathom 2025,NA,NA,NA,NA
+182,Detective Chinatown 1900,229,2229946,2025-01-29,CMC Pictures
+183,Dogma,1039,2193805,2025-06-05,Iconic Events Releasing
+NA,Dogma: Resurrected! A 25th Anniversary Celebration,NA,NA,NA,NA
+184,The Wedding Banquet,1142,2090228,2025-04-18,Bleecker Street Media
+185,"Oh, Hi!",866,2082113,2025-07-25,Sony Pictures Classics
+186,Game Changer,800,2100000,2025-01-10,Shloka Entertainments
+187,Sight & Sound Presents: NOAH Live,933,2059719,2025-09-18,-
+188,Blue Moon,689,2170688,2025-10-17,Sony Pictures Classics
+189,Opus,1764,1993397,2025-03-14,A24
+190,Christy,2184,1952677,2025-11-07,Black Bear
+191,Better Man,1291,1983648,2025-12-25,Paramount Pictures
+192,Pets on a Train,1350,1902241,2025-10-17,Viva Pictures
+193,Jane Austen Wrecked My Life,526,1900978,2025-05-23,Sony Pictures Classics
+194,Splitsville,800,1900750,2025-08-22,Neon
+195,In the Lost Lands,1370,1870305,2025-03-07,Vertical Entertainment
+196,Riff Raff,1004,1862519,2025-02-27,Roadside Attractions
+197,Night of the Zoopocalypse,1425,2108907,2025-03-07,Viva Pictures
+198,Creation of the Gods II: Demon Force,200,1853487,2025-01-31,Well Go USA Entertainment
+199,Casper,1100,1840230,2025-10-03,Universal Pictures
+NA,2025 Re-release,NA,NA,NA,NA
+200,Kuberaa,500,1750000,2025-06-20,Prathyangira Cinemas

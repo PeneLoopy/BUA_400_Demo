@@ -1,0 +1,403 @@
+movie,num_days,first_date,mn_num_releases,md_num_releases
+12 Strong,2,2018-01-19,49,49
+1917,7,2020-01-10,49,49
+28 Years Later,1,2025-06-20,31,31
+80 for Brady,5,2023-02-05,35,35
+A Bad Moms Christmas,2,2017-11-01,60,60
+A Dog's Purpose,1,2017-02-05,50,50
+A Haunting in Venice,4,2023-09-15,37,37
+A Madea Family Funeral,1,2019-03-01,61,61
+A Minecraft Movie,14,2025-04-04,39,40
+A Quiet Place,15,2018-04-06,53,53
+A Quiet Place Part II,20,2021-05-28,28,28
+A Quiet Place: Day One,1,2024-06-28,38,38
+A Simple Favor,1,2018-09-20,68,68
+A Star Is Born,5,2018-10-11,63,63
+A Working Man,4,2025-03-28,44,42
+A Wrinkle in Time,1,2018-03-09,57,57
+Abigail,1,2024-04-19,38,38
+Abominable,3,2019-09-27,56,57
+After Ever Happy,2,2022-09-07,39,39
+Aladdin,13,2019-05-24,51,50
+Alien: Covenant,1,2017-05-19,54,54
+Alien: Romulus,8,2024-08-16,39,37
+Alita: Battle Angel,7,2019-02-14,62,62
+American Made,5,2017-09-29,62,62
+Angel Has Fallen,14,2019-08-23,59,59
+Annabelle: Creation,7,2017-08-11,56,55
+Ant-Man and the Wasp,7,2018-07-06,49,49
+Ant-Man and the Wasp: Quantumania,11,2023-02-17,38,37
+Anyone But You,4,2024-01-08,44,45
+Aquaman,21,2018-12-21,52,52
+Aquaman and the Lost Kingdom,3,2023-12-22,41,41
+Argylle,12,2024-02-02,43,42
+Attack on Titan: The Last Attack,1,2025-02-10,49,49
+Avatar: Fire and Ash,28,2025-12-19,35,35
+Avatar: The Way of Water,48,2022-12-16,32,31
+Avengers: Endgame,20,2019-04-26,58,58
+Avengers: Infinity War,21,2018-04-27,56,55
+Baby Driver,2,2017-06-28,50,50
+Bad Boys for Life,21,2020-01-17,49,49
+Bad Boys: Ride or Die,7,2024-06-07,28,28
+Ballerina,1,2025-06-06,29,29
+Barbarian,7,2022-09-09,45,45
+Barbie,38,2023-07-21,34,33
+Batman v Superman: Dawn of Justice,16,2016-03-25,52,52
+Baywatch,1,2017-05-25,56,56
+Be Natural: The Untold Story of Alice Guy-Blaché,3,2020-03-25,1,1
+Beauty and the Beast,18,2017-03-17,49,48
+Becky,8,2020-06-05,6,6
+Beetlejuice Beetlejuice,20,2024-09-06,41,40
+Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,7,2020-02-07,45,45
+Black Adam,20,2022-10-21,34,34
+Black Panther,34,2018-02-16,58,57
+Black Panther: Wakanda Forever,34,2022-11-11,30,30
+Black Phone 2,9,2025-10-17,45,44
+Black Widow,13,2021-07-09,24,23
+Blade Runner 2049,11,2017-10-06,64,64
+Blue Beetle,3,2023-08-18,34,34
+Bob Marley: One Love,15,2024-02-14,43,43
+Bohemian Rhapsody,7,2018-11-02,65,65
+Boo 2! A Madea Halloween,7,2017-10-20,64,64
+Boo! A Madea Halloween,6,2016-10-21,68,68
+Bullet Train,19,2022-08-05,36,39
+Candyman,7,2021-08-27,32,32
+Captain America: Brave New World,21,2025-02-14,45,45
+Captain America: Civil War,18,2016-05-06,46,48
+Captain Marvel,15,2019-03-08,68,67
+Cars 3,5,2017-06-16,50,49
+Caught Stealing,1,2025-08-29,40,40
+Chainsaw Man - The Movie: Reze Arc,6,2025-10-24,44,44
+Challengers,7,2024-04-26,37,36
+Christmas with the Chosen: The Messengers,2,2021-12-01,32,32
+Civil War,13,2024-04-12,39,39
+Cocaine Bear,3,2023-02-24,41,41
+Coco,23,2017-11-22,58,58
+Come Play,7,2020-10-30,32,31
+Crazy Rich Asians,23,2018-08-15,57,58
+Creed II,2,2018-11-28,54,54
+Creed III,7,2023-03-03,40,40
+DC League of Super-Pets,7,2022-07-29,33,33
+Deadpool,21,2016-02-12,51,50
+Deadpool & Wolverine,28,2024-07-26,36,35
+Deadpool 2,7,2018-05-18,56,56
+Death on the Nile,6,2022-02-11,36,36
+Deepwater Horizon,2,2016-10-05,66,66
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,1,2024-02-23,45,45
+Demon Slayer: Kimetsu No Yaiba Infinity Castle,13,2025-09-12,37,37
+Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,11,2021-04-23,23,24
+Den of Thieves,1,2018-01-22,49,49
+Den of Thieves: Pantera,3,2025-01-10,38,38
+Despicable Me 3,7,2017-06-30,52,52
+Despicable Me 4,16,2024-07-03,34,33
+Doctor Strange,14,2016-11-04,53,53
+Doctor Strange in the Multiverse of Madness,21,2022-05-06,31,30
+Dog Man,9,2025-01-31,43,43
+Don't Breathe,14,2016-08-26,57,57
+Don't Worry Darling,7,2022-09-23,46,46
+Downton Abbey,11,2019-09-20,61,62
+Dragon Ball Super: Broly,2,2019-01-16,48,48
+Dragon Ball Super: Super Hero,7,2022-08-19,36,36
+Dumbo,7,2019-03-29,70,70
+Dune: Part One,10,2021-10-22,32,31
+Dune: Part Two,15,2024-03-01,37,37
+Dungeons & Dragons: Honor Among Thieves,5,2023-03-31,36,37
+Dunkirk,19,2017-07-21,52,52
+Elemental,4,2023-06-22,26,27
+Elvis,2,2022-06-24,32,32
+Encanto,16,2021-11-24,35,35
+Eternals,14,2021-11-05,30,30
+Everything Everywhere All at Once,1,2022-05-04,29,29
+F1: The Movie,5,2025-06-27,29,29
+F9: The Fast Saga,14,2021-06-25,26,28
+Fantastic Beasts and Where to Find Them,5,2016-11-18,51,51
+Fantastic Beasts: The Crimes of Grindelwald,5,2018-11-16,59,61
+Fantastic Beasts: The Secrets of Dumbledore,5,2022-04-15,26,26
+Fast & Furious Presents: Hobbs & Shaw,11,2019-08-02,54,54
+Fast X,7,2023-05-19,34,33
+Fifty Shades Darker,5,2017-02-10,47,47
+Fifty Shades Freed,6,2018-02-09,52,50
+Final Destination: Bloodlines,7,2025-05-16,40,40
+Finding Dory,20,2016-06-17,44,44
+Five Nights at Freddy's,14,2023-10-27,37,38
+Five Nights at Freddy's 2,3,2025-12-05,37,36
+Flight Risk,5,2025-01-24,39,39
+Followed,12,2020-06-19,8,8
+Ford v Ferrari,7,2019-11-15,57,57
+Freaky,12,2020-11-13,25,25
+Free Guy,14,2021-08-13,31,31
+Frozen II,21,2019-11-22,54,53
+Furiosa: A Mad Max Saga,5,2024-05-24,30,30
+Get Out,7,2017-02-24,52,52
+Ghostbusters,1,2016-07-15,49,49
+Ghostbusters: Afterlife,5,2021-11-19,35,35
+Ghostbusters: Frozen Empire,7,2024-03-22,37,37
+Glass,20,2019-01-18,53,54
+Godzilla Minus One,3,2023-12-04,32,32
+Godzilla X Kong: The New Empire,14,2024-03-29,41,40
+Godzilla vs. Kong,19,2021-03-31,27,28
+Godzilla: King of the Monsters,1,2019-05-31,55,55
+Good Boys,7,2019-08-16,54,54
+Gran Turismo,1,2023-08-25,40,40
+Guardians of the Galaxy Vol. 3,14,2023-05-05,32,33
+Guardians of the Galaxy: Vol. 2,19,2017-05-05,52,52
+Halloween,14,2018-10-19,65,65
+Halloween Ends,6,2022-10-14,35,35
+Halloween Kills,5,2021-10-15,29,30
+Happy Death Day,3,2017-10-13,63,63
+Heart Eyes,4,2025-02-07,49,49
+Hidden Figures,13,2017-01-06,46,45
+Him,1,2025-09-19,38,38
+Hitman's Wife's Bodyguard,4,2021-06-16,29,29
+Honest Thief,14,2020-10-16,36,36
+Hotel Transylvania 3: Summer Vacation,7,2018-07-13,50,50
+House of Gucci,1,2021-11-30,32,32
+How to Train Your Dragon,13,2025-06-13,28,27
+How to Train Your Dragon: The Hidden World,13,2019-02-22,58,56
+Hustlers,5,2019-09-13,60,60
+I Still Believe,1,2020-03-13,52,52
+IF,6,2024-05-17,35,34
+In the Heights,1,2021-06-11,30,30
+Incredibles 2,8,2018-06-15,50,49
+Indiana Jones and the Dial of Destiny,8,2023-06-30,26,26
+Inferno,4,2016-10-28,63,63
+Inside Out 2,18,2024-06-14,35,36
+Insidious: The Last Key,1,2018-01-05,45,45
+Insidious: The Red Door,1,2023-07-07,31,31
+Is Genesis History?,1,2017-02-23,49,49
+Isn't It Romantic,1,2019-02-13,63,63
+It,15,2017-09-08,60,60
+It Ends with Us,5,2024-08-09,36,36
+It: Chapter Two,9,2019-09-06,56,57
+Jack Reacher: Never Go Back,4,2016-10-24,70,70
+Jackass Forever,7,2022-02-04,33,33
+Jason Bourne,7,2016-07-29,49,48
+Jigsaw,5,2017-10-27,59,59
+John Wick: Chapter 3 - Parabellum,7,2019-05-17,53,53
+John Wick: Chapter 4,7,2023-03-24,34,34
+Joker,22,2019-10-04,56,56
+Joker: Folie à Deux,5,2024-10-04,45,47
+Judas and the Black Messiah,1,2021-02-12,23,23
+Jumanji: The Next Level,7,2019-12-13,55,54
+Jumanji: Welcome to the Jungle,23,2018-01-01,48,46
+Jungle Cruise,11,2021-07-30,34,35
+Jurassic World: Dominion,11,2022-06-10,35,35
+Jurassic World: Fallen Kingdom,13,2018-06-22,51,50
+Jurassic World: Rebirth,9,2025-07-02,28,28
+Justice League,5,2017-11-17,59,60
+KPop Demon Hunters,2,2025-08-23,43,43
+Killers of the Flower Moon,3,2023-10-23,39,39
+Kingdom of the Planet of the Apes,8,2024-05-10,37,36
+Kingsman: The Golden Circle,8,2017-09-22,61,61
+Knock at the Cabin,2,2023-02-03,37,37
+Kong: Skull Island,7,2017-03-10,52,52
+Kung Fu Panda 3,14,2016-01-29,47,48
+Kung Fu Panda 4,6,2024-03-08,38,39
+Let Him Go,7,2020-11-06,30,30
+Lightyear,1,2022-06-17,36,36
+Lilo & Stitch,20,2025-05-23,29,29
+Logan,7,2017-03-03,59,59
+M3GAN,1,2023-01-06,29,29
+Magic Mike's Last Dance,5,2023-02-10,35,35
+Maleficent: Mistress of Evil,6,2019-10-18,62,62
+Mamma Mia! Here We Go Again,5,2018-07-20,51,51
+Marry Me,1,2022-02-14,36,36
+Mary Poppins Returns,2,2018-12-19,62,62
+Maze Runner: The Death Cure,8,2018-01-26,49,50
+Mean Girls,13,2024-01-12,45,45
+Men in Black: International,3,2019-06-14,49,49
+Mickey 17,10,2025-03-07,49,50
+Midway,7,2019-11-08,56,56
+Minions: The Rise of Gru,7,2022-07-01,29,29
+Miss Peregrine's Home for Peculiar Children,5,2016-09-30,66,65
+Mission: Impossible - Dead Reckoning Part One,8,2023-07-12,32,32
+Mission: Impossible - Fallout,14,2018-07-27,49,48
+Moana,19,2016-11-23,52,52
+Moana 2,13,2024-11-27,36,32
+Monster Hunter,1,2020-12-18,27,27
+Morbius,7,2022-04-01,34,34
+Mortal Kombat,3,2021-04-24,24,23
+Mufasa: The Lion King,20,2024-12-25,40,39
+My Hero Academia: Heroes Rising,1,2020-02-26,56,56
+Night School,6,2018-09-28,68,68
+Night Swim,1,2024-01-05,46,46
+No Hard Feelings,1,2023-06-23,24,24
+No Time to Die,13,2021-10-08,29,29
+Nobody,9,2021-03-26,27,28
+Nope,7,2022-07-22,31,31
+Novocaine,4,2025-03-14,48,48
+Now You See Me: Now You Don't,7,2025-11-14,48,48
+Ocean's Eight,7,2018-06-08,56,56
+Office Christmas Party,4,2016-12-09,50,50
+Old,7,2021-07-23,38,38
+One Battle After Another,11,2025-09-26,37,37
+One Piece Film: Red,1,2022-11-04,35,35
+One of Them Days,5,2025-01-17,40,40
+Onward,13,2020-03-06,49,54
+PAW Patrol: The Mighty Movie,2,2023-09-30,38,38
+Pacific Rim: Uprising,5,2018-03-23,55,54
+Pathaan,1,2023-01-25,33,33
+Peter Rabbit,1,2018-02-11,54,54
+Pirates of the Caribbean: Dead Men Tell No Tales,7,2017-05-26,47,45
+Pokémon: Detective Pikachu,1,2019-05-10,56,56
+Predator: Badlands,7,2025-11-07,45,45
+Ralph Breaks the Internet,17,2018-11-21,56,55
+Rampage,5,2018-04-13,56,57
+Raya and the Last Dragon,21,2021-03-05,28,28
+Ready Player One,8,2018-03-29,57,57
+Reagan,1,2024-09-05,43,43
+Red One,7,2024-11-15,42,41
+Regretting You,6,2025-11-01,48,48
+Relic,21,2020-07-03,8,7
+Renaissance: A Film by Beyoncé,2,2023-12-01,32,32
+Resistance,7,2020-04-17,2,2
+Ride Along 2,3,2016-01-15,43,43
+Rings,1,2017-02-03,49,49
+Rogue One: A Star Wars Story,23,2016-12-16,50,50
+Sausage Party,1,2016-08-12,54,54
+Saw X,5,2023-09-29,38,38
+Scary Stories to Tell in the Dark,1,2019-08-09,55,55
+Scream,7,2022-01-14,25,25
+Scream VI,8,2023-03-10,39,38
+Shang-Chi and the Legend of the Ten Rings,28,2021-09-03,31,31
+Shazam!,14,2019-04-05,65,65
+Shazam! Fury of the Gods,6,2023-03-17,36,36
+Sinners,15,2025-04-18,41,42
+Smallfoot,1,2018-09-30,67,67
+Smile,15,2022-09-30,42,41
+Smile 2,7,2024-10-18,48,47
+Snow White,10,2025-03-21,45,45
+Solo: A Star Wars Story,14,2018-05-25,60,57
+Sonic the Hedgehog,9,2020-02-14,53,53
+Sonic the Hedgehog 2,9,2022-04-08,28,28
+Sonic the Hedgehog 3,9,2024-12-20,41,37
+Sound of Freedom,4,2023-07-04,30,31
+Space Jam: A New Legacy,1,2021-07-16,30,30
+Spider-Man: Across the Spider-Verse,17,2023-06-02,30,31
+Spider-Man: Far from Home,17,2019-07-02,53,54
+Spider-Man: Homecoming,10,2017-07-07,52,52
+Spider-Man: Into the Spider-Verse,5,2018-12-14,61,61
+Spider-Man: No Way Home,43,2021-12-17,26,26
+Spiral,14,2021-05-14,28,28
+Split,18,2017-01-20,48,48
+Star Trek Beyond,7,2016-07-22,49,48
+Star Wars: Episode IX - The Rise of Skywalker,21,2019-12-20,52,52
+Star Wars: Episode VII - The Force Awakens,25,2015-12-18,47,47
+Star Wars: Episode VIII - The Last Jedi,17,2017-12-15,45,44
+Suicide Squad,20,2016-08-05,52,53
+Sully,14,2016-09-09,63,62
+Super Troopers 2,1,2018-04-20,57,57
+Superman,14,2025-07-11,30,30
+Swallow,1,2020-04-10,2,2
+Taylor Swift: The Eras Tour,8,2023-10-13,42,42
+Taylor Swift: The Official Release Party of a Showgirl,3,2025-10-03,38,38
+Teenage Mutant Ninja Turtles: Out of the Shadows,7,2016-06-03,44,44
+Tenet,36,2020-09-03,17,17
+Terminator: Dark Fate,7,2019-11-01,55,55
+Terrifier 3,6,2024-10-11,44,44
+The Accountant,7,2016-10-14,70,70
+The Angry Birds Movie,3,2016-05-20,52,52
+The Bad Guys,11,2022-04-22,29,29
+The Batman,21,2022-03-04,32,33
+The Beekeeper,7,2024-01-22,45,45
+The Best Christmas Pageant Ever,1,2024-11-08,45,45
+The Blind,1,2023-09-28,37,37
+The Boss,5,2016-04-08,46,45
+The Boss Baby,10,2017-03-31,53,53
+The Boy and the Heron,7,2023-12-08,38,39
+The Call of the Wild,4,2020-02-21,56,56
+The Chosen Season 3 Finale,1,2023-02-02,35,35
+The Chosen: S4 Episodes 1-3,1,2024-02-01,45,45
+The Color Purple,1,2023-12-25,44,44
+The Conjuring 2,7,2016-06-10,46,45
+The Conjuring: Last Rites,7,2025-09-05,39,39
+The Conjuring: The Devil Made Me Do It,3,2021-06-04,29,29
+The Croods: A New Age,45,2020-11-25,23,23
+The Curse of La Llorona,6,2019-04-19,68,69
+The Dark Tower,1,2017-08-04,52,52
+The Divergent Series: Allegiant,1,2016-03-18,52,52
+The Emoji Movie,1,2017-07-28,52,52
+The Equalizer 2,2,2018-07-21,54,54
+The Equalizer 3,7,2023-09-01,39,40
+The Exorcist: Believer,10,2023-10-06,43,44
+The Expendables 4,2,2023-09-22,40,40
+The Fall Guy,7,2024-05-03,38,37
+The Fantastic Four: First Steps,14,2025-07-25,29,29
+The Fate of the Furious,21,2017-04-14,53,52
+The Flash,5,2023-06-16,28,26
+The Garfield Movie,9,2024-05-27,31,31
+The Gentlemen,5,2020-03-20,1,1
+The Girl on the Train,7,2016-10-07,65,65
+The Grinch,11,2018-11-09,63,63
+The Hitman's Bodyguard,21,2017-08-18,57,53
+The House with a Clock in Its Walls,7,2018-09-21,63,64
+The Hunger Games: The Ballad of Songbirds & Snakes,15,2023-11-17,32,32
+The Invisible Man,7,2020-02-28,54,53
+The Invitation,3,2022-08-26,41,41
+The Jungle Book,21,2016-04-15,43,43
+The Lego Batman Movie,8,2017-02-11,49,48
+The Lego Movie 2: The Second Part,6,2019-02-08,61,60
+The Lion King,16,2019-07-19,50,50
+The Little Mermaid,7,2023-05-26,37,36
+The Little Things,13,2021-01-29,21,21
+The Lost City,7,2022-03-25,37,36
+The Magnificent Seven,7,2016-09-23,65,66
+The Marksman,12,2021-01-15,20,19
+The Marvels,7,2023-11-10,38,38
+The Meg,5,2018-08-10,48,48
+The New Mutants,6,2020-08-28,12,12
+The Northman,2,2022-04-25,28,28
+The Nun,7,2018-09-07,63,63
+The Nun II,14,2023-09-08,37,37
+The Other Lamb,13,2020-04-03,1,1
+The Post,3,2018-01-18,48,48
+The Predator,6,2018-09-14,69,68
+The Purge: Election Year,1,2016-07-01,44,44
+The Rental,20,2020-07-24,9,9
+The Revenant,14,2016-01-08,45,45
+The Secret Life of Pets,13,2016-07-08,49,48
+The Secret Life of Pets 2,11,2019-06-07,53,54
+The SpongeBob Movie: Sponge on the Run,7,2020-08-14,12,11
+The Suicide Squad,3,2021-08-06,35,35
+The Super Mario Bros. Movie,30,2023-04-05,35,35
+The Tax Collector,1,2020-08-07,13,13
+The Upside,6,2019-01-11,52,52
+The War with Grandpa,7,2020-10-09,28,29
+The Wild Robot,10,2024-09-27,42,40
+The Woman King,7,2022-09-16,49,48
+The Wretched,42,2020-05-01,4,3
+Thor: Love and Thunder,14,2022-07-08,31,32
+Thor: Ragnarok,14,2017-11-03,60,60
+Thunderbolts*,13,2025-05-02,38,38
+Tom & Jerry,7,2021-02-26,28,26
+Tomb Raider,1,2018-03-16,55,55
+Top Gun: Maverick,24,2022-05-27,35,35
+Toy Story 4,11,2019-06-21,52,52
+Transformers One,1,2024-09-20,43,43
+Transformers: Rise of the Beasts,1,2023-06-09,31,31
+Transformers: The Last Knight,7,2017-06-21,50,50
+Tron: Ares,7,2025-10-10,40,39
+True History of the Kelly Gang,7,2020-04-24,2,2
+Twisters,7,2024-07-19,33,32
+Uncharted,14,2022-02-18,38,38
+Unhinged,7,2020-08-21,8,8
+Unsubscribe,1,2020-06-10,7,7
+Us,7,2019-03-22,69,69
+Venom,9,2018-10-05,66,66
+Venom: Let There Be Carnage,7,2021-10-01,33,33
+Venom: The Last Dance,20,2024-10-25,45,45
+Violent Night,1,2022-12-02,31,31
+War for the Planet of the Apes,4,2017-07-14,52,52
+Weapons,25,2025-08-08,34,34
+West Side Story,4,2021-12-10,35,35
+Wicked,15,2024-11-22,34,36
+Wicked: For Good,5,2025-11-21,37,38
+Winchester,1,2018-02-02,46,46
+Wish,1,2023-11-22,36,36
+Wonder Woman,14,2017-06-02,48,48
+Wonder Woman 1984,21,2020-12-25,18,17
+Wonka,19,2023-12-15,43,44
+Wrath of Man,7,2021-05-07,30,28
+X-Men: Apocalypse,7,2016-05-27,45,45
+Zootopia,20,2016-03-04,51,52
+Zootopia 2,20,2025-11-26,39,39
