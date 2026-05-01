@@ -777,3 +777,37 @@ tidy(aov_model) |>
     title = "Analysis of Variance - LN Distribution Efficiency Index",
     subtitle = "Pre vs. Post Pandemic by Quarter and Disributor"
   )
+  
+  
+### old yml
+
+project:
+  type: website
+
+website:
+  title: ""
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
+# navbar with github link
+
+project:
+  type: website
+
+website:
+  title: ""
+
+format:
+  html:
+    theme: cyborg
+    css: styles.css
+    toc: true
+
+editor: visual

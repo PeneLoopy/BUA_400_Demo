@@ -20,7 +20,7 @@ if (!require("pacman")) install.packages("pacman", repos = "http://lib.stat.cmu.
 pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes, 
                RColorBrewer, highcharter, kableExtra, dygraphs, 
                gridExtra, plotly, gt, broom, emmeans, multcomp,
-               multcompView)
+               multcompView, quarto, renv)
 
 # verify packages
 #p_loaded()
