@@ -20,7 +20,7 @@ if (!require("pacman")) install.packages("pacman", repos = "http://lib.stat.cmu.
 pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes, 
                RColorBrewer, highcharter, kableExtra, dygraphs, 
                gridExtra, plotly, gt, broom, emmeans, multcomp,
-               multcompView, quarto, renv)
+               multcompView, quarto)
 
 # verify packages
 #p_loaded()
@@ -28,7 +28,7 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 ```
 
-# {}
+# 
 
 ![](img/Slide0_Graphic_Faded.png)
 
@@ -40,7 +40,8 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 **Background**
 
--   Exploratory Data Analysis (EDA) in 2026 should ideally be interactive and leverage AI tools.
+-   Exploratory Data Analysis (EDA) in 2026 should ideally
+    be interactive and leverage AI tools.
 
 -   This course teaches students to explore, analyze, and
     communicate with data.
@@ -50,8 +51,10 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 -   This course is designed to 'flatten' the learning curve
     for analysts at beginning of their career.
-    
--   Learning to explore data without a defined 'right answer' helps build confidence and creative thinking skills.
+
+-   Learning to explore data without a defined 'right
+    answer' helps build confidence and creative thinking
+    skills.
 
 ### Column {width="50%"}
 
@@ -67,21 +70,24 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 -   Whitman students receive excellent technical and
     analytical training.
-    
+
 -   Putting those skills to use in a creative and
     exploratory setting is essential.
-    
-  
--   This course will encourage students to use a 'question' as a prompt for:
-    
+
+-   This course will encourage students to use a 'question'
+    as a prompt for:
+
     -   aggregating and exploring data.
     -   understanding that the process is iterative.
-    -   effectively communicating preliminary exploration findings visually, orally and in writing.
+    -   effectively communicating preliminary exploration
+        findings visually, orally and in writing.
     -   effectively and securely collaborating with others.
-    
+
 <br>
 
-**This course will help students to provide 'added value' in terms of critical thinking, creativity, and long term project management, beyond what AI tools can produce.**
+**This course will help students to provide 'added value' in
+terms of critical thinking, creativity, and long term
+project management, beyond what AI tools can produce.**
 
 ### Column {width="50%"}
 
@@ -94,7 +100,7 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 ### Column {width="65%"}
 
 **Are there other courses on campus that teach these
-    skills?**
+skills?**
 
 -   Yes and No...not in one unified course.
 
@@ -104,33 +110,33 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
             interactively or include projects.
     -   There are Newhouse courses that focus on digital
         journalism.
-        -   These courses cover the basics of creating online
-        publications that incorporate data using GitHub.
-    -   EDA concepts are integrated into some aspects of some iSchool courses.
-    
+        -   These courses cover the basics of creating
+            online publications that incorporate data using
+            GitHub.
+    -   EDA concepts are integrated into some aspects of
+        some iSchool courses.
+
 <br>
 
 -   This course may be open to interested students from
     other colleges on campus **IF** they have:
-    
-    - intermediate above coding skills.
-    - prerequisite statistics coursework.
+
+    -   intermediate above coding skills.
+    -   prerequisite statistics coursework.
 
 ### Column {width="35%"}
 
 #### Row
 
-::: {.img-center}
+::: img-center
 ![](img/whitman.png)
 :::
 
 #### Row
 
-::: {.img-center}
+::: img-center
 ![](img/su_main.png)
 :::
-
-
 
 # Overview
 
@@ -138,30 +144,40 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 ### Column {width="50%"}
 
-
-
 **Learning Objectives**
 
-- Upon successful completion of this course, students will be able to:
+-   Upon successful completion of this course, students will
+    be able to:
 
-   - master the fundamentals of GitHub for version control, repository management, and collaborative development.
+    -   master the fundamentals of GitHub for version
+        control, repository management, and collaborative
+        development.
 
-   - apply foundational statistical methods for data exploration and analysis planning.
-   
-   - utilize R and Python for data wrangling, statistical analysis, and interactive data visualization.
-   
-   - create interactive data visualizations to effectively explore and communicate data insights.
+    -   apply foundational statistical methods for data
+        exploration and analysis planning.
 
-   - develop a structured approach to exploratory data analysis, including evidence-based decision-making for analysis plans.
-   - collaborate effectively on data analysis projects using version control.
+    -   utilize R and Python for data wrangling, statistical
+        analysis, and interactive data visualization.
 
-   - present analytical findings and thought processes through GitHub Pages.
+    -   create interactive data visualizations to
+        effectively explore and communicate data insights.
+
+    -   develop a structured approach to exploratory data
+        analysis, including evidence-based decision-making
+        for analysis plans.
+
+    -   collaborate effectively on data analysis projects
+        using version control.
+
+    -   present analytical findings and thought processes
+        through GitHub Pages.
 
 ### Column {width="50%"}
 
 ![](img/syllabus.png)
 
-[**Draft Syllabus**](https://docs.google.com/document/d/1B24TbIr3Pk6pdGDlA8rq1xkbXRAbCbB12U1jHkPvIN0/edit?usp=sharing){target="_blank"}
+[**Draft
+Syllabus**](https://docs.google.com/document/d/1B24TbIr3Pk6pdGDlA8rq1xkbXRAbCbB12U1jHkPvIN0/edit?usp=sharing){target="_blank"}
 
 # Tech Agility
 
@@ -175,56 +191,69 @@ pacman::p_load(pacman,tidyverse, magrittr, tidyquant, ggthemes,
 
 -   Each assignment will be a repository.
 
--   Students will work together on repository projects
-        to learn about version control.
+-   Students will work together on repository projects to
+    learn about version control.
 
--   Students will learn how to format and publish work using Quarto and GitHub together.
+-   Students will learn how to format and publish work using
+    Quarto and GitHub together.
 
--   Students will gain agility with R and/or Python and using AI to facilitate coding skills.
+-   Students will gain agility with R and/or Python and
+    using AI to facilitate coding skills.
 
-    -  As part of this process, students will **ALSO** learn more about AI's limitations, flaws, and hallucinations.
-    
+    -   As part of this process, students will **ALSO**
+        learn more about AI's limitations, flaws, and
+        hallucinations.
+
 <br>
 
-**Students will combine these skills to create interactive website dashboards (like this one).**
-    
+**Students will combine these skills to create interactive
+website dashboards (like this one).**
+
 <br>
-    
-**[Positron IDE](https://positron.posit.co/){target="_blank"}** is compatible with R and Python and is integrated with Copilot 
-    
+
+[**Positron
+IDE**](https://positron.posit.co/){target="_blank"} is
+compatible with R and Python and is integrated with Copilot
+
 ### Column {width="50%"}
 
 ![](img/Slide2_GitHub_Graphic.png)
-    
+
 # Quarto Publishing
 
 ## Row
 
 ### Column {width="65%"}
 
-In addition to GitHub and R or Python skills, students will learn to leverage [**Quarto**](https://quarto.org/){target="_blank"}.
+In addition to GitHub and R or Python skills, students will
+learn to leverage
+[**Quarto**](https://quarto.org/){target="_blank"}.
 
 <br>
 
-**Quarto became fully functional in 2024 and can used to create:**
+**Quarto became fully functional in 2024 and can used to
+create:**
 
-  - dashboards.
-  
-  - websites.
-  
-  - books.
-  
-  - reports.
-  
-  - slideshows.
-  
-<br>
-  
-In all of my courses, I create all slides, notes, and assignment files in Quarto (except for Excel skill assignments).
+-   dashboards.
+
+-   websites.
+
+-   books.
+
+-   reports.
+
+-   slideshows.
 
 <br>
 
-**Students will create websites and documentation in Quarto files maintained in GitHub repositories.**
+In all of my courses, I create all slides, notes, and
+assignment files in Quarto (except for Excel skill
+assignments).
+
+<br>
+
+**Students will create websites and documentation in Quarto
+files maintained in GitHub repositories.**
 
 ### Column {width="35%"}
 
@@ -237,9 +266,10 @@ In all of my courses, I create all slides, notes, and assignment files in Quarto
 ### Column {width="50%"}
 
 **Overarching goal of this course is to teach students how
-    to use these tools explore unfamiliar data to:**
+to use these tools explore unfamiliar data to:**
 
--   translate 'client questions' into analytical questions and hypotheses.
+-   translate 'client questions' into analytical questions
+    and hypotheses.
 
 -   examine data interactively and modify as needed.
 
@@ -248,13 +278,14 @@ In all of my courses, I create all slides, notes, and assignment files in Quarto
 -   visualize and analyze data to test hypotheses.
 
 -   develop and communicate conclusions interactively.
-    
-While students do this they will ALSO be building their GitHub repositories.
+
+While students do this they will ALSO be building their
+GitHub repositories.
 
 <br>
 
-**Public GitHub repositories serve as industry standard public portfolios for analytics professionals.**
-    
+**Public GitHub repositories serve as industry standard
+public portfolios for analytics professionals.**
 
 ### Column {width="50%"}
 
@@ -268,31 +299,33 @@ While students do this they will ALSO be building their GitHub repositories.
 
 ![](img/Box_Office_Mojo_Screenshot_2025.png)
 
-
-### Column {width="50%"} 
+### Column {width="50%"}
 
 **Questions**
 
-- Has in-person sustained demand for movies changed due to the pandemic?
+-   Has in-person sustained demand for movies changed due to
+    the pandemic?
 
-- Does this change differ by movie distributor?
+-   Does this change differ by movie distributor?
 
 **Data**
 
-- Data were aggregated from Box Office Mojo and filtered to six largest U.S. distributors from 2016 to 2025.
+-   Data were aggregated from Box Office Mojo and filtered
+    to six largest U.S. distributors from 2016 to 2025.
 
-- Response is Sustained Demand Index (SDI) for each movie.
+-   Response is Sustained Demand Index (SDI) for each movie.
 
 $$
 SDI = \frac{\text{Total US Gross}}{\text{Number of Theaters at Widest Release}}
 $$
 
-   - SDI is equivalent to average revenue per theater for each movie.
-  
+-   SDI is equivalent to average revenue per theater for
+    each movie.
+
 <br>
 
-[Box Office Mojo](https://www.boxofficemojo.com/year/2025/?ref_=bo_yl_table_2){target="_blank"}
-
+[Box Office
+Mojo](https://www.boxofficemojo.com/year/2025/?ref_=bo_yl_table_2){target="_blank"}
 
 # Interactive Exploratory Plots
 
@@ -443,7 +476,6 @@ highchart(type = "stock") |>
 
 ### Column {width="70%"}
 
-
 ```{r }
 
 top_all_6distrib_plt <- top_all_6distrib |>
@@ -483,7 +515,8 @@ top_all_6distrib_plt <- top_all_6distrib |>
 
 ### Column {width="30%"}
 
-A static bar plot is helpful for directly comparing pre and post-pandemic periods by distributor and quarter.
+A static bar plot is helpful for directly comparing pre and
+post-pandemic periods by distributor and quarter.
 
 # Interactive Bar Plot
 
@@ -500,9 +533,11 @@ plotly::ggplotly(barplot_gg, tooltip = c("x", "y", "fill"))
 
 ### Column {width="30%"}
 
-The same bar plot can be converted to an interactive display for a more granular examination.
+The same bar plot can be converted to an interactive display
+for a more granular examination.
 
-These two displays together indicate that an analysis of variance would be warranted.
+These two displays together indicate that an analysis of
+variance would be warranted.
 
 # ANOVA
 
@@ -535,13 +570,21 @@ aov_smry_tbl |>
 
 **Preliminary Interpretation**
 
-- LN (natural log) transformation was used to normalize the response.
+-   LN (natural log) transformation was used to normalize
+    the response.
 
-- There are significant differences between distributors (p-value < 0.0001) and those differences are not consistent pre and post-pandemic (p-value = 0.001).
+-   There are significant differences between distributors
+    (p-value \< 0.0001) and those differences are not
+    consistent pre and post-pandemic (p-value = 0.001).
 
-- There are also differences between quarters (p-value = 0.03) but the variability between quarters is consistent pre- and post pandemic (p-value = 0.42) and consistent among distributors in both periods (p-value = 0.58).
+-   There are also differences between quarters (p-value =
+    0.03) but the variability between quarters is consistent
+    pre- and post pandemic (p-value = 0.42) and consistent
+    among distributors in both periods (p-value = 0.58).
 
-- There is suggestive evidence of differences between distributors among the four quarters that warrants further investigation (p-value = 0.0968).
+-   There is suggestive evidence of differences between
+    distributors among the four quarters that warrants
+    further investigation (p-value = 0.0968).
 
 # Next Steps
 
@@ -549,25 +592,30 @@ aov_smry_tbl |>
 
 ### Column {width="50%"}
 
-**This is a quick demonstration. In a classroom setting, students will be asked to follow through with:**
+**This is a quick demonstration. In a classroom setting,
+students will be asked to follow through with:**
 
-  - careful use of group means comparisons.
-  
-  - additional plots to highlight specific findings.
-  
-  - consideration of how to augment data to ask follow up questions.
-  
-  - clearly communicating findings and a follow up analysis plan.
-  
+-   careful use of group means comparisons.
+
+-   additional plots to highlight specific findings.
+
+-   consideration of how to augment data to ask follow up
+    questions.
+
+-   clearly communicating findings and a follow up analysis
+    plan.
+
 <br>
-  
-**Students will iterate through the analytics/visualization/communication process to refine conclusions and present them effectively.**
-  
+
+**Students will iterate through the
+analytics/visualization/communication process to refine
+conclusions and present them effectively.**
+
 ### Column {width="50%"}
-  
+
 ![](img/data_project_flow_chart.png)
 
-# Thank you 
+# Thank you
 
 ## Row
 
@@ -577,21 +625,28 @@ aov_smry_tbl |>
 
 **Thank you to:**
 
-- the Teaching Committee for the Curriculum and Innovation Grant to develop this course.
-  
-- the Whitman School of Management for continued support of the Business Analytics major.
-  
-- my colleagues and my students who consistently inspire me with thoughtful questions and ideas. 
-  
+-   the Teaching Committee for the Curriculum and Innovation
+    Grant to develop this course.
+
+-   the Whitman School of Management for continued support
+    of the Business Analytics major.
+
+-   my colleagues and my students who consistently inspire
+    me with thoughtful questions and ideas.
+
 #### Row
 
 **Software Resources and Data:**
 
-- This dashboard was created using [Quarto](https://quarto.org/) in [RStudio](https://posit.co/), and the [R Language and Environment](https://cran.r-project.org/).
+-   This dashboard was created using
+    [Quarto](https://quarto.org/) in
+    [RStudio](https://posit.co/), and the [R Language and
+    Environment](https://cran.r-project.org/).
 
-- The datasets used to create the teaching example were aggregated from [Box Office Mojo](https://www.boxofficemojo.com/){target="_blank"} 
+-   The datasets used to create the teaching example were
+    aggregated from [Box Office
+    Mojo](https://www.boxofficemojo.com/){target="_blank"}
 
 ### Column {width="50%"}
 
 ![](img/thankyou.png)
-
