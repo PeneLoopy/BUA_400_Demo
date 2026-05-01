@@ -52,14 +52,15 @@ jobs:
         with:
           cache-version: 1
 
-      - name: Activate renv
-        run: echo "source('renv/activate.R')" >> ~/.Rprofile
+      - name: Find Rscript
+        run: echo "RSCRIPT_PATH=$(which Rscript)" >> $GITHUB_ENV
 
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
           target: gh-pages
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          QUARTO_R: ${{ env.RSCRIPT_PATH }}
           RENV_PROJECT: ${{ github.workspace }}
           RENV_PATHS_ROOT: ~/.local/share/renv
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
